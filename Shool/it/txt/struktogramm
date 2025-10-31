@@ -1,0 +1,6 @@
+Rechteck
+	Eingabe: a
+	Eingabe: b
+	Umfang: a+a+b+b
+	flaeche= a*b
+	Ausgabe:Umfang,Flaeche

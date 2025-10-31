@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "4aad0630f8a4fe78",
+    "type": "split",
+    "children": [
+      {
+        "id": "d178623f21088602",
+        "type": "tabs",
+        "dimension": 61.73076923076924,
+        "children": [
+          {
+            "id": "c3ff05a830c3be55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sprache als Medium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprache als Medium"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b5a78f93bc28f8e9",
+        "type": "tabs",
+        "dimension": 38.26923076923077,
+        "children": [
+          {
+            "id": "1774007e14966a7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sprache als Medium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprache als Medium"
+            }
+          },
+          {
+            "id": "bd24bbfad75dcf7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karikatur - Beschreiben.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Karikatur - Beschreiben"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7dec17789a525ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a7185b22a58875b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85c196c4a155cbae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d8b8cfa108768149",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a17ac2f79ecefa9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9519b129f0a352b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd13a4bdb093d0db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6b484a672a9865b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Karikatur - Beschreiben.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Karikatur - Beschreiben"
+            }
+          },
+          {
+            "id": "6c2d9311fda5d045",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Deutsch - Erfahrungen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Deutsch - Erfahrungen"
+            }
+          },
+          {
+            "id": "ef99c0f7c0683e20",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ff7cdfefb048e2d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Deutsch - Erfahrungen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Deutsch - Erfahrungen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c3ff05a830c3be55",
+  "lastOpenFiles": [
+    "images/quellen/quellen.txt",
+    "images/quellen",
+    "images/Sender-Empfaemger-Modell.fw_-3649212335.png",
+    "images",
+    "Karikatur - Beschreiben.md",
+    "Sprache als Medium.md",
+    "Deutsch - Erfahrungen.md"
+  ]
+}

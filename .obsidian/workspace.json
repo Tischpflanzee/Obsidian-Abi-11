@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "6f5298dcdaf6bcc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa178c03d6303cd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74783fd9ac1921da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Psychologie/Träume/Träume.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Träume"
+            }
+          },
+          {
+            "id": "4859fa1810b1adb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Psychologie/Träume/Oneirology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oneirology"
+            }
+          },
+          {
+            "id": "2a0cf48f5adc126c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e4dc5101b5c056a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Programmierung/Java/Variablen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variablen"
+            }
+          },
+          {
+            "id": "db432061eb27590f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Programmierung/Java/Operatoren.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operatoren"
+            }
+          },
+          {
+            "id": "1208cae68bd75e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shool/itgk/Präsentation/Was ist eine Rastergrafik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Was ist eine Rastergrafik"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fde1794f4028fb43",
+    "type": "split",
+    "children": [
+      {
+        "id": "214ae3eaaf90a2db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3b34ff6bfa08b01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fceff717cf99f759",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9e11b389866a5d50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb3b08c1845a19fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c24f0761aef0c611",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a27c76f778e4f46a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3003ee41eba5dde3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "278bdb48eeb634ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "84ebdd587963e1cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1208cae68bd75e5c",
+  "lastOpenFiles": [
+    "Shool/TO DO.md",
+    "Shool/chemie/Tabelle vergleich von verschiedenen Stoffen.md",
+    "Shool/chemie/Periodensystem.md",
+    "Shool/chemie/Modelle.md",
+    "Shool/chemie/Chemiches Dreieck.md",
+    "Shool/chemie/2025-09-30-Chemische bindungen.md",
+    "Personal/Programmierung/Java/Speial chareckters.md",
+    "Personal/Programmierung/Java/Operatoren.md",
+    "Personal/Programmierung/Java/Variablen.md",
+    "Personal/Programmierung/Untitled.md",
+    "Personal/Programmierung/Java",
+    "Personal/Programmierung",
+    "Personal/Psychologie/Träume/Träume.md",
+    "Personal/Psychologie/Träume/Oneirology.md",
+    "Personal/Psychologie/Träume/Schlafphasen.md",
+    "Personal/Psychologie/Träume",
+    "Untitled.canvas",
+    "2025-10-06.md",
+    "Personal/Psychologie",
+    "Personal",
+    "Shool/deutsch/pdfs/Ein netter Kerl - Kurzgeschichte mit Aufgabenstellung.pdf",
+    "Shool/deutsch/Themen/Sprache_als_medium/2025-10-01-Ein-netter-Kerl-analyse.md",
+    "Shool/deutsch/pdfs/faszinieren-powerpoint-hintergrund-vorlagen-bewundernswerte-von-powerpoint-hintergrund-vorlagen-508191327.jpg",
+    "Shool/deutsch/Themen/Sprache_als_medium/2025-09-08-Dramadreieck.md",
+    "Shool/deutsch/Themen/Sprache_als_medium/Sprache als Medium (mindmap).md",
+    "Shool/deutsch/Themen/Sprache_als_medium/2025-09-29-Inhaltsangabe-Ein-netter-Kerl.md",
+    "Shool/deutsch/Themen/Sprache_als_medium/Karikatur - Beschreiben.md",
+    "Shool/deutsch/Themen/Sprache_als_medium/2025-09-10-Das Vier Seiten Modell der Kommunikation.md",
+    "Shool/deutsch/Themen/Sprache_als_medium/Watzlawwick.md",
+    "Shool/deutsch/pdfs/Loriot.pdf",
+    "Shool/deutsch/pdfs/Sprachexperiment Fachsprache.pdf",
+    "Shool/spanisch/1_Fragen - preguntars.md",
+    "Shool/spanisch/Hörverstehen.md",
+    "Shool/spanisch/Einen Freund vorstellen.md",
+    "Shool/spanisch/2025-18-09-Mehrzahl-Einzahl.md",
+    "Shool/spanisch/2025-09-24-Üben.md",
+    "Shool/itgk/Präsentation/bilder/Kreis_reingez grdnojf.png",
+    "Shool/itgk/Präsentation/bilder/Kreis.png",
+    "Shool/itgk/Präsentation/bilder/gimp/Untitled.xcf",
+    "Shool/itgk/Präsentation/bilder/gimp"
+  ]
+}
