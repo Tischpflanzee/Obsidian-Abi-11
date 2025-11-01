@@ -28,3 +28,5 @@ Der bergriff Zoon Politikon handelt von der Bestimmung des Menschen als *"sozial
 
 #powi 
 #Shool
+#Shool
+#powi

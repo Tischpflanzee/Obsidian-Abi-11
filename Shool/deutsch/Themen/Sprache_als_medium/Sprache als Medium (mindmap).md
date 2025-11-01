@@ -42,6 +42,7 @@ Das Sender-Empfänger Prinzip
 
 ![[Sender-Empfaemger-Modell.fw_-3649212335.png]]
 
-#deutsch #sprache-als-medium #sender-Empfänger-Prinzip  #themenanfang
+#deutsch #sprache-als-medium #sender-Empfänger-Prinzip  
 #Shool
 #deutsch
+#Shool

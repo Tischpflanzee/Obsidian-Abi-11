@@ -22,3 +22,4 @@ Ram : 16GB
 
 ![[Screenshot_20250902_210105.png]]
 #Shool
+#Shool

@@ -16,3 +16,4 @@ das Ergebnis ist deterministisch da am ende nur noch ein Kirch Bonbon übrig ble
 
 ![[01_Algorithmus.pdf]]
 #Shool
+#Shool

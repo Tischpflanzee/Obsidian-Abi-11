@@ -31,4 +31,3 @@ Mit dem Periodensystem sehen die chemiker die grundelemente
 
 #chemie #periodensystem #
 #Shool
-#chemie

@@ -7,3 +7,4 @@ Bauch - Bauch
 Hamstrings (obere beine) beinbeuger, Beinstrecker *bein presse*
 Waden - Wadenpresse 
 #gym
+#Personal

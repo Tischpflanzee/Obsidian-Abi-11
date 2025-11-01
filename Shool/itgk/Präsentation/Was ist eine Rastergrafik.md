@@ -1,7 +1,7 @@
 tags: #präsentation #rastergrafiken
 # Eigenschaften  
--die meisten digitalen BIlder sind Rastergrafiken.
-- Bilder werden in ein Pixelraster gespeichert, das überlicherweise als Bitmap bzw. Bitmap-grafik bezeichent wird 
+-die meisten digitalen Bilder sind Rastergrafiken.
+- Bilder werden in ein Pixelraster gespeichert, das überlicherweise als Bitmap bzw. Bitmap-Grafik bezeichent wird 
 ## Kompremierung
 -Da Rastergrafiken so viel informationen spreichern gibt es Kompressionsalgorithmen  z.B: Png JPEG GIF [Unkompremirte Dateiformate](https://unlimited.ethz.ch/spaces/DD/pages/194127898/Archivtaugliche+Dateiformate)
 -Beim runterskalieren verliehren Rastergraffiken kein qualität. Aber beim hochskalieren verliehrt ein BItmap-bild an Qualität bzw. erscheint das bild unscharf. 
@@ -17,7 +17,7 @@ Heutige Computerbildschirme werden ausschlislich über Rastergrafik, die im [Fra
 Nachteile gegenüber vektorgrafiken;
 - Hoher speicher verbrauch 
 	- Da rastergrafiken nur aus einer begrenzten Anzahl von Pixeln bestehen, werden zweidimensionale geometrische Formen nur angenähert. Dabei enstehen wie z.b bei einem kreis ein Treppeneffekt (auch aliaseffekt)
-		- Es gibt ein [Antialiasing](https://de.wikipedia.org/wiki/Antialiasing_(Computergrafik))  wo pixel abgerundert werden (glaube ich)
+		- Es gibt ein [Antialiasing](https://de.wikipedia.org/wiki/Antialiasing_(Computergrafik))  wo pixel abgerundert werden (glaube ich)4[[Antiallising]]
 	- Es können informationen bei der Runterskalierung 
 
 # Umwandlungen 
@@ -28,6 +28,17 @@ Rasterung: Umwandlung von vektorgrafiken in Rastergrafiken
 	- Funktion Trace Bitmap von Inkspace, Potrace; oft vehlerhaft da grafische Primitve (Greaden,Kreise oder Kurven) in der Rastergrafik nur ungenau abgebildet werden und nicht exact erkannt.
 		- Probleme enstehen vorallem x^
 ![[Kreis_reingez grdnojf.png]]
+
+# Image resolution
+Des so höher die auflösung desto mehr details hat das Bild.
+|-> das trifft auf digitale bilder filme und andere typen von Bildern.
+Die auflösung ist in: Breite x Höhe angegeben
+## Einordnung
+Die Auflösung ist in der Praxis mehrdeutig und in vielen Bereichen verwendet, wodurch eszu Missverständnissen kommen kann.
+Im physikalischen Sinn bezeichnet die Punktdichte einer Wiedergabe oder Bildabtastung und ist damit neben der Farbtiefe ein Maß für die Qualität 
+
+[Quelle](https://de.wikipedia.org/wiki/Bildaufl%C3%B6sung)
+
 
 # Nochmal angucken !!!!
 

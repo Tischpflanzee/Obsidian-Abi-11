@@ -64,3 +64,4 @@ https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm
 
 #Zahlensysteme #itgk 
 #Shool
+#Shool

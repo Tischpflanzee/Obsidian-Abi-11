@@ -18,3 +18,4 @@ Die Karikatur zeigt die verschieden arten sich auszudrücken. Und das es sehr vi
 #deutsch #karikatur #sprache-als-medium #beschreiben
 #Shool
 #deutsch
+#Shool

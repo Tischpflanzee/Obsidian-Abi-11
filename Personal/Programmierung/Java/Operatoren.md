@@ -25,3 +25,5 @@ x-= 3 >> ...
 
 #Java
 #Programmierung
+
+#Personal

@@ -127,3 +127,4 @@ besteht aus 47byte da absätze zwei bit groß sind
 
 ![[Screenshot_20250923_124523.png]]
 #Shool
+#Shool

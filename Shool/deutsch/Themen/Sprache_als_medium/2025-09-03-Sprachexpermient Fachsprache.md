@@ -11,3 +11,4 @@ Es ist sehr gut gelungen da wir Fachsprache benutz haben und kurze und fragen un
 #sprache-als-medium #deutsch
 #Shool
 #deutsch
+#Shool

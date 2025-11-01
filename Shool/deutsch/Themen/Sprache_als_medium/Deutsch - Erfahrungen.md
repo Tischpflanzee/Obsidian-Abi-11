@@ -7,3 +7,4 @@ Ich habe schlechte Rechtschreibung wodurch mir Diktate extrem schwer gefallen si
 
 #Shool
 #deutsch
+#Shool

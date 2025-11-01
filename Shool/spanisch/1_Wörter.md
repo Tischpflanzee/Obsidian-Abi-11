@@ -56,3 +56,4 @@ quedar - bleiben
 comprar - kaufen
 #spanischewörter #vokabeln #spanisch 
 #Shool
+#Shool

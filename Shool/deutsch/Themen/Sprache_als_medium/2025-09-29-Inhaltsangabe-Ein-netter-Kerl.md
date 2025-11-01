@@ -11,3 +11,4 @@ Rita  sitzt mit ihren zwei Schwestern Nanni und Milene und ihrer Mutter am Essti
 ![[deutsch/pdfs/Ein netter Kerl - Kurzgeschichte mit Aufgabenstellung.pdf]]
 #Shool
 #deutsch
+#Shool

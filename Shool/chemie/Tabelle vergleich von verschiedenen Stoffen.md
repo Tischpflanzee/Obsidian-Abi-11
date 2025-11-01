@@ -26,3 +26,4 @@ Agregazustand bei zimmertemperartur
 #periodensystem #chemie #shool
 #Shool
 #chemie
+#Shool

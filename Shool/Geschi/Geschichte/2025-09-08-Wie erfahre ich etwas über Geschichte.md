@@ -8,3 +8,5 @@ Es wichtig damit mann weiß wie man das als quelle unterscheiden.
 ![[2_AB_Traditionen-Überreste_annotated.pdf]]
 #Shool
 #Geschi
+#Shool
+#Geschi

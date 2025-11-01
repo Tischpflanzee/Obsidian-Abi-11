@@ -1,4 +1,4 @@
-  ## Signal arten
+ ## Signal arten
 -Ein Signal steht für eine Information bzw. Daten
 ### Analoge Signale 
 Sind stetig veränderbar 
@@ -36,7 +36,7 @@ Zeichen sind element zur Darstellung oder Beschreibung von Daten. Die Bedeutung 
 Unter einem Zeichenvorrat besteht aus einem Vorrat an Elementen, Zeichen genannt aus denen Zeichenketten zusammengestellt lassen. Solche Elemente können Buchstaben, Ziffern aber auch Symbole sein. 
 vom Prinzip her wäre das hier ein Zeichensatz:
 ![[ASCII_full.svg.png]]
-#### Alphabet 
+#### Alphabet (Zeichenvolge)
 Ein Alphabet ist eine endliche menge. Oft wir auch verlangt das die menge nicht leer ist. Die Elemente eines Alphabetes werde als Buchstaben, Symbole oder Zeichen bezeichnet. Alpahbete bestehen aus Zeichen Sätze 
 ### 1c
 Das liegt daran dass jeweils drei Byte zu einer Oktalzahl zusammen gefasst werden. Das passt aber nicht mehr zu heutigen Computer Architektur. Das Oktalsystem war nämlich 3bit basiert. Heutige Computer basieren aber auf 8-Bit, 16-Bit, 32-Bit
@@ -66,4 +66,5 @@ https://wirtschaftslexikon.gabler.de/definition/zeichen-50624
 
 
 #basicsitgk #itgk #signale 
+#Shool
 #Shool

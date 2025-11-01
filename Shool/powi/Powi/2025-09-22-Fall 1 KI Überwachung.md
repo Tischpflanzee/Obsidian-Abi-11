@@ -16,3 +16,5 @@ quelle https://digitale-transformation-weiterbildung.ch/digitalisierung-lexikon/
 ![[AA-Fall1-KI-Ueberwachung.pdf]]
 #powi #ki 
 #Shool
+#Shool
+#powi
