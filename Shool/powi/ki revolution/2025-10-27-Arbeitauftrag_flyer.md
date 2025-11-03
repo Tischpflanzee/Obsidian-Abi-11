@@ -1,7 +1,7 @@
 # Aufgabenstellung 
 Analyse wegen Auswirkungen und Herausforderungen im zusammenhang KI
 EU weite Ziele ermitteln
-Empfhelungen für das weiter vorgehen 
+Empfehlungen für das weiter vorgehen 
 
 
 ## 1. Hauptziele bei der KI-Einführung
@@ -18,7 +18,7 @@ KI sollte eingeführt werden indem vor Verzerrungen gewarnt wird und die Richte 
 			|-> vorallem bei kritichen Parametern wie in das Geschlecht(in Biologiechen |Themen)
 		|-> Vorallem große datensätze kann die KI schnell und Effizient auswerten 
 	|-> es muss bei KI lösungen experimentell überprüft werden, da es zu Fehlern kommen |kann
-	|-> KI soll zu **Unterstütung benutz werden** 
+	|-> KI soll zu **Unterstütung vom Arbeitsprozes benutz werden** 
 KI modelle Nach zuverlässigkeit bewerten 
 
 

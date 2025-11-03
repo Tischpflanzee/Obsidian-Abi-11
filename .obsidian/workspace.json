@@ -8,73 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74783fd9ac1921da",
+            "id": "81e6b2e08a730262",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Psychologie/Träume/Träume.md",
+                "file": "Shool/Geschi/brd & ddr/2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Träume"
-            }
-          },
-          {
-            "id": "4859fa1810b1adb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Psychologie/Träume/Oneirology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Oneirology"
-            }
-          },
-          {
-            "id": "2a0cf48f5adc126c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "e4dc5101b5c056a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Programmierung/Java/Variablen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Variablen"
-            }
-          },
-          {
-            "id": "db432061eb27590f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Psychologie/Träume/Schlafphasen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Schlafphasen"
+              "title": "2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,47 +167,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db432061eb27590f",
+  "active": "81e6b2e08a730262",
   "lastOpenFiles": [
-    "Pasted image 20251028120354.png",
-    "Personal/Psychologie/Träume/Schlafphasen.md",
+    "Shool/Geschi/brd & ddr/pdfs/1_11BG_Deutsch-Deutsche-Teilung_Basistext.pdf",
+    "Shool/Geschi/brd & ddr/pdfs/x/1_11BG_Deutsch-Deutsche-Teilung_Basistext.xopp",
+    "Shool/Geschi/brd & ddr/pdfs/x",
+    "Shool/Geschi/brd & ddr/2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten.md",
+    "Personal/Psychologie/Träume/Träume.md",
+    "Shool/powi/ki revolution/2025-10-27-Arbeitauftrag_flyer.md",
+    "Shool/powi/ki revolution/2025-10-20-Künstliche Intelligenz und Forschung   -> Die Perspektive der Wissenschaft.md",
+    "Shool/powi/Powi/Akteure.md",
     "Personal/Psychologie/Träume/Oneirology.md",
+    "Shool/deutsch/Themen/Corpus Delectiy/2025-10-27-Arbeitsplan.md",
+    "Personal/Programmierung/Java/Speial chareckters.md",
+    "Shool/deutsch/Themen/Sprache_als_medium/Übungen.md",
+    "Shool/spanisch/2025-10-12-Text Koriegrieren und so.md",
+    "Shool/deutsch/Themen/Corpus Delectiy/2025-10-29-Arbeitsplan.md",
+    "Shool/Reli/2025-10-24-Wörter.md",
+    "Shool/spanisch/2025-10-29.md",
+    "Shool/englisch/2025-10-24-Cong bbc.md",
+    "Shool/chemie/2025-09-30-Chemische bindungen.md",
+    "Shool/chemie/PDF/AB_EXP_Magnesiumoxid-Synthese.pdf",
+    "Shool/chemie/PDF/AB_EXP_Magnesiumoxid-Synthese_kommentiert.pdf",
+    "Shool/chemie/PDF/xorunal ++/AB_EXP_Magnesiumoxid-Synthese.xopp~",
+    "Personal/Psychologie/Träume/Schlafphasen.md",
+    "Pasted image 20251028120354.png",
     "Shool/itgk/Präsentation/Was ist eine Rastergrafik.md",
     "Shool/TO DO.md",
     "Shool/chemie/Tabelle vergleich von verschiedenen Stoffen.md",
     "Shool/chemie/Periodensystem.md",
     "Shool/chemie/Modelle.md",
     "Shool/chemie/Chemiches Dreieck.md",
-    "Shool/chemie/2025-09-30-Chemische bindungen.md",
-    "Personal/Programmierung/Java/Speial chareckters.md",
     "Personal/Programmierung/Java/Operatoren.md",
     "Personal/Programmierung/Java/Variablen.md",
     "Personal/Programmierung/Untitled.md",
     "Personal/Programmierung/Java",
     "Personal/Programmierung",
-    "Personal/Psychologie/Träume/Träume.md",
     "Personal/Psychologie/Träume",
     "Untitled.canvas",
-    "2025-10-06.md",
     "Personal/Psychologie",
     "Personal",
-    "Shool/deutsch/pdfs/Ein netter Kerl - Kurzgeschichte mit Aufgabenstellung.pdf",
-    "Shool/deutsch/Themen/Sprache_als_medium/2025-10-01-Ein-netter-Kerl-analyse.md",
     "Shool/deutsch/pdfs/faszinieren-powerpoint-hintergrund-vorlagen-bewundernswerte-von-powerpoint-hintergrund-vorlagen-508191327.jpg",
-    "Shool/deutsch/Themen/Sprache_als_medium/2025-09-08-Dramadreieck.md",
-    "Shool/deutsch/Themen/Sprache_als_medium/Sprache als Medium (mindmap).md",
-    "Shool/deutsch/Themen/Sprache_als_medium/2025-09-29-Inhaltsangabe-Ein-netter-Kerl.md",
-    "Shool/deutsch/Themen/Sprache_als_medium/Karikatur - Beschreiben.md",
-    "Shool/deutsch/Themen/Sprache_als_medium/2025-09-10-Das Vier Seiten Modell der Kommunikation.md",
-    "Shool/deutsch/Themen/Sprache_als_medium/Watzlawwick.md",
-    "Shool/deutsch/pdfs/Loriot.pdf",
-    "Shool/deutsch/pdfs/Sprachexperiment Fachsprache.pdf",
-    "Shool/spanisch/1_Fragen - preguntars.md",
-    "Shool/spanisch/Hörverstehen.md",
-    "Shool/spanisch/Einen Freund vorstellen.md",
     "Shool/itgk/Präsentation/bilder/Kreis_reingez grdnojf.png",
-    "Shool/itgk/Präsentation/bilder/Kreis.png",
-    "Shool/itgk/Präsentation/bilder/gimp/Untitled.xcf",
-    "Shool/itgk/Präsentation/bilder/gimp"
+    "Shool/itgk/Präsentation/bilder/Kreis.png"
   ]
 }

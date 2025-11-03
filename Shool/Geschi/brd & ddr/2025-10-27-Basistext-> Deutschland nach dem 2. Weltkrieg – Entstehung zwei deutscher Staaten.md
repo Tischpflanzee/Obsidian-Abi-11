@@ -31,6 +31,11 @@ Trozt vereinbarungen Traten Spannungen zwichen den Aliierten auf wegen unterschi
 
 
 
+| Aspekte                   | Beschreibung                                                                                                                                                   | Warum Wichtig? |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Ziele der <br>Sowjetunion | -sozialistisches System (ökonomische Gleichheit in der Gesellschaft, keine Klassenunterschiede ---> Chancengleichheit,<br>-Ausdehnung des politischen Einfluss |                |
+|                           |                                                                                                                                                                |                |
+
 
 
 
