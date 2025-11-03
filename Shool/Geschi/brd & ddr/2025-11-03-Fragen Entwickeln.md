@@ -19,4 +19,4 @@ Was ist mit Gegnern des Systems geschehen?
 	7. Ja ist sie 
 	
 	
-	8. Ja….
+	8. Ja….git 

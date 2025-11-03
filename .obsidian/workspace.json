@@ -8,47 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81e6b2e08a730262",
+            "id": "718ab71706de7798",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/Geschi/brd & ddr/2025-10-27,2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten.md",
+                "file": "Shool/powi/ki revolution/2025-10-27-Arbeitauftrag_flyer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-27,2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten"
+              "title": "2025-10-27-Arbeitauftrag_flyer"
             }
           },
           {
-            "id": "3913ba3b199e0b68",
+            "id": "73a1b0f2b5d969ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/Geschi/brd & ddr/2025-11-03-Fragen Entwickeln.md",
+                "file": "Shool/powi/ki revolution/2025-10-20-Künstliche Intelligenz und Forschung   -> Die Perspektive der Wissenschaft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-03-Fragen Entwickeln"
-            }
-          },
-          {
-            "id": "1e0dc61be6840370",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Shool/Geschi/brd & ddr/pdfs/1_11BG_Deutsch-Deutsche-Teilung_Basistext_kommentiert.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1_11BG_Deutsch-Deutsche-Teilung_Basistext_kommentiert"
+              "title": "2025-10-20-Künstliche Intelligenz und Forschung   -> Die Perspektive der Wissenschaft"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,21 +183,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3913ba3b199e0b68",
+  "active": "718ab71706de7798",
   "lastOpenFiles": [
-    "Shool/Geschi/brd & ddr/2025-10-27,2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten.md",
-    "Shool/Geschi/brd & ddr/2025-11-03-Fragen Entwickeln.md",
-    "Shool/Geschi/brd & ddr/pdfs/x/2_Fragen entwicklen_Geschichte BRD-DDR.pdf",
+    "Shool/powi/ki revolution/2025-10-20-Künstliche Intelligenz und Forschung   -> Die Perspektive der Wissenschaft.md",
+    "Shool/powi/ki revolution/2025-10-27-Arbeitauftrag_flyer.md",
+    "Shool/powi/ki revolution/2025-09-08-1-Wandel-Internet.md",
+    "Shool/powi/Powi/Akteure.md",
     "Shool/Geschi/brd & ddr/pdfs/1_11BG_Deutsch-Deutsche-Teilung_Basistext_kommentiert.pdf",
+    "Shool/Geschi/brd & ddr/2025-11-03-Fragen Entwickeln.md",
+    "Shool/Geschi/brd & ddr/2025-10-27,2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten.md",
+    "Shool/Geschi/brd & ddr/pdfs/x/2_Fragen entwicklen_Geschichte BRD-DDR.pdf",
     "Shool/TO DO.md",
     "Shool/Geschi/brd & ddr/pdfs/x/1_11BG_Deutsch-Deutsche-Teilung_Basistext.xopp~",
     "Shool/Geschi/brd & ddr/pdfs/1_11BG_Deutsch-Deutsche-Teilung_Basistext.pdf",
     "Shool/Geschi/brd & ddr/pdfs/x/1_11BG_Deutsch-Deutsche-Teilung_Basistext.xopp",
     "Shool/Geschi/brd & ddr/pdfs/x",
     "Personal/Psychologie/Träume/Träume.md",
-    "Shool/powi/ki revolution/2025-10-27-Arbeitauftrag_flyer.md",
-    "Shool/powi/ki revolution/2025-10-20-Künstliche Intelligenz und Forschung   -> Die Perspektive der Wissenschaft.md",
-    "Shool/powi/Powi/Akteure.md",
     "Personal/Psychologie/Träume/Oneirology.md",
     "Shool/deutsch/Themen/Corpus Delectiy/2025-10-27-Arbeitsplan.md",
     "Personal/Programmierung/Java/Speial chareckters.md",
@@ -233,7 +221,6 @@
     "Shool/chemie/Chemiches Dreieck.md",
     "Personal/Programmierung/Java/Operatoren.md",
     "Personal/Programmierung/Java/Variablen.md",
-    "Personal/Programmierung/Untitled.md",
     "Personal/Programmierung/Java",
     "Untitled.canvas",
     "Shool/deutsch/pdfs/faszinieren-powerpoint-hintergrund-vorlagen-bewundernswerte-von-powerpoint-hintergrund-vorlagen-508191327.jpg",
