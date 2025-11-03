@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/Geschi/brd & ddr/2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten.md",
+                "file": "Shool/Geschi/brd & ddr/2025-10-27,2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten"
+              "title": "2025-10-27,2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten"
+            }
+          },
+          {
+            "id": "1e0dc61be6840370",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Shool/Geschi/brd & ddr/pdfs/1_11BG_Deutsch-Deutsche-Teilung_Basistext_kommentiert.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1_11BG_Deutsch-Deutsche-Teilung_Basistext_kommentiert"
             }
           }
         ]
@@ -78,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eb3b08c1845a19fc",
@@ -94,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Shool/Geschi/brd & ddr/2025-10-27,2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-10-27,2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten"
             }
           },
           {
@@ -152,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,10 +182,14 @@
   },
   "active": "81e6b2e08a730262",
   "lastOpenFiles": [
+    "Shool/Geschi/brd & ddr/pdfs/x/2_Fragen entwicklen_Geschichte BRD-DDR.pdf",
+    "Shool/Geschi/brd & ddr/pdfs/1_11BG_Deutsch-Deutsche-Teilung_Basistext_kommentiert.pdf",
+    "Shool/Geschi/brd & ddr/2025-10-27,2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten.md",
+    "Shool/TO DO.md",
+    "Shool/Geschi/brd & ddr/pdfs/x/1_11BG_Deutsch-Deutsche-Teilung_Basistext.xopp~",
     "Shool/Geschi/brd & ddr/pdfs/1_11BG_Deutsch-Deutsche-Teilung_Basistext.pdf",
     "Shool/Geschi/brd & ddr/pdfs/x/1_11BG_Deutsch-Deutsche-Teilung_Basistext.xopp",
     "Shool/Geschi/brd & ddr/pdfs/x",
-    "Shool/Geschi/brd & ddr/2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten.md",
     "Personal/Psychologie/Träume/Träume.md",
     "Shool/powi/ki revolution/2025-10-27-Arbeitauftrag_flyer.md",
     "Shool/powi/ki revolution/2025-10-20-Künstliche Intelligenz und Forschung   -> Die Perspektive der Wissenschaft.md",
@@ -193,7 +210,6 @@
     "Personal/Psychologie/Träume/Schlafphasen.md",
     "Pasted image 20251028120354.png",
     "Shool/itgk/Präsentation/Was ist eine Rastergrafik.md",
-    "Shool/TO DO.md",
     "Shool/chemie/Tabelle vergleich von verschiedenen Stoffen.md",
     "Shool/chemie/Periodensystem.md",
     "Shool/chemie/Modelle.md",
@@ -203,10 +219,7 @@
     "Personal/Programmierung/Untitled.md",
     "Personal/Programmierung/Java",
     "Personal/Programmierung",
-    "Personal/Psychologie/Träume",
     "Untitled.canvas",
-    "Personal/Psychologie",
-    "Personal",
     "Shool/deutsch/pdfs/faszinieren-powerpoint-hintergrund-vorlagen-bewundernswerte-von-powerpoint-hintergrund-vorlagen-508191327.jpg",
     "Shool/itgk/Präsentation/bilder/Kreis_reingez grdnojf.png",
     "Shool/itgk/Präsentation/bilder/Kreis.png"

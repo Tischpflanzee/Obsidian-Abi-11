@@ -7,7 +7,7 @@
 
 
 # Bis Montag
-Powi fertig machen (siehe. [[2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten]]) -bin bei seite 2.
+
 # Bis Dienstag
 
 
@@ -19,10 +19,8 @@ Powi fertig machen (siehe. [[2025-10-27-Basistext-> Deutschland nach dem 2. Welt
 
 
 # Bis Freitag
-flyer
-[[2025-10-27-Arbeitauftrag_flyer]]
+
 
 
 # Bis Nach den ferien 
- #Shool
-#Shool
+ 
