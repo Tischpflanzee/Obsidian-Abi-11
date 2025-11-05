@@ -15,3 +15,6 @@ madre = mutter
 padre = Vater
 
 quelle : s. 150
+
+
+![[famila.png]]
