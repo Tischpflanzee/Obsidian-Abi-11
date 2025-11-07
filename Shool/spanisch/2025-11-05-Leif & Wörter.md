@@ -18,3 +18,6 @@ quelle : s. 150
 
 
 ![[famila.png]]
+
+
+#Shool #spanisch #spanischewörter 
