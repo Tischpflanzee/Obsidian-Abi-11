@@ -24,7 +24,7 @@ KI modelle Nach zuverlässigkeit bewerten
 
 # 3. Erwartete Auswirkungen 
 Potenzielle schneller bzw. effizientere Forschung aber auch Potenzielle fehlerhafte forschungen durch keine Überprüfungen Von Fehlern oder Falscher anwendung 
-
+#powi #ki
 
 
 

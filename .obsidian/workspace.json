@@ -4,65 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "02e8f0afec77d928",
+        "id": "119580f0f0a93562",
         "type": "tabs",
         "children": [
           {
-            "id": "5f5e1610ccfa7399",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/Arbeitsplan Corpus Delicti - Teil 1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Arbeitsplan Corpus Delicti - Teil 1"
-            }
-          },
-          {
-            "id": "a1de913a3d56f13d",
+            "id": "5b1eb91b463a6c90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/Reli/2025-10-31-Mehr Wörter.md",
+                "file": "Personal/Hyprland/Hyprland .config file.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-31-Mehr Wörter"
+              "title": "Hyprland .config file"
             }
           },
           {
-            "id": "b3044ebd4656477e",
+            "id": "a9d7421abdc352e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/Reli/2025-11-07-Wörter aus quellen.md",
+                "file": "Shool/Geschi/Präsentation/Was war die Stasi?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-07-Wörter aus quellen"
-            }
-          },
-          {
-            "id": "48352c2a68b63aa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/TO DO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TO DO"
+              "title": "Was war die Stasi?"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eb3b08c1845a19fc",
@@ -209,16 +184,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3044ebd4656477e",
+  "active": "a9d7421abdc352e5",
   "lastOpenFiles": [
+    "Personal/Hyprland/Hyprland .config file.md",
+    "Shool/Geschi/Präsentation/Was war die Stasi?.md",
+    "Shool/Geschi/Präsentation",
+    "Untitled 1.md",
+    "Personal/Hyprland",
+    "Shool/Reli/pdfs/aslan_gott.pdf",
     "Shool/Reli/pdfs/aslan_gott_kommentiert.pdf",
     "Shool/Reli/2025-10-31-Mehr Wörter.md",
     "Shool/Reli/2025-11-07-Wörter aus quellen.md",
+    "Shool/Reli/Religon.md",
+    "Shool/TO DO.md",
+    "Shool/powi/ki revolution/2025-10-27-Arbeitauftrag_flyer.md",
+    "Shool/Reli/pdfs/x/aslan_gott_kommentiert.pdf",
+    "Shool/Reli/2025-10-24-Wörter.md",
     "Shool/Reli/2025-11-07-Klausur.md",
     "Shool/englisch/The English Speaking World/Bildbeschreibung.md",
-    "Shool/Reli/Religon.md",
     "Personal/Q.md",
-    "Shool/TO DO.md",
     "Shool/Reli/pdfs/x/aslan_gott.xopp",
     "Shool/Reli/pdfs/x/aslan_gott.pdf",
     "Shool/Reli/pdfs/x",
@@ -233,21 +217,12 @@
     "Shool/spanisch/1_Wörter.md",
     "Shool/spanisch/1_Konjugieren.md",
     "Shool/spanisch/bild",
-    "Shool/englisch/The English Speaking World",
     "Shool/englisch/Englisch/Reported speech.md",
     "Shool/englisch/Englisch/Englisch.md",
     "Shool/englisch/Englisch/2025-10-28-Prepare for a Discussion.md",
     "Shool/englisch/Englisch/2025-10-24-Cong bbc.md",
     "Shool/englisch/Englisch/2025-09-19-Discussion.md",
     "Shool/englisch/Englisch/2025-09-11-Repordetspeech.md",
-    "Shool/englisch/Englisch/2025-09-05-Mediation-Emial.md",
-    "Shool/englisch/Englisch/pdfs/xournal/Why electric cars alone wont save the planet.xopp",
-    "Shool/englisch/Englisch/pdfs/xournal/Congo bbc Red.xopp",
-    "Shool/englisch/Englisch/pdfs/Xournal/Report - Checklist + comments.xopp",
-    "Shool/englisch/Englisch/pdfs/xournal",
-    "Shool/deutsch/Themen/Corpus Delectiy/2025-10-27-Arbeitsplan.md",
-    "Shool/powi/ki revolution/2025-10-20-Künstliche Intelligenz und Forschung   -> Die Perspektive der Wissenschaft.md",
-    "Shool/powi/ki revolution/2025-10-27-Arbeitauftrag_flyer.md",
     "Pasted image 20251028120354.png",
     "Untitled.canvas",
     "Shool/deutsch/pdfs/faszinieren-powerpoint-hintergrund-vorlagen-bewundernswerte-von-powerpoint-hintergrund-vorlagen-508191327.jpg",
