@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "119580f0f0a93562",
+        "id": "fa3ef95634661fbf",
         "type": "tabs",
         "children": [
           {
-            "id": "5b1eb91b463a6c90",
+            "id": "1b347cd74ea87d95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Hyprland/Hyprland .config file.md",
+                "file": "Shool/powi/ki revolution/2025-10-27-Arbeitauftrag_flyer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hyprland .config file"
+              "title": "2025-10-27-Arbeitauftrag_flyer"
             }
           },
           {
-            "id": "a9d7421abdc352e5",
+            "id": "10c2c1ee0ae8105a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/Geschi/Präsentation/Was war die Stasi?.md",
+                "file": "Shool/powi/ki revolution/2025-11-10-Flyer-Infos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Was war die Stasi?"
+              "title": "2025-11-10-Flyer-Infos"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#basicsitgk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eb3b08c1845a19fc",
@@ -184,23 +183,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9d7421abdc352e5",
+  "active": "10c2c1ee0ae8105a",
   "lastOpenFiles": [
-    "Personal/Hyprland/Hyprland .config file.md",
+    "Shool/powi/ki revolution/2025-10-27-Arbeitauftrag_flyer.md",
+    "Shool/powi/ki revolution/2025-11-10-Flyer-Infos.md",
+    "Shool/powi/ki revolution/2025-09-08-1-Wandel-Internet.md",
+    "Shool/powi/ki revolution/2025-10-20-Künstliche Intelligenz und Forschung   -> Die Perspektive der Wissenschaft.md",
+    "Shool/itgk/2025-07-26-Signale und Codes.md",
+    "Shool/spanisch/2025-11-05-Text.md",
+    "Shool/Reli/2025-11-07-Klausur.md",
+    "Shool/Reli/2025-11-07-Wörter aus quellen.md",
+    "Shool/spanisch/2025-11-06-Zahlen & Buch S. 24.md",
+    "Untitled.md",
     "Shool/Geschi/Präsentation/Was war die Stasi?.md",
+    "Personal/Hyprland/Hyprland .config file.md",
     "Shool/Geschi/Präsentation",
     "Untitled 1.md",
     "Personal/Hyprland",
     "Shool/Reli/pdfs/aslan_gott.pdf",
     "Shool/Reli/pdfs/aslan_gott_kommentiert.pdf",
     "Shool/Reli/2025-10-31-Mehr Wörter.md",
-    "Shool/Reli/2025-11-07-Wörter aus quellen.md",
     "Shool/Reli/Religon.md",
     "Shool/TO DO.md",
-    "Shool/powi/ki revolution/2025-10-27-Arbeitauftrag_flyer.md",
     "Shool/Reli/pdfs/x/aslan_gott_kommentiert.pdf",
     "Shool/Reli/2025-10-24-Wörter.md",
-    "Shool/Reli/2025-11-07-Klausur.md",
     "Shool/englisch/The English Speaking World/Bildbeschreibung.md",
     "Personal/Q.md",
     "Shool/Reli/pdfs/x/aslan_gott.xopp",
@@ -209,20 +215,13 @@
     "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/Arbeitsplan Corpus Delicti - Teil 1.pdf",
     "Shool/spanisch/2025-11-05-Leif & Wörter.md",
     "Shool/itgk/Morsecode.md",
-    "Shool/itgk/2025-07-26-Signale und Codes.md",
     "Shool/spanisch/bild/famila.png",
     "Shool/spanisch/1_Fragen - preguntars.md",
-    "Shool/spanisch/2025-11-05-Text-.md",
-    "Shool/spanisch/2025-11-06-Zahlen & Buch S. 24.md",
     "Shool/spanisch/1_Wörter.md",
     "Shool/spanisch/1_Konjugieren.md",
     "Shool/spanisch/bild",
     "Shool/englisch/Englisch/Reported speech.md",
     "Shool/englisch/Englisch/Englisch.md",
-    "Shool/englisch/Englisch/2025-10-28-Prepare for a Discussion.md",
-    "Shool/englisch/Englisch/2025-10-24-Cong bbc.md",
-    "Shool/englisch/Englisch/2025-09-19-Discussion.md",
-    "Shool/englisch/Englisch/2025-09-11-Repordetspeech.md",
     "Pasted image 20251028120354.png",
     "Untitled.canvas",
     "Shool/deutsch/pdfs/faszinieren-powerpoint-hintergrund-vorlagen-bewundernswerte-von-powerpoint-hintergrund-vorlagen-508191327.jpg",
