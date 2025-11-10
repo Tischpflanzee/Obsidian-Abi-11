@@ -4,25 +4,23 @@
 -**Vokabeln lernen unidad 1 Spanisch lernen Grammatik: p.163-p.164**
 - Konjugieren lernen 
 - Generell Spanich !!!
-
+Für Reli lernen
 
 # Bis Montag
-Powi fertig machen (siehe. [[2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten]]) -bin bei seite 2.
+
 # Bis Dienstag
 
 
 # Bis Mittwoch
-
+Workbook s.12
 
 # Bis Donnerstag
 
 
 
 # Bis Freitag
-flyer
-[[2025-10-27-Arbeitauftrag_flyer]]
+
 
 
 # Bis Nach den ferien 
- #Shool
-#Shool
+ 

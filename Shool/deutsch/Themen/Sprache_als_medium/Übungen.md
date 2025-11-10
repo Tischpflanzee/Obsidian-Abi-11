@@ -8,24 +8,7 @@ Axiom 5: Kommuniaktionen sind symmetrich oder Komplimenter
 		|->Komplimenter ungleicher Meinung 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#deutsch #übungen 
 
 
 

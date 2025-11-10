@@ -32,4 +32,4 @@ Durch die Entstehung des Internets gehen 76% der Menschen einmal in der Woche on
 ![[01 - Wandel-Internet.pdf]]
 #Shool
 #Shool
-#powi
+#powi #ki 

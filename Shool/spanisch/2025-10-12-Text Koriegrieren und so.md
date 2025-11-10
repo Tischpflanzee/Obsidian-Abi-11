@@ -5,3 +5,4 @@ Diego Estudio en un instituto en Grandana
 Tú ¿Quiénes son tus amigos?
 Diego: Mi amigpo es Maria
 Tú: qué lenguas hablas ?
+#spanisch #spanischübungen  

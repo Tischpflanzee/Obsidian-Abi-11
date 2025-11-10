@@ -14,7 +14,7 @@
 | Jainismus                  | Aslan                 | 93    | alte Religon Indiens, die sich um die Lehren der 24 Tirthankaras(spirituelle Lehrer) dreht                                    |
 | Kontingenz-<br>bewältigung | religon deffienierung | 17    | gebräuchlicher Begriff, um die prinzipielle Offenheit und Ungewissheit menschlicher Lebenserfahrungen zu bezeichnen.          |
 | Mesopotamier               | Aslan                 |       |                                                                                                                               |
-| Moralkodizes               | Harrari               | 90    |                                                                                                                               |
+| Moralkodizes               | Harrari               | 90    | "regelbuch"                                                                                                                   |
 | nicht-theistisch           | Aslan                 | 74    |                                                                                                                               |
 | obskur                     | Harrai                | 93    |                                                                                                                               |
 | pantheistisch              | Aslan                 | 18    |                                                                                                                               |

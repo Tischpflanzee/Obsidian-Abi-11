@@ -1,3 +1,4 @@
+
 #ki_powi #powi #ki  
 ## Künstliche Intelligenz als Werkzeug in der Wissenschaft
 Künstliche Intiligenz und maschinelles Lernen gewinnen in der Forschung zunehmend an Beduetung da sie helfen, große und komplexe Datensätze effizient auszuwerten 

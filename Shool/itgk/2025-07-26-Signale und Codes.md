@@ -65,6 +65,6 @@ https://wirtschaftslexikon.gabler.de/definition/zeichen-50624
 
 
 
-#basicsitgk #itgk #signale 
-#Shool
+ #itgk #signale 
+
 #Shool
