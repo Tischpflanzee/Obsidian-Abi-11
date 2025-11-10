@@ -29,10 +29,10 @@ Rasterung: Umwandlung von vektorgrafiken in Rastergrafiken
 		- Probleme enstehen vorallem x^
 ![[Kreis_reingez grdnojf.png]]
 
-# Image resolution
-Des so höher die auflösung desto mehr details hat das Bild.
+# Image Resolution
+Des so höher die Auflösung desto mehr details hat das Bild.
 |-> das trifft auf digitale bilder filme und andere typen von Bildern.
-Die auflösung ist in: Breite x Höhe angegeben
+Die Auflösung ist in: Breite x Höhe angegeben
 ## Einordnung
 Die Auflösung ist in der Praxis mehrdeutig und in vielen Bereichen verwendet, wodurch eszu Missverständnissen kommen kann.
 Im physikalischen Sinn bezeichnet die Punktdichte einer Wiedergabe oder Bildabtastung und ist damit neben der Farbtiefe ein Maß für die Qualität 
