@@ -9,4 +9,4 @@
 		|-> Gezielt Trainieren das sie nicht diskriminiert
 	|-> Fake news 
 		|-> manipulation durch KI durch gezielte algorithm in sozial Media 
-		
+#powi #ki
