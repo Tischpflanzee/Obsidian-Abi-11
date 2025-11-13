@@ -6,7 +6,7 @@
       {
         "id": "3084350cc94b502c",
         "type": "tabs",
-        "dimension": 27.505330490405118,
+        "dimension": 23.77398720682303,
         "children": [
           {
             "id": "a533ab1a920ca98a",
@@ -70,7 +70,7 @@
       {
         "id": "fd9a941ab40e2c51",
         "type": "tabs",
-        "dimension": 72.49466950959487,
+        "dimension": 76.22601279317698,
         "children": [
           {
             "id": "89e70861898c28ff",
@@ -83,23 +83,8 @@
               "icon": "lucide-file-text",
               "title": "Harari_Gott"
             }
-          },
-          {
-            "id": "dec0d7a4973c3c7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,7 +232,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dec0d7a4973c3c7c",
+  "active": "2d659ae960af3287",
   "lastOpenFiles": [
     "Shool/Reli/pdfs/Harari_Gott.pdf",
     "conflict-files-obsidian-git.md",
