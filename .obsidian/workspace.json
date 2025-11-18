@@ -4,87 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "3084350cc94b502c",
-        "type": "tabs",
-        "dimension": 23.77398720682303,
-        "children": [
-          {
-            "id": "a533ab1a920ca98a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/Reli/2025-10-24-Wörter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-24-Wörter"
-            }
-          },
-          {
-            "id": "2d659ae960af3287",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/Reli/Klausur-Übung-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Klausur-Übung-Text"
-            }
-          },
-          {
-            "id": "8973bc5d7bba97ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/englisch/The English Speaking World/Bildbeschreibung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bildbeschreibung"
-            }
-          },
-          {
-            "id": "c254ddfbc881e45e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/Reli/2025-10-31-Mehr Wörter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-31-Mehr Wörter"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "fd9a941ab40e2c51",
         "type": "tabs",
-        "dimension": 76.22601279317698,
         "children": [
           {
             "id": "89e70861898c28ff",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Shool/Reli/pdfs/Harari_Gott.pdf"
+                "file": "Shool/Reli/2025-11-07-Klausur.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Harari_Gott"
+              "icon": "lucide-file",
+              "title": "2025-11-07-Klausur"
+            }
+          },
+          {
+            "id": "c2358b8f5dc5d9b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shool/Reli/Religon-Mind-Map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Religon-Mind-Map"
+            }
+          },
+          {
+            "id": "ba01dd70d91813d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shool/Reli/Arbeit/Arbeit-Linus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arbeit-Linus"
+            }
+          },
+          {
+            "id": "c01343d20ff174be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shool/powi/ki revolution/2025-09-22-Fall 1 KI Überwachung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-22-Fall 1 KI Überwachung"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eb3b08c1845a19fc",
@@ -232,43 +211,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d659ae960af3287",
+  "active": "c01343d20ff174be",
   "lastOpenFiles": [
+    "Shool/powi/ki revolution/2025-09-08-1-Wandel-Internet.md",
+    "Shool/powi/ki revolution/2025-09-22-Fall 1 KI Überwachung.md",
+    "Shool/powi/ki revolution/2025-10-20-Künstliche Intelligenz und Forschung   -> Die Perspektive der Wissenschaft.md",
+    "Shool/powi/ki revolution/2025-10-27-Arbeitauftrag_flyer.md",
+    "Shool/powi/ki revolution/2025-11-10-Arbeit.md",
+    "Shool/powi/ki revolution/2025-11-10-Flyer-Infos.md",
+    "Shool/TO DO.md",
+    "Shool/Reli/Arbeit/aslan_gott.xopp~",
+    "Shool/Reli/Arbeit/aslan_gott.xopp",
+    "Shool/Reli/Arbeit/Harari_Gott.xopp~",
+    "Shool/Reli/Arbeit/Arbeit-Linus.md",
+    "Shool/Reli/Arbeit/Harari_Gott.xopp",
+    "Shool/Reli/Religon-Mind-Map.md",
+    "Shool/Reli/Klausur-Übung-Text.md",
+    "Shool/Reli/2025-11-07-Wörter aus quellen.md",
+    "Shool/Reli/2025-11-07-Klausur.md",
+    "Shool/Reli/2025-10-31-Mehr Wörter.md",
+    "Shool/Reli/2025-10-24-Wörter.md",
+    "Shool/englisch/The English Speaking World/2025-11-14-Acents.md",
+    "Shool/Reli/Arbeit/aslan_gott.pdf",
+    "Shool/Reli/Arbeit/Harari_Gott.pdf",
+    "Shool/Reli/Arbeit",
     "Shool/Reli/pdfs/Harari_Gott.pdf",
+    "Shool/englisch/The English Speaking World/Bildbeschreibung.md",
     "conflict-files-obsidian-git.md",
     "Shool/itgk/Präsentation.zip",
-    "Shool/Reli/Klausur-Übung-Text.md",
     "Shool/Reli/pdfs/aslan_gott_kommentiert.pdf",
-    "Shool/Reli/2025-10-24-Wörter.md",
-    "Shool/Reli/2025-10-31-Mehr Wörter.md",
-    "Shool/Reli/2025-11-07-Klausur.md",
-    "Shool/Reli/2025-11-07-Wörter aus quellen.md",
-    "Shool/Reli/Religon-Mind-Map.md",
     "Shool/itgk/Präsentation/Was ist eine Rastergrafik.md",
-    "Shool/englisch/The English Speaking World/Bildbeschreibung.md",
     "Shool/deutsch/Themen/Corpus Delectiy/2025-10-27-Arbeitsplan.md",
-    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/Arbeitsplan.pdf",
-    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Arbeitsplan Corpus Delicti - Teil 1_kommentiert.pdf",
-    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/Arbeitsplan Corpus Delicti - Teil 1.pdf",
     "Shool/itgk/Digitaltechnik/2025-11-11-Kombinationen.md",
     "Shool/englisch/Englisch/2025-10-24-Cong bbc.md",
     "Shool/spanisch/2025-10-29.md",
-    "Shool/powi/ki revolution/2025-11-10-Flyer-Infos.md",
     "Shool/itgk/Präsentation/2025-11-10-Kateikarten.md",
     "Shool/chemie/2025-11-11-Übung-für-Arbeit.md",
-    "Shool/itgk/Digitaltechnik/pdf/x/Digitaltechnik Einstiegsporblem.xopp",
-    "Shool/itgk/Digitaltechnik/pdf/x/Digitaltechnik Einstiegsporblem.pdf",
-    "Shool/itgk/Digitaltechnik/pdf/x",
-    "Shool/itgk/Digitaltechnik/pdf",
-    "Shool/powi/ki revolution/2025-10-27-Arbeitauftrag_flyer.md",
     "Shool/powi/Powi/Was ist Politik eigentlich und wo begegnet uns Politik_.md",
     "Shool/powi/Powi/Reflexion.md",
-    "Shool/powi/Powi/Akteure.md",
-    "Shool/powi/Powi/2025-09-29-Powi-staion-c.md",
-    "Shool/powi/ki revolution/2025-09-22-Fall 1 KI Überwachung.md",
-    "Shool/powi/Powi/2025-09-08-1-Wandel-Internet.md",
-    "Shool/powi/ki revolution/2025-11-10-Arbeit.md",
-    "Shool/powi/ki revolution/2025-09-08-1-Wandel-Internet.md",
     "Shool/spanisch/bild/famila.png",
     "Pasted image 20251028120354.png",
     "Untitled.canvas",
