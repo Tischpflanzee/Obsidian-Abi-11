@@ -4,67 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "fd9a941ab40e2c51",
+        "id": "4d52440edb5fc69a",
         "type": "tabs",
         "children": [
           {
-            "id": "89e70861898c28ff",
+            "id": "8821d7070780729f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Shool/Reli/2025-11-07-Klausur.md",
-                "mode": "source",
-                "source": false
+                "file": "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik_hilfe.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2025-11-07-Klausur"
+              "icon": "lucide-file-text",
+              "title": "Digitaltechnik_hilfe"
             }
           },
           {
-            "id": "c2358b8f5dc5d9b5",
+            "id": "1b32a10679ce2b81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/Reli/Religon-Mind-Map.md",
+                "file": "Shool/chemie/Hypothese zu eisen Schwefel gedöns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Religon-Mind-Map"
+              "title": "Hypothese zu eisen Schwefel gedöns"
             }
           },
           {
-            "id": "ba01dd70d91813d0",
+            "id": "388dc2e4ecc28b0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/Reli/Arbeit/Arbeit-Linus.md",
+                "file": "Shool/chemie/Protocol Reaktion Schwefel und Eisen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arbeit-Linus"
-            }
-          },
-          {
-            "id": "c01343d20ff174be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/powi/ki revolution/2025-09-22-Fall 1 KI Überwachung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-22-Fall 1 KI Überwachung"
+              "title": "Protocol Reaktion Schwefel und Eisen"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shool/Geschi/brd & ddr/2025-11-03-Fragen Entwickeln.md",
+                "file": "Shool/englisch/The English Speaking World/The english speaking world.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-11-03-Fragen Entwickeln"
+              "title": "Backlinks for The english speaking world"
             }
           },
           {
@@ -204,54 +188,56 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "c01343d20ff174be",
+  "active": "388dc2e4ecc28b0b",
   "lastOpenFiles": [
-    "Shool/powi/ki revolution/2025-09-08-1-Wandel-Internet.md",
-    "Shool/powi/ki revolution/2025-09-22-Fall 1 KI Überwachung.md",
-    "Shool/powi/ki revolution/2025-10-20-Künstliche Intelligenz und Forschung   -> Die Perspektive der Wissenschaft.md",
-    "Shool/powi/ki revolution/2025-10-27-Arbeitauftrag_flyer.md",
-    "Shool/powi/ki revolution/2025-11-10-Arbeit.md",
-    "Shool/powi/ki revolution/2025-11-10-Flyer-Infos.md",
-    "Shool/TO DO.md",
-    "Shool/Reli/Arbeit/aslan_gott.xopp~",
-    "Shool/Reli/Arbeit/aslan_gott.xopp",
-    "Shool/Reli/Arbeit/Harari_Gott.xopp~",
-    "Shool/Reli/Arbeit/Arbeit-Linus.md",
-    "Shool/Reli/Arbeit/Harari_Gott.xopp",
-    "Shool/Reli/Religon-Mind-Map.md",
-    "Shool/Reli/Klausur-Übung-Text.md",
-    "Shool/Reli/2025-11-07-Wörter aus quellen.md",
-    "Shool/Reli/2025-11-07-Klausur.md",
-    "Shool/Reli/2025-10-31-Mehr Wörter.md",
-    "Shool/Reli/2025-10-24-Wörter.md",
-    "Shool/englisch/The English Speaking World/2025-11-14-Acents.md",
-    "Shool/Reli/Arbeit/aslan_gott.pdf",
-    "Shool/Reli/Arbeit/Harari_Gott.pdf",
-    "Shool/Reli/Arbeit",
-    "Shool/Reli/pdfs/Harari_Gott.pdf",
+    "Shool/chemie/PDF/xorunal ++/AB_Versuch_Eisen reagiert mit Schwefel.pdf",
+    "Shool/chemie/Bilder/WhatsApp Image 2025-11-25 at 14.33.17.jpeg",
+    "Shool/chemie/Bilder",
+    "Shool/chemie/PDF/xorunal ++/AB_EXP_Magnesiumoxid-Synthese.pdf",
+    "Shool/chemie/Hypothese zu eisen Schwefel gedöns.md",
+    "Shool/chemie/Protocol Reaktion Schwefel und Eisen.md",
+    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik_hilfe.pdf",
+    "Shool/englisch/The English Speaking World/The english speaking world.canvas",
+    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik.pdf",
+    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik_kommentiert.pdf",
+    "Shool/englisch/The English Speaking World/M02-Bad-English.md",
+    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik.xopp~",
+    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik.xopp",
+    "Shool/englisch/The English Speaking World/pdf/x/M02 Bad English.pdf",
+    "Shool/englisch/The English Speaking World/pdf/x/M02 Bad English_kommentiert.pdf",
     "Shool/englisch/The English Speaking World/Bildbeschreibung.md",
-    "conflict-files-obsidian-git.md",
-    "Shool/itgk/Präsentation.zip",
-    "Shool/Reli/pdfs/aslan_gott_kommentiert.pdf",
-    "Shool/itgk/Präsentation/Was ist eine Rastergrafik.md",
-    "Shool/deutsch/Themen/Corpus Delectiy/2025-10-27-Arbeitsplan.md",
-    "Shool/itgk/Digitaltechnik/2025-11-11-Kombinationen.md",
-    "Shool/englisch/Englisch/2025-10-24-Cong bbc.md",
-    "Shool/spanisch/2025-10-29.md",
-    "Shool/itgk/Präsentation/2025-11-10-Kateikarten.md",
-    "Shool/chemie/2025-11-11-Übung-für-Arbeit.md",
-    "Shool/powi/Powi/Was ist Politik eigentlich und wo begegnet uns Politik_.md",
-    "Shool/powi/Powi/Reflexion.md",
-    "Shool/spanisch/bild/famila.png",
+    "Shool/englisch/The English Speaking World/pdf/M02 Bad English_kommentiert.pdf",
+    "2025-11-25.md",
+    "Shool/englisch/The English Speaking World/2025-11-14-Acents.md",
+    "Shool/englisch/The English Speaking World/Englishes and Language Change.md",
+    "Shool/deutsch/Themen/Sprache_als_medium/Arbeit-Korrektur.md",
+    "Shool/powi/Migration/Untitled.canvas",
+    "Shool/Geschi/Präsentation/Berliner Mauer.md",
+    "Shool/itgk/Digitaltechnik/Untitled.md",
+    "Shool/itgk/2025-07-26-Signale und Codes.md",
+    "Shool/itgk/2025-09-02-Anleitung von Dezimal nach binär.md",
+    "Shool/spanisch/Unidad 1 & 2/2025-11-20-Book-S.25.md",
+    "Shool/spanisch/Unidad 1 & 2/2025-10-19-Mehrzahl-Einzahl.md",
+    "Shool/spanisch/Unidad 1 & 2/1_Fragen - preguntars.md",
+    "Shool/spanisch/Unidad 1 & 2/bild/famila.png",
+    "Shool/TO DO.md",
+    "Shool/deutsch/Themen/Corpus Delectiy/2025-11-19-Arbeitsplan-II.md",
+    "Shool/deutsch/Themen/Corpus Delectiy/2025-10-27-Arbeitsplan-Teil-1.md",
+    "Shool/chemie/Arbeit/Arbeit.md",
+    "Shool/chemie/2025-09-30-Chemische bindungen.md",
+    "Shool/Reli/2025-11-07-Klausur.md",
+    "Shool/Reli/Religon-Mind-Map.md",
+    "Shool/Reli/Arbeit/Arbeit-Linus.md",
+    "Shool/powi/ki revolution/2025-09-22-Fall 1 KI Überwachung.md",
+    "Shool/powi/ki revolution/2025-09-08-1-Wandel-Internet.md",
     "Pasted image 20251028120354.png",
-    "Untitled.canvas",
     "Shool/deutsch/pdfs/faszinieren-powerpoint-hintergrund-vorlagen-bewundernswerte-von-powerpoint-hintergrund-vorlagen-508191327.jpg",
     "Shool/itgk/Präsentation/bilder/Kreis_reingez grdnojf.png",
     "Shool/itgk/Präsentation/bilder/Kreis.png"
