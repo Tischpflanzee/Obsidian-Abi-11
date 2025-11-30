@@ -4,51 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "4d52440edb5fc69a",
+        "id": "86a9075e7944ab49",
         "type": "tabs",
         "children": [
           {
-            "id": "8821d7070780729f",
+            "id": "82c68577ae9d8176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shool/englisch/The English Speaking World/M02-Bad-English.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "M02-Bad-English"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bf21dff5dfc74723",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65a6c3ca528ff9a6",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik_hilfe.pdf"
+                "file": "Shool/englisch/The English Speaking World/pdf/M02 Bad English_kommentiert.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Digitaltechnik_hilfe"
-            }
-          },
-          {
-            "id": "1b32a10679ce2b81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/chemie/Hypothese zu eisen Schwefel gedöns.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hypothese zu eisen Schwefel gedöns"
-            }
-          },
-          {
-            "id": "388dc2e4ecc28b0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/chemie/Protocol Reaktion Schwefel und Eisen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Protocol Reaktion Schwefel und Eisen"
+              "title": "M02 Bad English_kommentiert"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Englishspeakingworld",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,48 +186,47 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "388dc2e4ecc28b0b",
+  "active": "82c68577ae9d8176",
   "lastOpenFiles": [
-    "Shool/chemie/PDF/xorunal ++/AB_Versuch_Eisen reagiert mit Schwefel.pdf",
-    "Shool/chemie/Bilder/WhatsApp Image 2025-11-25 at 14.33.17.jpeg",
-    "Shool/chemie/Bilder",
-    "Shool/chemie/PDF/xorunal ++/AB_EXP_Magnesiumoxid-Synthese.pdf",
-    "Shool/chemie/Hypothese zu eisen Schwefel gedöns.md",
-    "Shool/chemie/Protocol Reaktion Schwefel und Eisen.md",
-    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik_hilfe.pdf",
-    "Shool/englisch/The English Speaking World/The english speaking world.canvas",
-    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik.pdf",
-    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik_kommentiert.pdf",
-    "Shool/englisch/The English Speaking World/M02-Bad-English.md",
-    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik.xopp~",
-    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik.xopp",
-    "Shool/englisch/The English Speaking World/pdf/x/M02 Bad English.pdf",
-    "Shool/englisch/The English Speaking World/pdf/x/M02 Bad English_kommentiert.pdf",
-    "Shool/englisch/The English Speaking World/Bildbeschreibung.md",
-    "Shool/englisch/The English Speaking World/pdf/M02 Bad English_kommentiert.pdf",
-    "2025-11-25.md",
     "Shool/englisch/The English Speaking World/2025-11-14-Acents.md",
+    "Shool/englisch/The English Speaking World/Bildbeschreibung.md",
+    "Shool/englisch/The English Speaking World/M02-Bad-English.md",
+    "Shool/englisch/The English Speaking World/pdf/M02 Bad English_kommentiert.pdf",
+    "Shool/englisch/The English Speaking World/The english speaking world.canvas",
     "Shool/englisch/The English Speaking World/Englishes and Language Change.md",
-    "Shool/deutsch/Themen/Sprache_als_medium/Arbeit-Korrektur.md",
+    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik_hilfe.pdf",
+    "Shool/itgk/Digitaltechnik/pdf/06_Regeln_Niklas_Hainz.pdf",
+    "Shool/itgk/Digitaltechnik/pdf/06_Regeln_kommentiert.pdf",
+    "Shool/itgk/Digitaltechnik/pdf/x/06_Regeln.xopp~",
+    "Shool/itgk/Digitaltechnik/pdf/x/06_Regeln.xopp",
+    "Shool/itgk/Digitaltechnik/pdf/x/06_Regeln.pdf",
+    "Shool/englisch/The English Speaking World/pdf/x/06_Regeln.pdf",
+    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik.pdf",
+    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik zusammengesetzte Gatter_kommentiert.pdf",
+    "Shool/itgk/Digitaltechnik/2025-11-11-Kombinationen.md",
+    "Shool/deutsch/Themen/Corpus Delectiy/2025-11-19-Arbeitsplan-II.md",
+    "Shool/powi/ki revolution/2025-11-10-Arbeit.md",
     "Shool/powi/Migration/Untitled.canvas",
+    "Shool/spanisch/Unidad 1 & 2/2025-11-20-Book-S.25.md",
+    "Shool/chemie/Hypothese zu eisen Schwefel gedöns.md",
+    "Shool/deutsch/Themen/Sprache_als_medium/Arbeit-Korrektur.md",
+    "Shool/chemie/Arbeit/Arbeit.md",
+    "Shool/Reli/Klausur-Übung-Text.md",
+    "Shool/Reli/Arbeit/Arbeit-Linus.md",
+    "Shool/chemie/Protocol Reaktion Schwefel und Eisen.md",
+    "Shool/chemie/Bilder/WhatsApp Image 2025-11-25 at 14.33.17.jpeg",
+    "2025-11-25.md",
     "Shool/Geschi/Präsentation/Berliner Mauer.md",
     "Shool/itgk/Digitaltechnik/Untitled.md",
     "Shool/itgk/2025-07-26-Signale und Codes.md",
     "Shool/itgk/2025-09-02-Anleitung von Dezimal nach binär.md",
-    "Shool/spanisch/Unidad 1 & 2/2025-11-20-Book-S.25.md",
     "Shool/spanisch/Unidad 1 & 2/2025-10-19-Mehrzahl-Einzahl.md",
     "Shool/spanisch/Unidad 1 & 2/1_Fragen - preguntars.md",
     "Shool/spanisch/Unidad 1 & 2/bild/famila.png",
     "Shool/TO DO.md",
-    "Shool/deutsch/Themen/Corpus Delectiy/2025-11-19-Arbeitsplan-II.md",
     "Shool/deutsch/Themen/Corpus Delectiy/2025-10-27-Arbeitsplan-Teil-1.md",
-    "Shool/chemie/Arbeit/Arbeit.md",
     "Shool/chemie/2025-09-30-Chemische bindungen.md",
     "Shool/Reli/2025-11-07-Klausur.md",
-    "Shool/Reli/Religon-Mind-Map.md",
-    "Shool/Reli/Arbeit/Arbeit-Linus.md",
-    "Shool/powi/ki revolution/2025-09-22-Fall 1 KI Überwachung.md",
-    "Shool/powi/ki revolution/2025-09-08-1-Wandel-Internet.md",
     "Pasted image 20251028120354.png",
     "Shool/deutsch/pdfs/faszinieren-powerpoint-hintergrund-vorlagen-bewundernswerte-von-powerpoint-hintergrund-vorlagen-508191327.jpg",
     "Shool/itgk/Präsentation/bilder/Kreis_reingez grdnojf.png",

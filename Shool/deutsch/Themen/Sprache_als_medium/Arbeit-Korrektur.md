@@ -13,3 +13,6 @@ Welche Aussage gehört nach dem Vier-seiten-Modell am besten zur Seite der Selbs
 ## 15 
 
 Welche Aussagen beschreiben implizite Kommunikation im Vier-Seiten-Modell
+
+
+#deutsch 

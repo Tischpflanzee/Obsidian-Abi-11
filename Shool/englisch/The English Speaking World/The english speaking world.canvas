@@ -1,24 +1,28 @@
 {
 	"nodes":[
-		{"id":"c74ccc5cf2c46c8d","type":"group","x":-480,"y":-880,"width":1900,"height":560,"color":"4","label":"Diffrent Regions"},
+		{"id":"c74ccc5cf2c46c8d","type":"group","x":-480,"y":-880,"width":1900,"height":560,"color":"4","label":"Diffrent Regions / Infuence"},
 		{"id":"98fd4c9cd2748416","type":"group","x":1440,"y":-280,"width":1570,"height":640,"color":"5","label":"diffrent cultures"},
-		{"id":"6dd7a56347c1e5d2","type":"text","text":"The origin of the English Langue ","x":314,"y":-160,"width":250,"height":80},
+		{"id":"81942a1d398e5e6b","x":-1280,"y":340,"width":1400,"height":616,"color":"#901ddd","type":"group","label":"Accents"},
 		{"id":"4df16dca5d9bbcff","type":"text","text":"Usa","x":1480,"y":50,"width":250,"height":60,"color":"5"},
 		{"id":"09f8080735689629","type":"text","text":"English today in diffrent cultures ","x":2116,"y":-98,"width":250,"height":60,"color":"5"},
 		{"id":"1e8e1939cf27743d","type":"text","text":"India","x":2116,"y":240,"width":250,"height":60,"color":"5"},
 		{"id":"b49eb2bd15b1f223","type":"text","text":"Great Britan","x":2635,"y":80,"width":250,"height":60,"color":"5"},
-		{"id":"96306edaa2bc84e5","type":"text","text":"China","x":2680,"y":-240,"width":250,"height":60,"color":"5"},
-		{"id":"1f20c730cbc5d202","type":"text","text":"The Globalisation of English","x":314,"y":-2,"width":250,"height":60},
 		{"id":"b31b0de4da5c6e98","type":"text","text":"Germanic Tribes","x":295,"y":-840,"width":260,"height":60,"color":"4"},
 		{"id":"2bbaee5ebd93da9e","type":"text","text":"Latin","x":-420,"y":-720,"width":250,"height":60,"color":"4"},
 		{"id":"426b98c42aed9d8b","type":"text","text":"vikings","x":1105,"y":-720,"width":250,"height":60,"color":"4"},
 		{"id":"8838082f0f872408","type":"text","text":"Different Regions ","x":305,"y":-480,"width":250,"height":60,"color":"4"},
-		{"id":"f5f3e7f5e514eb0d","x":320,"y":400,"width":250,"height":60,"type":"text","text":"Bad English"},
-		{"id":"8d957e95d3e8d698","x":-240,"y":500,"width":250,"height":60,"type":"text","text":"Accents "},
-		{"id":"23f854d28e5a0c5e","x":-687,"y":507,"width":250,"height":60,"type":"text","text":"Misunderstandings "},
+		{"id":"6dd7a56347c1e5d2","type":"text","text":"The origin of the English Langue ","x":314,"y":-160,"width":250,"height":80},
+		{"id":"96306edaa2bc84e5","type":"text","text":"China","x":2680,"y":-240,"width":250,"height":60,"color":"5"},
+		{"id":"1f20c730cbc5d202","type":"text","text":"The Globalisation of English","x":314,"y":-2,"width":250,"height":60},
 		{"id":"b97290bbbf4d33be","type":"file","file":"Shool/englisch/The English Speaking World/Englishes and Language Change.md","x":-280,"y":-172,"width":400,"height":400},
-		{"id":"207bd49fb4c71e44","x":-330,"y":800,"width":250,"height":60,"type":"text","text":"Typical cultural phrases, jokes "},
-		{"id":"d7b7e65265a455fa","x":195,"y":640,"width":250,"height":60,"type":"text","text":"native vs non native speaker"}
+		{"id":"174df823a3999ccb","x":-858,"y":-3,"width":250,"height":60,"type":"text","text":"#Englisch \n#Englishspeakingworld"},
+		{"id":"f5f3e7f5e514eb0d","type":"text","text":"Bad English","x":-180,"y":416,"width":250,"height":60},
+		{"id":"8d957e95d3e8d698","type":"text","text":"Accents ","x":-740,"y":516,"width":250,"height":60},
+		{"id":"23f854d28e5a0c5e","type":"text","text":"Misunderstandings ","x":-1187,"y":523,"width":250,"height":60},
+		{"id":"05f94b304926acff","x":-496,"y":853,"width":250,"height":60,"type":"text","text":"native speaker needing to understand accents\n"},
+		{"id":"207bd49fb4c71e44","type":"text","text":"Typical cultural phrases, jokes ","x":-960,"y":823,"width":250,"height":60},
+		{"id":"d7b7e65265a455fa","type":"text","text":"native vs non native speaker","x":-371,"y":660,"width":250,"height":60},
+		{"id":"01dce71d8210d0c1","x":-900,"y":386,"width":250,"height":60,"type":"text","text":"Grammar Important"}
 	],
 	"edges":[
 		{"id":"d017bdff4dffe170","fromNode":"6dd7a56347c1e5d2","fromSide":"bottom","toNode":"1f20c730cbc5d202","toSide":"top"},
@@ -32,11 +36,16 @@
 		{"id":"67498b5e60087106","fromNode":"09f8080735689629","fromSide":"right","toNode":"96306edaa2bc84e5","toSide":"left","label":"The Asian equivalent to the Usa"},
 		{"id":"189787790c7cb8b0","fromNode":"1f20c730cbc5d202","fromSide":"right","toNode":"98fd4c9cd2748416","toSide":"left"},
 		{"id":"5fd300684b9481a4","fromNode":"6dd7a56347c1e5d2","fromSide":"top","toNode":"c74ccc5cf2c46c8d","toSide":"bottom"},
-		{"id":"a959c34e7d33d957","fromNode":"1f20c730cbc5d202","fromSide":"bottom","toNode":"f5f3e7f5e514eb0d","toSide":"top","label":"Five times more People aren´t native speakers "},
 		{"id":"cc091e51e52d8b58","fromNode":"f5f3e7f5e514eb0d","fromSide":"left","toNode":"8d957e95d3e8d698","toSide":"right"},
 		{"id":"a8cd8352a0003c01","fromNode":"8d957e95d3e8d698","fromSide":"left","toNode":"23f854d28e5a0c5e","toSide":"right"},
 		{"id":"4022bda52f894848","fromNode":"8d957e95d3e8d698","fromSide":"bottom","toNode":"207bd49fb4c71e44","toSide":"top","label":"Only works in the given English"},
 		{"id":"a1a8340d980a31c8","fromNode":"207bd49fb4c71e44","fromSide":"left","toNode":"23f854d28e5a0c5e","toSide":"bottom","fromEnd":"arrow"},
-		{"id":"294ccd73851975ce","fromNode":"f5f3e7f5e514eb0d","fromSide":"bottom","toNode":"d7b7e65265a455fa","toSide":"top"}
+		{"id":"294ccd73851975ce","fromNode":"f5f3e7f5e514eb0d","fromSide":"bottom","toNode":"d7b7e65265a455fa","toSide":"top"},
+		{"id":"86049a19ce22b501","fromNode":"b97290bbbf4d33be","fromSide":"left","toNode":"174df823a3999ccb","toSide":"right"},
+		{"id":"7547deaf03c9c926","fromNode":"d7b7e65265a455fa","fromSide":"bottom","toNode":"05f94b304926acff","toSide":"top"},
+		{"id":"ce9c7d4dfd5446ab","fromNode":"8d957e95d3e8d698","fromSide":"bottom","toNode":"05f94b304926acff","toSide":"top","fromEnd":"arrow"},
+		{"id":"b982a71eb1f7d653","fromNode":"1f20c730cbc5d202","fromSide":"bottom","toNode":"81942a1d398e5e6b","toSide":"right","label":"Five times more People aren´t native speakers "},
+		{"id":"541951ef93553bcb","fromNode":"8d957e95d3e8d698","fromSide":"top","toNode":"01dce71d8210d0c1","toSide":"bottom"},
+		{"id":"606bda8e2b624267","fromNode":"01dce71d8210d0c1","fromSide":"left","toNode":"23f854d28e5a0c5e","toSide":"top","fromEnd":"arrow"}
 	]
 }

@@ -16,3 +16,5 @@
 ## Merksatz 
 Substanziell = Inhalt (Gott)
 Funktional = Wirkung (Gesellschaft) / blau
+
+#religon 

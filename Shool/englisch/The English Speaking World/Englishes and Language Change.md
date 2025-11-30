@@ -21,7 +21,6 @@ outnumber - other word for "to be less of something"
 
 # Task 3
 
-
 |                                                                                          |                                                                                      |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | English has **many** words from <br>over 350 languages                                   | **English is dertermind to** the function of a *lingua franca*                       |
