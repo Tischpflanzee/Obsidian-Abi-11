@@ -20,26 +20,23 @@
               "icon": "lucide-file",
               "title": "M02-Bad-English"
             }
-          }
-        ]
-      },
-      {
-        "id": "bf21dff5dfc74723",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "65a6c3ca528ff9a6",
+            "id": "732039b9f06e566b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Shool/englisch/The English Speaking World/pdf/M02 Bad English_kommentiert.pdf"
+                "file": "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "M02 Bad English_kommentiert"
+              "icon": "lucide-file",
+              "title": "Berliner Mauer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,11 +183,18 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "82c68577ae9d8176",
+  "active": "b3b34ff6bfa08b01",
   "lastOpenFiles": [
+    "Shool/Geschi/brd & ddr/Präsentation/Bilder/Stacheldraht & Soldat.jpg",
+    "Shool/Geschi/brd & ddr/Präsentation/Bilder/183157-3x2-article1200.jpg",
+    "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer.md",
+    "Shool/Geschi/brd & ddr/Präsentation/Bilder/174670-3x2-article1200.jpg",
+    "Shool/Geschi/brd & ddr/Präsentation/Bilder",
+    "Shool/tk/Präsentation/Gliederung und co.md",
+    "Shool/englisch/The English Speaking World/M02-Bad-English.md",
+    "Shool/tk/Präsentation",
     "Shool/englisch/The English Speaking World/2025-11-14-Acents.md",
     "Shool/englisch/The English Speaking World/Bildbeschreibung.md",
-    "Shool/englisch/The English Speaking World/M02-Bad-English.md",
     "Shool/englisch/The English Speaking World/pdf/M02 Bad English_kommentiert.pdf",
     "Shool/englisch/The English Speaking World/The english speaking world.canvas",
     "Shool/englisch/The English Speaking World/Englishes and Language Change.md",
@@ -201,8 +205,6 @@
     "Shool/itgk/Digitaltechnik/pdf/x/06_Regeln.xopp",
     "Shool/itgk/Digitaltechnik/pdf/x/06_Regeln.pdf",
     "Shool/englisch/The English Speaking World/pdf/x/06_Regeln.pdf",
-    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik.pdf",
-    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik zusammengesetzte Gatter_kommentiert.pdf",
     "Shool/itgk/Digitaltechnik/2025-11-11-Kombinationen.md",
     "Shool/deutsch/Themen/Corpus Delectiy/2025-11-19-Arbeitsplan-II.md",
     "Shool/powi/ki revolution/2025-11-10-Arbeit.md",
@@ -216,7 +218,6 @@
     "Shool/chemie/Protocol Reaktion Schwefel und Eisen.md",
     "Shool/chemie/Bilder/WhatsApp Image 2025-11-25 at 14.33.17.jpeg",
     "2025-11-25.md",
-    "Shool/Geschi/Präsentation/Berliner Mauer.md",
     "Shool/itgk/Digitaltechnik/Untitled.md",
     "Shool/itgk/2025-07-26-Signale und Codes.md",
     "Shool/itgk/2025-09-02-Anleitung von Dezimal nach binär.md",
@@ -226,7 +227,6 @@
     "Shool/TO DO.md",
     "Shool/deutsch/Themen/Corpus Delectiy/2025-10-27-Arbeitsplan-Teil-1.md",
     "Shool/chemie/2025-09-30-Chemische bindungen.md",
-    "Shool/Reli/2025-11-07-Klausur.md",
     "Pasted image 20251028120354.png",
     "Shool/deutsch/pdfs/faszinieren-powerpoint-hintergrund-vorlagen-bewundernswerte-von-powerpoint-hintergrund-vorlagen-508191327.jpg",
     "Shool/itgk/Präsentation/bilder/Kreis_reingez grdnojf.png",
