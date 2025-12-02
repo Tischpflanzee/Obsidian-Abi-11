@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82c68577ae9d8176",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/englisch/The English Speaking World/M02-Bad-English.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "M02-Bad-English"
-            }
-          },
-          {
             "id": "732039b9f06e566b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer.md",
+                "file": "Shool/tk/Präsentation/Gliederung und co.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Berliner Mauer"
+              "title": "Gliederung und co"
+            }
+          },
+          {
+            "id": "deea6c0a3eab9fd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shool/chemie/echemie_und_redoxreaktionen/Was ist eine Redoxreaktion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Was ist eine Redoxreaktion"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eb3b08c1845a19fc",
@@ -179,32 +180,34 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3b34ff6bfa08b01",
+  "active": "deea6c0a3eab9fd5",
   "lastOpenFiles": [
+    "Shool/chemie/echemie_und_redoxreaktionen/Pdfs/2_Text_Def._Redoxreaktion_abgew_BeispielMg.pdf",
+    "Shool/chemie/echemie_und_redoxreaktionen/Was ist eine Redoxreaktion.md",
+    "Shool/chemie/echemie_und_redoxreaktionen/Pdfs",
+    "Shool/tk/Präsentation/Gliederung und co.md",
+    "Shool/englisch/The English Speaking World/Englishes and Language Change.md",
+    "Shool/englisch/The English Speaking World/M02-Bad-English.md",
+    "Shool/englisch/The English Speaking World/The english speaking world.canvas",
+    "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer.md",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/Stacheldraht & Soldat.jpg",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/183157-3x2-article1200.jpg",
-    "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer.md",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/174670-3x2-article1200.jpg",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder",
-    "Shool/tk/Präsentation/Gliederung und co.md",
-    "Shool/englisch/The English Speaking World/M02-Bad-English.md",
     "Shool/tk/Präsentation",
     "Shool/englisch/The English Speaking World/2025-11-14-Acents.md",
     "Shool/englisch/The English Speaking World/Bildbeschreibung.md",
     "Shool/englisch/The English Speaking World/pdf/M02 Bad English_kommentiert.pdf",
-    "Shool/englisch/The English Speaking World/The english speaking world.canvas",
-    "Shool/englisch/The English Speaking World/Englishes and Language Change.md",
     "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik_hilfe.pdf",
     "Shool/itgk/Digitaltechnik/pdf/06_Regeln_Niklas_Hainz.pdf",
     "Shool/itgk/Digitaltechnik/pdf/06_Regeln_kommentiert.pdf",
     "Shool/itgk/Digitaltechnik/pdf/x/06_Regeln.xopp~",
     "Shool/itgk/Digitaltechnik/pdf/x/06_Regeln.xopp",
     "Shool/itgk/Digitaltechnik/pdf/x/06_Regeln.pdf",
-    "Shool/englisch/The English Speaking World/pdf/x/06_Regeln.pdf",
     "Shool/itgk/Digitaltechnik/2025-11-11-Kombinationen.md",
     "Shool/deutsch/Themen/Corpus Delectiy/2025-11-19-Arbeitsplan-II.md",
     "Shool/powi/ki revolution/2025-11-10-Arbeit.md",
@@ -226,7 +229,6 @@
     "Shool/spanisch/Unidad 1 & 2/bild/famila.png",
     "Shool/TO DO.md",
     "Shool/deutsch/Themen/Corpus Delectiy/2025-10-27-Arbeitsplan-Teil-1.md",
-    "Shool/chemie/2025-09-30-Chemische bindungen.md",
     "Pasted image 20251028120354.png",
     "Shool/deutsch/pdfs/faszinieren-powerpoint-hintergrund-vorlagen-bewundernswerte-von-powerpoint-hintergrund-vorlagen-508191327.jpg",
     "Shool/itgk/Präsentation/bilder/Kreis_reingez grdnojf.png",
