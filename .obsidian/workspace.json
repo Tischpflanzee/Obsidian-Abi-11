@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86a9075e7944ab49",
+        "id": "913fdc190dd6c41d",
         "type": "tabs",
         "children": [
           {
-            "id": "732039b9f06e566b",
+            "id": "e1753139100784ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Gliederung und co"
             }
-          },
-          {
-            "id": "deea6c0a3eab9fd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/chemie/echemie_und_redoxreaktionen/Was ist eine Redoxreaktion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Was ist eine Redoxreaktion"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Englishspeakingworld",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,12 +169,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "deea6c0a3eab9fd5",
+  "active": "e1753139100784ac",
   "lastOpenFiles": [
-    "Shool/chemie/echemie_und_redoxreaktionen/Pdfs/2_Text_Def._Redoxreaktion_abgew_BeispielMg.pdf",
-    "Shool/chemie/echemie_und_redoxreaktionen/Was ist eine Redoxreaktion.md",
-    "Shool/chemie/echemie_und_redoxreaktionen/Pdfs",
+    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Buch.pdf",
+    "Shool/deutsch/Themen/Corpus Delectiy/Charakterisierung von Mia Holl.md",
+    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Arbeitsplan III Corpus Delicti.pdf",
+    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Arbeitsplan II Corpus Delicti, Teil 2-1.pdf",
+    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Arbeitsplan Corpus Delicti - Teil 1_kommentiert.pdf",
+    "Shool/deutsch/Themen/Sprache_als_medium/Deutsch - Erfahrungen.md",
     "Shool/tk/Präsentation/Gliederung und co.md",
+    "Shool/chemie/echemie_und_redoxreaktionen/Was ist eine Redoxreaktion.md",
+    "README.md",
+    "Shool/chemie/echemie_und_redoxreaktionen/Pdfs/2_Text_Def._Redoxreaktion_abgew_BeispielMg.pdf",
+    "Shool/chemie/echemie_und_redoxreaktionen/Pdfs",
     "Shool/englisch/The English Speaking World/Englishes and Language Change.md",
     "Shool/englisch/The English Speaking World/M02-Bad-English.md",
     "Shool/englisch/The English Speaking World/The english speaking world.canvas",
@@ -203,11 +195,6 @@
     "Shool/englisch/The English Speaking World/Bildbeschreibung.md",
     "Shool/englisch/The English Speaking World/pdf/M02 Bad English_kommentiert.pdf",
     "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik_hilfe.pdf",
-    "Shool/itgk/Digitaltechnik/pdf/06_Regeln_Niklas_Hainz.pdf",
-    "Shool/itgk/Digitaltechnik/pdf/06_Regeln_kommentiert.pdf",
-    "Shool/itgk/Digitaltechnik/pdf/x/06_Regeln.xopp~",
-    "Shool/itgk/Digitaltechnik/pdf/x/06_Regeln.xopp",
-    "Shool/itgk/Digitaltechnik/pdf/x/06_Regeln.pdf",
     "Shool/itgk/Digitaltechnik/2025-11-11-Kombinationen.md",
     "Shool/deutsch/Themen/Corpus Delectiy/2025-11-19-Arbeitsplan-II.md",
     "Shool/powi/ki revolution/2025-11-10-Arbeit.md",
@@ -225,10 +212,7 @@
     "Shool/itgk/2025-07-26-Signale und Codes.md",
     "Shool/itgk/2025-09-02-Anleitung von Dezimal nach binär.md",
     "Shool/spanisch/Unidad 1 & 2/2025-10-19-Mehrzahl-Einzahl.md",
-    "Shool/spanisch/Unidad 1 & 2/1_Fragen - preguntars.md",
     "Shool/spanisch/Unidad 1 & 2/bild/famila.png",
-    "Shool/TO DO.md",
-    "Shool/deutsch/Themen/Corpus Delectiy/2025-10-27-Arbeitsplan-Teil-1.md",
     "Pasted image 20251028120354.png",
     "Shool/deutsch/pdfs/faszinieren-powerpoint-hintergrund-vorlagen-bewundernswerte-von-powerpoint-hintergrund-vorlagen-508191327.jpg",
     "Shool/itgk/Präsentation/bilder/Kreis_reingez grdnojf.png",

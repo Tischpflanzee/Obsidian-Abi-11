@@ -36,12 +36,27 @@ Aber auch Privatpersonen können von Ransomware betroffen sein.
 Es wird z.B über Spam-Mails die durch gefälschte Absendeaddressen und vermeintliche Antworten die dazu verleiten sollen eine schädliche Köder Datei Auszuführen und den Inhalt freizugeben. 
 Es werden teilweise ganze Systeme gesperrt oder es wird über Server an alle verbunden Server, dies geht aber nur wenn der Angreife zur Verfügung von hohen Rechten oder nicht ausreichend durchdachter Backup-Konzept ach alle Datensicherungen verschlüsselt sofern die Backups nicht offline gehalten werden. 
 
-### Schaden
+### 2.2.3 Automatisierte und manuelle Aufklärung von Netzwerken
 
-####  Sicherung existent 
+Durch automaisierten Ausbreitung späht das Schadprogramm das Netzwerk des Opfers aus und übermittelt dabei Informationen über: Systeme, Benutzer und es wird Schadsoftware installiert. 
+Erst danach wird basierrend auf den gesamelten informationen entschieden ob das Ziel sich lohn oder nicht. Wenn das opfer ein sich „lohnendes ziel" ist. Wird durch Fernzugriff aufs Netzwerk zugegriffen und ziehen sich ggf. weiter Infos. 
+**Diese Methode wird nur bei Hochwert zielen eingesetzt da es nur Begrenzte Kapazitäten gibt zur manuellen Aufklärung**
+
+### 2.2.4 Verschlüsselung von Systemen 
+
+Wenn die Verschlüsselung von Daten großen Teil der Orginazion lahmlegen könnten und es sich um ein Zahlungskräftiges Unternehmen handelt. Rollen sie eine Ransomware  auf allen (Server-) Systemen aus, wodurch oftmals aufgrund des Angreifers hohen rechten oder nicht ausreichend durchdachter Backup-Konzepte häufig auch alle datei sicherungen  Verschlüsselt, sofern sie nicht ofline sind. 
+Die löse geld summen liegen oftmals im 6stelliegen bereich es gab aber auch schon fälle wo die summe im 8stelliegen bereich lagen.
+
+#### Schadenswirkung 
+
+
+
+## 2.3 Schaden
+
+### Sicherung existent 
 Wenn (offline) Sicherungen verfügbar sind dann müssen sie nach der Bereinigung des Netzwerkes zurückgespielt werden und die Verlorene Zeit muss aufgearbeitet werden. **Mehrere Tage oder Wochen** 
 
-#### Sicherung **nicht** existent  
+### Sicherung **nicht** existent  
 
 Alte Datei Sicherungen wiederherstellen (wenn existent) viel nacharbeit kann vor allem für kleine Unternehmen kann das existenten bedrohend sein.
 
