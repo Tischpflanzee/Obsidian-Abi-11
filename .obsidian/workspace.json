@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eb3b08c1845a19fc",
@@ -165,8 +164,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "daily-notes:Open today's daily note": false,
-      "obsidian-git:Open Git source control": false
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "e1753139100784ac",
