@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "44d6349aa1c98cd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecfed74118847291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shool/tk/Präsentation/Gliederung und co.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gliederung und co"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eb3b08c1845a19fc",
@@ -171,11 +190,12 @@
   },
   "active": "4bb13d318f7b1d4e",
   "lastOpenFiles": [
+    "Shool/tk/Präsentation/pdfs/Managementabstrakt Fortschrittliche Angriffe - Neue Qualität aktueller Angriffe und Prognose - Ransomware_Managementabstract-Angriffe.pdf",
+    "Shool/tk/Präsentation/bilder/Managementabstrakt Fortschrittliche Angriffe - Neue Qualität aktueller Angriffe und Prognose - Ransomware_Managementabstract-Angriffe.png",
     "Shool/tk/Präsentation/Gliederung und co.md",
     "Shool/tk/Präsentation/bilder/Ransomware_Killchain_d.png",
     "Shool/tk/Präsentation/bilder/Ransomware_Killchain_d.png.part",
     "Shool/tk/Präsentation/bilder",
-    "Shool/tk/Präsentation/pdfs/Managementabstrakt Fortschrittliche Angriffe - Neue Qualität aktueller Angriffe und Prognose - Ransomware_Managementabstract-Angriffe.pdf",
     "Shool/itgk/Digitaltechnik/2025-11-11-Kombinationen.md",
     "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik_hilfe.pdf",
     "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik zusammengesetzte Gatter_kommentiert.pdf",
@@ -216,7 +236,6 @@
     "Shool/spanisch/Unidad 1 & 2/bild/famila.png",
     "Pasted image 20251028120354.png",
     "Shool/deutsch/pdfs/faszinieren-powerpoint-hintergrund-vorlagen-bewundernswerte-von-powerpoint-hintergrund-vorlagen-508191327.jpg",
-    "Shool/itgk/Präsentation/bilder/Kreis_reingez grdnojf.png",
-    "Shool/itgk/Präsentation/bilder/Kreis.png"
+    "Shool/itgk/Präsentation/bilder/Kreis_reingez grdnojf.png"
   ]
 }

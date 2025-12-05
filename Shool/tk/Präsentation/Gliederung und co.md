@@ -4,8 +4,32 @@
  2. Bedrohungslage
 	 1. Wenn sie Betrifft 
 	 2. Wie angegriffen wird
-	 3. Vorgehen der Angreifer 
+		 1. 1
+		 2. 2
+		 3.  Automatisierte und manuelle Aufklärung von Netzwerken
+			 1. Schaden
+				 1. Sicherung existent 
+				 2. Sicherung **nicht** existent  
+		4. Verschlüsselung von Systemen 
+			1. Schadenswirkung 
+				1. Mit Datensicherungen 
+				2. Ohne Datensicherungen 
+	3. Veröffentlichung von Daten
+		1. Schaden 
+	4. Schöne Grafik lol
  3. Prävention 
+	 1. Von dem Anderem Pdf
+		 1. Patches und Updates
+		 2.  Remote Zugänge 
+		 3. E-Mails und Makros
+		 4. Ausführen von Programmen
+		 5. Virenschutz 
+		 6. Administartor Accounts 
+		 7. Netzwerke segmentieren
+			 1. Begriff Netzwerksegmentieren 
+		8. Backups, Datensicherungskonzept 
+		9. Härtung des Active Directories
+		10. Notfalplan
  4. Detektion 
  5. Reaktion  
 
@@ -75,13 +99,15 @@ Die löse geld summen liegen oftmals im 6stelliegen bereich es gab aber auch sch
 		|-> Dadurch kann der Täter den Druck hoch halten.
 - Teilweise werden auch Kunden mit den abgeflossenen Daten erpresst.
 
+### Schaden 
+
+[seite 4 mitte pdf](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/Themen/Ransomware_Managementabstract-Angriffe.pdf?__blob=publicationFile&v=2)
+
+
 # 2.4 Schöne Grafik lol
 
 ![[Managementabstrakt Fortschrittliche Angriffe - Neue Qualität aktueller Angriffe und Prognose - Ransomware_Managementabstract-Angriffe.pdf]]
 
-### Schaden 
-
-[seite 4 mitte pdf](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/Themen/Ransomware_Managementabstract-Angriffe.pdf?__blob=publicationFile&v=2)
 
 # 3 Präventation
 
