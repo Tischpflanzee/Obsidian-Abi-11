@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "913fdc190dd6c41d",
+        "id": "de4047bb15f37c45",
         "type": "tabs",
         "children": [
           {
-            "id": "e1753139100784ac",
+            "id": "4bb13d318f7b1d4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eb3b08c1845a19fc",
@@ -164,22 +165,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1753139100784ac",
+  "active": "4bb13d318f7b1d4e",
   "lastOpenFiles": [
-    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Buch.pdf",
-    "Shool/deutsch/Themen/Corpus Delectiy/Charakterisierung von Mia Holl.md",
-    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Arbeitsplan III Corpus Delicti.pdf",
-    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Arbeitsplan II Corpus Delicti, Teil 2-1.pdf",
-    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Arbeitsplan Corpus Delicti - Teil 1_kommentiert.pdf",
-    "Shool/deutsch/Themen/Sprache_als_medium/Deutsch - Erfahrungen.md",
     "Shool/tk/Präsentation/Gliederung und co.md",
+    "Shool/tk/Präsentation/bilder/Ransomware_Killchain_d.png",
+    "Shool/tk/Präsentation/bilder/Ransomware_Killchain_d.png.part",
+    "Shool/tk/Präsentation/bilder",
+    "Shool/tk/Präsentation/pdfs/Managementabstrakt Fortschrittliche Angriffe - Neue Qualität aktueller Angriffe und Prognose - Ransomware_Managementabstract-Angriffe.pdf",
+    "Shool/itgk/Digitaltechnik/2025-11-11-Kombinationen.md",
+    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik_hilfe.pdf",
+    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik zusammengesetzte Gatter_kommentiert.pdf",
+    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik.pdf",
+    "Shool/itgk/Digitaltechnik/pdf/x/Digitaltechnik Einstiegsporblem.pdf",
+    "Shool/itgk/pdfs/01_ZahlsystemeBegriffe-2 und Anleitung _250905_122527.pdf",
+    "Shool/itgk/pdfs/ITech Festplatten.pdf",
+    "Shool/itgk/pdfs/ITECH Grundbegriffe und Signale.pdf",
+    "Shool/itgk/2025-07-26-Signale und Codes.md",
+    "Shool/deutsch/Themen/Corpus Delectiy/Charakterisierung von Mia Holl.md",
+    "Shool/deutsch/Themen/Sprache_als_medium/Deutsch - Erfahrungen.md",
     "Shool/chemie/echemie_und_redoxreaktionen/Was ist eine Redoxreaktion.md",
     "README.md",
-    "Shool/chemie/echemie_und_redoxreaktionen/Pdfs/2_Text_Def._Redoxreaktion_abgew_BeispielMg.pdf",
-    "Shool/chemie/echemie_und_redoxreaktionen/Pdfs",
     "Shool/englisch/The English Speaking World/Englishes and Language Change.md",
     "Shool/englisch/The English Speaking World/M02-Bad-English.md",
     "Shool/englisch/The English Speaking World/The english speaking world.canvas",
@@ -187,13 +196,8 @@
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/Stacheldraht & Soldat.jpg",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/183157-3x2-article1200.jpg",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/174670-3x2-article1200.jpg",
-    "Shool/Geschi/brd & ddr/Präsentation/Bilder",
-    "Shool/tk/Präsentation",
     "Shool/englisch/The English Speaking World/2025-11-14-Acents.md",
     "Shool/englisch/The English Speaking World/Bildbeschreibung.md",
-    "Shool/englisch/The English Speaking World/pdf/M02 Bad English_kommentiert.pdf",
-    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik_hilfe.pdf",
-    "Shool/itgk/Digitaltechnik/2025-11-11-Kombinationen.md",
     "Shool/deutsch/Themen/Corpus Delectiy/2025-11-19-Arbeitsplan-II.md",
     "Shool/powi/ki revolution/2025-11-10-Arbeit.md",
     "Shool/powi/Migration/Untitled.canvas",
@@ -207,7 +211,6 @@
     "Shool/chemie/Bilder/WhatsApp Image 2025-11-25 at 14.33.17.jpeg",
     "2025-11-25.md",
     "Shool/itgk/Digitaltechnik/Untitled.md",
-    "Shool/itgk/2025-07-26-Signale und Codes.md",
     "Shool/itgk/2025-09-02-Anleitung von Dezimal nach binär.md",
     "Shool/spanisch/Unidad 1 & 2/2025-10-19-Mehrzahl-Einzahl.md",
     "Shool/spanisch/Unidad 1 & 2/bild/famila.png",
