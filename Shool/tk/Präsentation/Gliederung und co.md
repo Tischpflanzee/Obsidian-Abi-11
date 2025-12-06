@@ -207,12 +207,60 @@ Im fall davon das alle Systeme im Netzwerk verschlüsselt sind und ein Erpressun
 **mabye nochmals umschreiben** 
 
 
+# 4. Detektion 
+
+## 4.1 Unübliche Nutzung von Kommandozeileninterpretern
+
+- Viele Angreifer nutzen die Commandozeile oder die Powershell um weiter schadsoftware nach zu laden oder erhörte rechte zu erlangen. 
+- Daher sollten diese auf Unregelmäßigkeiten untersucht werden. Und änderungen über diese Programme sollten überwacht  werden.
+**Wirkung in Phase: 1, 2, 3, 4 und 5**
+
+## 4.2 Auslessen von Anmeldedaten
+
+Das Auslessen von Anmelde daten wird von Angreifern insbesonders für die Ausbreitung im Netzwerk verwendet. 
+|-> hier bei werden oftmals tools wie Mimikatz, Procdump oder nutzen bereits auf dem System befindliche Bormittel wie z.B die Windows-Libary "Comcvsc.dll". 
+- Bei diesen Aktivitäten werden zum bsp. ein Dump des Local Security Authoirty Subsystem Service erstellet und Ausgeleseen, um Passwörter lokaler Nutzer zu erhalten.
+Wenn solche Datenbanken ausgelesen werden sollte es Arlame generiern werden.
+
+**Wirkung in Phase: 2 und 3**
+
+## 4.3 Anlegen von Scheduled Tasks 
+
+### 4.3.1 Was sind Scheduled Tasks
+
+Die **Aufgabenplanung** (vormals **Taskplaner**) ist ein Bestandteil aller modernen Versionen von Microsoft Windows und ermöglicht das Starten von Anwendungen einmalig oder wiederkehrend zu festgelegten Zeitpunkten.
+
+### 4.3.2 Scheduled Tasks im Kontext von Präventation
+
+Scheduled Tasks werden von Angreifern erstellt um dauerhaft auf einem System einzudringen. Da diesse Technik zu einer der Beliebtesten gehört, sollte das erstellen von Scheduked Task genau überwacht werden. 
+
+**Wirkung in Phase 1**
+
+## 4.4  Auskundschaften des Netzwerks
+
+Nachdem ein Angreifer zugriff auf ein System hat, wird oft versucht informationen über das netzwerk zu erlangen und dort vorhandenen Ressourcen zu bekommen.
+Diese Informationen bestehen z.B aus Active Direcotrys wo alle Objekte wie Benutzer, Computer, Drucker und Software in einer hierarchischen Struktur gespeichert sind. 
+
+**Wirkung in Phase: 3**
+
+## 4.5 Überwachung von Dateizugriffen 
+
+- Angreifer greifen auf Datein zu, vorallem um sie zu verschlüsseln. 
+- Diese zugriffe können erkannt werden indem die Nutzung von so genannten Canary Files die allein für die Detektion von Angreifer vorgesehen sind. 
+- Diese Dateien funktionieren indem ein üblicher User keine zugrif auf sie hat, sodass wenn sie verändert werden dies ein Starker Indiz für einen Laufenden angriff ist.  
+- Die Datein sollten an Kritischen stellen plaziert werden. 
 
 # Wörter --Erklärung
 
 ## Datenabfluss 
 
 Geklaute daten (glaube ich )
+
+## Acitve Directory 
+
+Active Directory (AD)
+
+ist ein zentrales Verzeichnis für Windows-Netzwerke, das alle Objekte wie Benutzer, Computer, Drucker und Software in einer hierarchischen Struktur organisier
 # Quelle
 
 ## Pdfs
