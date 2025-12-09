@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "de4047bb15f37c45",
+        "id": "89a096b654ee52a3",
         "type": "tabs",
         "children": [
           {
-            "id": "4bb13d318f7b1d4e",
+            "id": "c8b2a36eede5bc14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/tk/Präsentation/Gliederung und co.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Gliederung und co"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tags",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eb3b08c1845a19fc",
@@ -95,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shool/englisch/The English Speaking World/The english speaking world.canvas",
+                "file": "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The english speaking world"
+              "title": "Backlinks for Berliner Mauer"
             }
           },
           {
@@ -114,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shool/tk/Präsentation/Gliederung und co.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gliederung und co"
+              "title": "Outgoing links"
             }
           },
           {
@@ -143,31 +137,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shool/tk/Präsentation/Gliederung und co.md",
+                "file": "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gliederung und co"
-            }
-          },
-          {
-            "id": "9c1d0b0d348f3a49",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Berliner Mauer"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,37 +166,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c1d0b0d348f3a49",
+  "active": "b3b34ff6bfa08b01",
   "lastOpenFiles": [
-    "Shool/tk/Präsentation/pdfs/Managementabstrakt Fortschrittliche Angriffe - Neue Qualität aktueller Angriffe und Prognose - Ransomware_Managementabstract-Angriffe.pdf",
-    "Shool/tk/Präsentation/bilder/Managementabstrakt Fortschrittliche Angriffe - Neue Qualität aktueller Angriffe und Prognose - Ransomware_Managementabstract-Angriffe.png",
     "Shool/tk/Präsentation/Gliederung und co.md",
-    "Shool/tk/Präsentation/bilder/Ransomware_Killchain_d.png",
-    "Shool/tk/Präsentation/bilder/Ransomware_Killchain_d.png.part",
-    "Shool/tk/Präsentation/bilder",
-    "Shool/itgk/Digitaltechnik/2025-11-11-Kombinationen.md",
-    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik_hilfe.pdf",
-    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik zusammengesetzte Gatter_kommentiert.pdf",
-    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik.pdf",
-    "Shool/itgk/Digitaltechnik/pdf/x/Digitaltechnik Einstiegsporblem.pdf",
-    "Shool/itgk/pdfs/01_ZahlsystemeBegriffe-2 und Anleitung _250905_122527.pdf",
-    "Shool/itgk/pdfs/ITech Festplatten.pdf",
-    "Shool/itgk/pdfs/ITECH Grundbegriffe und Signale.pdf",
-    "Shool/itgk/2025-07-26-Signale und Codes.md",
+    "Shool/englisch/The English Speaking World/Englisch-Poster.md",
+    "Shool/itgk/Präsentation/Antiallising.md",
+    "Shool/itgk/Präsentation/Was ist eine Rastergrafik.md",
+    "Shool/deutsch/Themen/Corpus Delectiy/2025-11-19-Arbeitsplan-II.md",
     "Shool/deutsch/Themen/Corpus Delectiy/Charakterisierung von Mia Holl.md",
-    "Shool/deutsch/Themen/Sprache_als_medium/Deutsch - Erfahrungen.md",
-    "Shool/chemie/echemie_und_redoxreaktionen/Was ist eine Redoxreaktion.md",
-    "README.md",
-    "Shool/englisch/The English Speaking World/Englishes and Language Change.md",
-    "Shool/englisch/The English Speaking World/M02-Bad-English.md",
-    "Shool/englisch/The English Speaking World/The english speaking world.canvas",
+    "Shool/deutsch/Themen/Corpus Delectiy/2025-10-27-Arbeitsplan-Teil-1.md",
+    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Arbeitsplan III Corpus Delicti.pdf",
+    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Buch.pdf",
+    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/M2 Schreibplan Figurenanalyse.xopp~",
+    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/M2 Schreibplan Figurenanalyse.xopp",
+    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Arbeitsplan II Corpus Delicti, Teil 2-1.pdf",
+    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/M2 Schreibplan Figurenanalyse.pdf",
+    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/Arbeitsplan Corpus Delicti - Teil 1.pdf",
+    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/M1 Das ARCHE-Prinzip zu der Figur Mia Holl.pdf",
+    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/Arbeitsplan.pdf",
     "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer.md",
+    "Shool/deutsch/images/Sender-Empfaemger-Modell.fw_-3649212335.png",
+    "Shool/englisch/The English Speaking World/The english speaking world.canvas",
+    "Shool/Geschi/brd & ddr/Präsentation/Bilder/42517782_905.jpg",
+    "Shool/Geschi/brd & ddr/Präsentation/Gliederung.md",
+    "Shool/Geschi/brd & ddr/2025-10-27,2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten.md",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/Stacheldraht & Soldat.jpg",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/183157-3x2-article1200.jpg",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/174670-3x2-article1200.jpg",
+    "Shool/itgk/Abgabe Itgk.md",
+    "README.md",
+    "Shool/tk/Präsentation/bilder/Managementabstrakt Fortschrittliche Angriffe - Neue Qualität aktueller Angriffe und Prognose - Ransomware_Managementabstract-Angriffe.png",
+    "Shool/itgk/pdfs/06_Regeln.pdf",
+    "Shool/tk/Präsentation/bilder/Ransomware_Killchain_d.png",
+    "Shool/itgk/Digitaltechnik/2025-11-11-Kombinationen.md",
+    "Shool/itgk/2025-07-26-Signale und Codes.md",
+    "Shool/deutsch/Themen/Sprache_als_medium/Deutsch - Erfahrungen.md",
+    "Shool/chemie/echemie_und_redoxreaktionen/Was ist eine Redoxreaktion.md",
+    "Shool/englisch/The English Speaking World/Englishes and Language Change.md",
+    "Shool/englisch/The English Speaking World/M02-Bad-English.md",
     "Shool/englisch/The English Speaking World/2025-11-14-Acents.md",
     "Shool/englisch/The English Speaking World/Bildbeschreibung.md",
-    "Shool/deutsch/Themen/Corpus Delectiy/2025-11-19-Arbeitsplan-II.md",
     "Shool/powi/ki revolution/2025-11-10-Arbeit.md",
     "Shool/powi/Migration/Untitled.canvas",
     "Shool/spanisch/Unidad 1 & 2/2025-11-20-Book-S.25.md",
@@ -219,16 +213,8 @@
     "Shool/deutsch/Themen/Sprache_als_medium/Arbeit-Korrektur.md",
     "Shool/chemie/Arbeit/Arbeit.md",
     "Shool/Reli/Klausur-Übung-Text.md",
-    "Shool/Reli/Arbeit/Arbeit-Linus.md",
-    "Shool/chemie/Protocol Reaktion Schwefel und Eisen.md",
     "Shool/chemie/Bilder/WhatsApp Image 2025-11-25 at 14.33.17.jpeg",
-    "2025-11-25.md",
-    "Shool/itgk/Digitaltechnik/Untitled.md",
-    "Shool/itgk/2025-09-02-Anleitung von Dezimal nach binär.md",
-    "Shool/spanisch/Unidad 1 & 2/2025-10-19-Mehrzahl-Einzahl.md",
     "Shool/spanisch/Unidad 1 & 2/bild/famila.png",
-    "Pasted image 20251028120354.png",
-    "Shool/deutsch/pdfs/faszinieren-powerpoint-hintergrund-vorlagen-bewundernswerte-von-powerpoint-hintergrund-vorlagen-508191327.jpg",
-    "Shool/itgk/Präsentation/bilder/Kreis_reingez grdnojf.png"
+    "Pasted image 20251028120354.png"
   ]
 }

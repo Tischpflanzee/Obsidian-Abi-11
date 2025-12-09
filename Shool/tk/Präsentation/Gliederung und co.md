@@ -250,7 +250,7 @@ Diese Informationen bestehen z.B aus Active Direcotrys wo alle Objekte wie Benut
 - Diese Dateien funktionieren indem ein üblicher User keine zugrif auf sie hat, sodass wenn sie verändert werden dies ein Starker Indiz für einen Laufenden angriff ist.  
 - Die Datein sollten an Kritischen stellen plaziert werden. 
 
-## 4.6
+
 
 # Wörter --Erklärung
 
