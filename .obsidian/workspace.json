@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Gliederung und co"
             }
+          },
+          {
+            "id": "806c3ea1753f736c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/e-technik/Wie Funktioniert ein Stromkreis/Wie Funktioniert ein Stromkreis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wie Funktioniert ein Stromkreis"
+            }
+          },
+          {
+            "id": "a925523cac04b420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/e-technik/Wie Funktioniert ein Stromkreis/Wie Funktioniert ein Stromkreis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wie Funktioniert ein Stromkreis"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shool/tk/Präsentation/Gliederung und co.md",
+                "file": "Personal/e-technik/Wie Funktioniert ein Stromkreis/Wie Funktioniert ein Stromkreis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gliederung und co"
+              "title": "Outline of Wie Funktioniert ein Stromkreis"
             }
           },
           {
@@ -166,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +210,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4bb13d318f7b1d4e",
+  "active": "a925523cac04b420",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Personal/e-technik/Wechselrichter/Wechselrichter.md",
+    "Personal/e-technik/Wie Funktioniert ein Stromkreis/Wie Funktioniert ein Stromkreis.md",
+    "Personal/e-technik/Wechselrichter",
+    "Personal/e-technik/Wie Funktioniert ein Stromkreis/Bilder/Pasted image 20251212212214.png",
+    "Personal/e-technik/Wie Funktioniert ein Stromkreis/Bilder",
+    "Personal/e-technik/Wie Funktioniert ein Stromkreis",
     "Shool/tk/Präsentation/Gliederung und co.md",
+    "Personal/e-technik",
+    "conflict-files-obsidian-git.md",
     "Personal/Elektrotechnik/Wie funktioniert ein Stromkreis.md",
     "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/M2 Schreibplan Figurenanalyse.xopp",
     "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/M2 Schreibplan Figurenanalyse.pdf",
@@ -196,10 +233,6 @@
     "Shool/tk/Präsentation/bilder/Ransomware_Killchain_d.png.part",
     "Shool/tk/Präsentation/bilder",
     "Shool/itgk/Digitaltechnik/2025-11-11-Kombinationen.md",
-    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik_hilfe.pdf",
-    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik zusammengesetzte Gatter_kommentiert.pdf",
-    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik.pdf",
-    "Shool/itgk/Digitaltechnik/pdf/x/Digitaltechnik Einstiegsporblem.pdf",
     "Shool/itgk/2025-07-26-Signale und Codes.md",
     "Shool/deutsch/Themen/Corpus Delectiy/Charakterisierung von Mia Holl.md",
     "Shool/deutsch/Themen/Sprache_als_medium/Deutsch - Erfahrungen.md",
@@ -225,10 +258,7 @@
     "Shool/Reli/Arbeit/Arbeit-Linus.md",
     "Shool/chemie/Protocol Reaktion Schwefel und Eisen.md",
     "Shool/chemie/Bilder/WhatsApp Image 2025-11-25 at 14.33.17.jpeg",
-    "2025-11-25.md",
-    "Shool/itgk/Digitaltechnik/Untitled.md",
     "Shool/spanisch/Unidad 1 & 2/bild/famila.png",
-    "Pasted image 20251028120354.png",
-    "Shool/deutsch/pdfs/faszinieren-powerpoint-hintergrund-vorlagen-bewundernswerte-von-powerpoint-hintergrund-vorlagen-508191327.jpg"
+    "Pasted image 20251028120354.png"
   ]
 }
