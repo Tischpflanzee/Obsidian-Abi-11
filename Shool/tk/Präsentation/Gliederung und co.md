@@ -1,40 +1,3 @@
- 1. Ransomware 
-	 1. Was ist Ransomware 
-	 2. Bsp. Ssh
- 2. Bedrohungslage
-	 1. Wenn sie Betrifft 
-	 2. Wie angegriffen wird
-		 1. 1
-		 2. 2
-		 3.  Automatisierte und manuelle Aufklärung von Netzwerken
-			 1. Schaden
-				 1. Sicherung existent 
-				 2. Sicherung **nicht** existent  
-		4. Verschlüsselung von Systemen 
-			1. Schadenswirkung 
-				1. Mit Datensicherungen 
-				2. Ohne Datensicherungen 
-	3. Veröffentlichung von Daten
-		1. Schaden 
-	4. Schöne Grafik lol
- 3. Prävention 
-	 1. Von dem Anderem Pdf
-		 1. Patches und Updates
-		 2.  Remote Zugänge 
-		 3. E-Mails und Makros
-		 4. Ausführen von Programmen
-		 5. Virenschutz 
-		 6. Administartor Accounts 
-		 7. Netzwerke segmentieren
-			 1. Begriff Netzwerksegmentieren 
-		8. Backups, Datensicherungskonzept 
-		9. Härtung des Active Directories
-		10. Notfalplan
- 4. Detektion 
- 5. Reaktion  
-
-
-
 # 1. Ransomeware
 
 ## 1.1 Was ist Ransomware 
@@ -73,7 +36,7 @@ Alte Datei Sicherungen wiederherstellen (wenn existent) viel nacharbeit kann vor
 ### 2.2.4 Verschlüsselung von Systemen 
 
 Wenn die Verschlüsselung von Daten großen Teil der Orginazion lahmlegen könnten und es sich um ein Zahlungskräftiges Unternehmen handelt. Rollen sie eine Ransomware  auf allen (Server-) Systemen aus, wodurch oftmals aufgrund des Angreifers hohen rechten oder nicht ausreichend durchdachter Backup-Konzepte häufig auch alle datei sicherungen  Verschlüsselt, sofern sie nicht ofline sind. 
-Die löse geld summen liegen oftmals im 6stelliegen bereich es gab aber auch schon fälle wo die summe im 8stelliegen bereich lagen.
+Die löse geld summen liegen oftmals im 6stelliegen bereich es gab aber auch schon fälle wo die summe im 8stelliegen bereich lagen. Es kommt aber sehr auf das Unternehmen drauf an. 
 
 
 
@@ -237,7 +200,7 @@ Scheduled Tasks werden von Angreifern erstellt um dauerhaft auf einem System ein
 **Wirkung in Phase 1**
 
 ## 4.4  Auskundschaften des Netzwerks
-
+DDoS-Angriffe
 Nachdem ein Angreifer zugriff auf ein System hat, wird oft versucht informationen über das netzwerk zu erlangen und dort vorhandenen Ressourcen zu bekommen.
 Diese Informationen bestehen z.B aus Active Direcotrys wo alle Objekte wie Benutzer, Computer, Drucker und Software in einer hierarchischen Struktur gespeichert sind. 
 
@@ -249,8 +212,12 @@ Diese Informationen bestehen z.B aus Active Direcotrys wo alle Objekte wie Benut
 - Diese zugriffe können erkannt werden indem die Nutzung von so genannten Canary Files die allein für die Detektion von Angreifer vorgesehen sind. 
 - Diese Dateien funktionieren indem ein üblicher User keine zugrif auf sie hat, sodass wenn sie verändert werden dies ein Starker Indiz für einen Laufenden angriff ist.  
 - Die Datein sollten an Kritischen stellen plaziert werden. 
+ein **Reputationsverlust**  und weiter **negative finanzielle Auswirkungen** ergeben könnte.
+## 4.6  Löschung von Backups
 
-## 4.6
+https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Ransomware-Angriffe/Top-10-Massnahmen-Detektion/top-10-massnahmen-detektion_node.html
+
+
 
 # Wörter --Erklärung
 
@@ -272,5 +239,5 @@ https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/Themen/Rans
 ## Links
 
 1. https://www.ncsc.admin.ch/ncsc/de/home/cyberbedrohungen/datenabfluss.html
-2. [Quelle](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Ransomware-Angriffe/ransomware-angriffe_node.html)
+2. https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Ransomware-Angriffe/ransomware-angriffe_node.html
 3. https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Ransomware-Angriffe/Top-10-Ransomware-Massnahmen/top-10-ransomware-massnahmen_node.html

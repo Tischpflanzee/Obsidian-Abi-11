@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tags",
+                "query": "#shool",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eb3b08c1845a19fc",
@@ -163,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,11 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c1d0b0d348f3a49",
+  "active": "b3b34ff6bfa08b01",
   "lastOpenFiles": [
+    "Shool/tk/Präsentation/Gliederung und co.md",
+    "Personal/Elektrotechnik/Wie funktioniert ein Stromkreis.md",
+    "Personal/Elektrotechnik",
     "Shool/tk/Präsentation/pdfs/Managementabstrakt Fortschrittliche Angriffe - Neue Qualität aktueller Angriffe und Prognose - Ransomware_Managementabstract-Angriffe.pdf",
     "Shool/tk/Präsentation/bilder/Managementabstrakt Fortschrittliche Angriffe - Neue Qualität aktueller Angriffe und Prognose - Ransomware_Managementabstract-Angriffe.png",
-    "Shool/tk/Präsentation/Gliederung und co.md",
     "Shool/tk/Präsentation/bilder/Ransomware_Killchain_d.png",
     "Shool/tk/Präsentation/bilder/Ransomware_Killchain_d.png.part",
     "Shool/tk/Präsentation/bilder",
@@ -196,7 +197,6 @@
     "Shool/itgk/Digitaltechnik/pdf/x/Digitaltechnik Einstiegsporblem.pdf",
     "Shool/itgk/pdfs/01_ZahlsystemeBegriffe-2 und Anleitung _250905_122527.pdf",
     "Shool/itgk/pdfs/ITech Festplatten.pdf",
-    "Shool/itgk/pdfs/ITECH Grundbegriffe und Signale.pdf",
     "Shool/itgk/2025-07-26-Signale und Codes.md",
     "Shool/deutsch/Themen/Corpus Delectiy/Charakterisierung von Mia Holl.md",
     "Shool/deutsch/Themen/Sprache_als_medium/Deutsch - Erfahrungen.md",
