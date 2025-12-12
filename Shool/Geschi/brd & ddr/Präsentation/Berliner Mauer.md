@@ -27,16 +27,17 @@ Die Schusswaffe dürfe eingesetzt werden:
 [Quelle](https://www.berlin.de/mauer/geschichte/mauertote/ )
 
 ## Mauerbau 1961
-
+.
 Nachdem rund 2,7 Mio. Menschen die DDR verlassen hatte drohte ihr die Massenabwanderung, der **Flüchtlingsstrom** der etwas **zur hälfte** aus **jungen Leuten** unter 25 Jahren bestand, wobei täglich ungefähr eine **halbe Millionen** Menschen **Flüchteten**, entschloss sich die SED-Spitze, im Einvernehmen mit Moskau, den Fluchtweg nach Westen zu sperren.
 
 
 ### 13. August 
 
-Schon am **13.August** wurden an der Grenze des sowjetischen Sektors zu **West-Berlin provisorische Absicherungen** errichtet und an **den Verbindungsstraßen** das Pflaster aufgerissen.(siehe bild) 
-Die Sektorengrenze zwischen.Ost-und Westberlin wurden  militärisch abriegeln und in der Folgezeit durch eine Betonmauer undurchdringlich machen. 
+Schon am **13.August** wurden an der Grenze des sowjetischen Sektors zu **West-Berlin provisorische Absicherungen** errichtet und an **den Verbindungsstraßen** das Pflaster aufgerissen, fast alle S-und U-Bahnlinien werden gekappt und Pflasterstein Barrikadieren oder sie stellen Beton pfähle und Stacheldraht .(siehe bild) 
+Die Sektorengrenze zwischen. Ost-und Westberlin wurden  militärisch abriegeln und in der Folgezeit durch eine Betonmauer undurchdringlich machen.  
 
 #### Bilder
+![[42517782_905.jpg]]
 
 ![[183157-3x2-article1200.jpg]]
 
@@ -56,6 +57,15 @@ Viele DDR-Bürger arrangierten sich mit dem Bestehenden System und diese bedankt
 
 In der Folgezeit wurden die Sperranlagen weiter aus- und umgebaut und das Kontrollsystem an der Grenze perfektioniert.
 
+### Mauer Infos 
+
+Die Mauer war 3,6 Meter Hoch und der Todesstreifen. 
+
+## Überwachung 
+
+Menschen werden abgehärt, Post geöffnet, Spitzel auf Freude und sogar Eheleute angesetzt. 
+
+https://www.dw.com/de/der-mauerbau-und-die-stasi/a-58755371
 
 ### Mauerbau Quellen
 
@@ -72,3 +82,5 @@ https://www.chronik-der-mauer.de/180100/mauerbau-13-august-1961 (Aufrufdatum: 01
 # Quellen
 https://www.berlin.de/mauer/geschichte/mauertote/ (Aufrufdataum: 24.11.2025 )
 https://www.berlin.de/mauer/geschichte/bau-der-mauer/ (Aufrufdatum: 01.12.25)
+https://www.dw.com/de/der-mauerbau-und-die-stasi/a-58755371
+(Aufrufdatum: 08.12.25)

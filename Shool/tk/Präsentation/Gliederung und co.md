@@ -218,6 +218,10 @@ ein **Reputationsverlust**  und weiter **negative finanzielle Auswirkungen** erg
 https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Ransomware-Angriffe/Top-10-Massnahmen-Detektion/top-10-massnahmen-detektion_node.html
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 
 # Wörter --Erklärung
 
