@@ -8,13 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8b2a36eede5bc14",
+            "id": "a6d907d068c90aad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/M1 Das ARCHE-Prinzip zu der Figur Mia Holl.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "M1 Das ARCHE-Prinzip zu der Figur Mia Holl"
             }
           }
         ]
@@ -166,20 +168,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3b34ff6bfa08b01",
+  "active": "a6d907d068c90aad",
   "lastOpenFiles": [
+    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/M1 Das ARCHE-Prinzip zu der Figur Mia Holl.xopp~",
+    "Shool/deutsch/Themen/Corpus Delectiy/Charakterisierung von Mia Holl.md",
+    "Shool/deutsch/Themen/Corpus Delectiy/2025-11-19-Arbeitsplan-II.md",
+    "Shool/deutsch/Themen/Corpus Delectiy/2025-10-27-Arbeitsplan-Teil-1.md",
+    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Arbeitsplan III Corpus Delicti.pdf",
+    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Arbeitsplan II Corpus Delicti, Teil 2-1.pdf",
+    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik_hilfe.pdf",
     "Shool/tk/Präsentation/Gliederung und co.md",
     "Shool/englisch/The English Speaking World/Englisch-Poster.md",
     "Shool/itgk/Präsentation/Antiallising.md",
     "Shool/itgk/Präsentation/Was ist eine Rastergrafik.md",
-    "Shool/deutsch/Themen/Corpus Delectiy/2025-11-19-Arbeitsplan-II.md",
-    "Shool/deutsch/Themen/Corpus Delectiy/Charakterisierung von Mia Holl.md",
-    "Shool/deutsch/Themen/Corpus Delectiy/2025-10-27-Arbeitsplan-Teil-1.md",
-    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Arbeitsplan III Corpus Delicti.pdf",
     "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Buch.pdf",
     "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/M2 Schreibplan Figurenanalyse.xopp~",
     "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/M2 Schreibplan Figurenanalyse.xopp",
-    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Arbeitsplan II Corpus Delicti, Teil 2-1.pdf",
     "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/M2 Schreibplan Figurenanalyse.pdf",
     "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/Arbeitsplan Corpus Delicti - Teil 1.pdf",
     "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/M1 Das ARCHE-Prinzip zu der Figur Mia Holl.pdf",
@@ -196,7 +200,6 @@
     "Shool/itgk/Abgabe Itgk.md",
     "README.md",
     "Shool/tk/Präsentation/bilder/Managementabstrakt Fortschrittliche Angriffe - Neue Qualität aktueller Angriffe und Prognose - Ransomware_Managementabstract-Angriffe.png",
-    "Shool/itgk/pdfs/06_Regeln.pdf",
     "Shool/tk/Präsentation/bilder/Ransomware_Killchain_d.png",
     "Shool/itgk/Digitaltechnik/2025-11-11-Kombinationen.md",
     "Shool/itgk/2025-07-26-Signale und Codes.md",
@@ -212,7 +215,6 @@
     "Shool/chemie/Hypothese zu eisen Schwefel gedöns.md",
     "Shool/deutsch/Themen/Sprache_als_medium/Arbeit-Korrektur.md",
     "Shool/chemie/Arbeit/Arbeit.md",
-    "Shool/Reli/Klausur-Übung-Text.md",
     "Shool/chemie/Bilder/WhatsApp Image 2025-11-25 at 14.33.17.jpeg",
     "Shool/spanisch/Unidad 1 & 2/bild/famila.png",
     "Pasted image 20251028120354.png"
