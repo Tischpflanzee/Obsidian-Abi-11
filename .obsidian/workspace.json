@@ -11,12 +11,14 @@
             "id": "a6d907d068c90aad",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/M1 Das ARCHE-Prinzip zu der Figur Mia Holl.pdf"
+                "file": "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "M1 Das ARCHE-Prinzip zu der Figur Mia Holl"
+              "icon": "lucide-file",
+              "title": "Berliner Mauer"
             }
           }
         ]
@@ -147,14 +149,23 @@
               "icon": "lucide-list",
               "title": "Outline of Berliner Mauer"
             }
+          },
+          {
+            "id": "bbc3a47052858531",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6d907d068c90aad",
+  "active": "b3b34ff6bfa08b01",
   "lastOpenFiles": [
+    "Shool/Reli/pdfs/x/Tetris.zip",
+    "Shool/Reli/pdfs/x/tetris_for_two_linux_v1.HQQE5DA3.4.zip.part",
+    "Shool/Reli/pdfs/x/tetris_for_two_linux_v1.4.zip",
+    "Shool/tk/Präsentation/Gliederung und co.md",
+    "Shool/tk/Wer bin ich - Präsentation.md",
+    "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer.md",
+    "Shool/Geschi/brd & ddr/Präsentation/Gliederung.md",
+    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/M1 Das ARCHE-Prinzip zu der Figur Mia Holl.pdf",
     "Personal/e-technik/Wie Funktioniert ein Stromkreis/Bilder/Pasted image 20251212212214.png",
     "Personal/e-technik/Wie Funktioniert ein Stromkreis/Wie Funktioniert ein Stromkreis.md",
     "Personal/e-technik/Wie Funktioniert ein Stromkreis/Bilder",
@@ -183,18 +202,12 @@
     "Shool/deutsch/Themen/Corpus Delectiy/2025-10-27-Arbeitsplan-Teil-1.md",
     "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Arbeitsplan III Corpus Delicti.pdf",
     "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Arbeitsplan II Corpus Delicti, Teil 2-1.pdf",
-    "Shool/itgk/Digitaltechnik/pdf/Digitaltechnik_hilfe.pdf",
-    "Shool/tk/Präsentation/Gliederung und co.md",
     "Shool/englisch/The English Speaking World/Englisch-Poster.md",
     "Shool/itgk/Präsentation/Antiallising.md",
     "Shool/itgk/Präsentation/Was ist eine Rastergrafik.md",
-    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Buch.pdf",
-    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/x/M2 Schreibplan Figurenanalyse.xopp~",
-    "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer.md",
     "Shool/deutsch/images/Sender-Empfaemger-Modell.fw_-3649212335.png",
     "Shool/englisch/The English Speaking World/The english speaking world.canvas",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/42517782_905.jpg",
-    "Shool/Geschi/brd & ddr/Präsentation/Gliederung.md",
     "Shool/Geschi/brd & ddr/2025-10-27,2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten.md",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/Stacheldraht & Soldat.jpg",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/183157-3x2-article1200.jpg",
@@ -214,9 +227,7 @@
     "Shool/powi/ki revolution/2025-11-10-Arbeit.md",
     "Shool/powi/Migration/Untitled.canvas",
     "Shool/spanisch/Unidad 1 & 2/2025-11-20-Book-S.25.md",
-    "Shool/chemie/Hypothese zu eisen Schwefel gedöns.md",
     "Shool/chemie/Bilder/WhatsApp Image 2025-11-25 at 14.33.17.jpeg",
-    "Shool/spanisch/Unidad 1 & 2/bild/famila.png",
-    "Pasted image 20251028120354.png"
+    "Shool/spanisch/Unidad 1 & 2/bild/famila.png"
   ]
 }

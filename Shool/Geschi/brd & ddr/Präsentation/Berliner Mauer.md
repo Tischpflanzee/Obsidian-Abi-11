@@ -2,7 +2,7 @@
 
 tags: #powi #brrddr #berlienermauer
 
-Bestand vom 13.August 1961 bis zum 9.November 1989 um West-Berlin vom Gebiet hermetisch(also das keiner ein oder ausdringen kann) abzuriegeln. 
+Bestand vom 13.August 1961 bis zum 9.November 1989 um West-Berlin vom Gebiet hermetisch(also das keiner ein oder ausdingen kann) abzuriegeln. 
 
 ## Mauer tote
 
