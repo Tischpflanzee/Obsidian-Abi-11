@@ -7,7 +7,7 @@
 # Bis Montag
 
 # Bis Dienstag
-ITGK AB(auf modell)
+
 
 # Bis Mittwoch
 
@@ -18,7 +18,9 @@ ITGK AB(auf modell)
 
 # Bis Freitag
 
+# Bis nach Wochenende
 
+Englisch aufgabenplan 
 
 # Bis Nach den ferien 
  

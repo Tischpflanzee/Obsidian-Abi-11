@@ -1,3 +1,4 @@
+#ransomewre #itgk 
 # 1. Ransomeware
 
 ## 1.1 Was ist Ransomware 
@@ -200,7 +201,6 @@ Scheduled Tasks werden von Angreifern erstellt um dauerhaft auf einem System ein
 **Wirkung in Phase 1**
 
 ## 4.4  Auskundschaften des Netzwerks
-DDoS-Angriffe
 Nachdem ein Angreifer zugriff auf ein System hat, wird oft versucht informationen über das netzwerk zu erlangen und dort vorhandenen Ressourcen zu bekommen.
 Diese Informationen bestehen z.B aus Active Direcotrys wo alle Objekte wie Benutzer, Computer, Drucker und Software in einer hierarchischen Struktur gespeichert sind. 
 
@@ -218,10 +218,7 @@ ein **Reputationsverlust**  und weiter **negative finanzielle Auswirkungen** erg
 https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Ransomware-Angriffe/Top-10-Massnahmen-Detektion/top-10-massnahmen-detektion_node.html
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/main
+<<a<a<<<<<<<<<<<<<<<<
 
 # Wörter --Erklärung
 
