@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/TO DO.md",
+                "file": "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO DO"
+              "title": "Berliner Mauer"
             }
           }
         ]
@@ -157,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -183,6 +183,8 @@
   },
   "active": "2a2bc7ca43d65633",
   "lastOpenFiles": [
+    "Shool/Geschi/brd & ddr/2025-10-27,2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten.md",
+    "Shool/TO DO.md",
     "Personal/Notizen/2026/Januar/1. Januar.md",
     "To do.md",
     "Personal/Notizen/2026/Januar",
@@ -190,7 +192,6 @@
     "Shool/deutsch/Themen/Corpus Delectiy/pdfs/M2 Schreibplan Figurenanalyse_kommentiert.pdf",
     "Personal/Notizen",
     "Shool/tk/Präsentation/Gliederung und co.md",
-    "Shool/TO DO.md",
     "Shool/englisch/The English Speaking World/pdf/x/M04 The Sounds of English.xopp~",
     "Shool/englisch/The English Speaking World/pdf/x/M04 The Sounds of English.xopp",
     "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer.md",
@@ -213,7 +214,6 @@
     "Shool/deutsch/images/Sender-Empfaemger-Modell.fw_-3649212335.png",
     "Shool/englisch/The English Speaking World/The english speaking world.canvas",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/42517782_905.jpg",
-    "Shool/Geschi/brd & ddr/2025-10-27,2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten.md",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/Stacheldraht & Soldat.jpg",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/183157-3x2-article1200.jpg",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/174670-3x2-article1200.jpg",
