@@ -38,4 +38,7 @@ Oxidation: 4 * -1e⁻
       Reduktion: 2* 2e⁻
 
 ```
+
+#chemie #redoxreaktions 
+
 ![[2_Text_Def._Redoxreaktion_abgew_BeispielMg.pdf]]
