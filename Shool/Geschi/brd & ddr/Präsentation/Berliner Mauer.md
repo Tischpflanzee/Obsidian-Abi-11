@@ -4,6 +4,7 @@ tags: #powi #brrddr #berlienermauer
 
 Bestand vom 13.August 1961 bis zum 9.November 1989 um West-Berlin vom Gebiet hermetisch(also das keiner ein oder ausdingen kann) abzuriegeln. 
 
+
 ## Mauer tote
 
 ### Anzahl
@@ -35,6 +36,7 @@ Nachdem rund 2,7 Mio. Menschen die DDR verlassen hatte drohte ihr die Massenabwa
 
 Schon am **13.August** wurden an der Grenze des sowjetischen Sektors zu **West-Berlin provisorische Absicherungen** errichtet und an **den Verbindungsstraßen** das Pflaster aufgerissen, fast alle S-und U-Bahnlinien werden gekappt und Pflasterstein Barrikadieren oder sie stellen Beton pfähle und Stacheldraht .(siehe bild) 
 Die Sektorengrenze zwischen. Ost-und Westberlin wurden  militärisch abriegeln und in der Folgezeit durch eine Betonmauer undurchdringlich machen.  
+Nur wenige Kontrollpunkte bleiben offen.
 
 #### Bilder
 ![[42517782_905.jpg]]
