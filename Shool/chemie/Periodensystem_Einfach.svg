@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Do not edit with Inkscape! This destroys easy editing with a plaintext editor with blockmarking. -->
+<!-- Bitte nicht mit Inkscape oder einer anderen SVG-Software editieren!
+ Das Layout dieser Datei ist so ausgewählt, dass man mit einem Plaintext-Editor, welcher Blockauswahl beherrscht,
+ die Daten und Koordinaten leicht mittels C&P (z. B. von Excel) ändern kann. -->
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="2050px" height="1100px" viewBox="0 0 2050 1100" xml:space="preserve" style="stroke-linecap: square; cursor: default;">
+	<style type="text/css">
+		text{
+			font-family: "Liberation Sans", Arial, sans-serif;
+			stroke: none;
+			fill: #000000;
+		}
+	</style>
+	<defs>
+		<symbol overflow="visible" id="Color01"> <!-- Alkalimetall -->
+			<rect x="0" y="0" width="100" height="100" style="stroke:#000000; stroke-width:2;stroke-linejoin:miter; fill :#FF8888"/>
+		</symbol>
+		<symbol overflow="visible" id="Color02"> <!-- ErdAlkalimetall -->
+			<rect x="0" y="0" width="100" height="100" style="stroke:#000000; stroke-width:2; stroke-linejoin:miter; fill :#FFAADD"/>
+		</symbol>
+		<symbol overflow="visible" id="Color03"> <!-- Übergangsmetall -->
+			<rect x="0" y="0" width="100" height="100" style="stroke:#000000; stroke-width:2; stroke-linejoin:miter; fill :#BBFFFF"/>
+		</symbol>
+		<symbol overflow="visible" id="Color04"> <!-- Lanthanoid -->
+			<rect x="0" y="0" width="100" height="100" style="stroke:#000000; stroke-width:2; stroke-linejoin:miter; fill:#FFCC99"/>
+		</symbol>
+		<symbol overflow="visible" id="Color05"> <!-- Actinoid -->
+			<rect x="0" y="0" width="100" height="100" style="stroke:#000000; stroke-width:2; stroke-linejoin:miter; fill:#FFBB77"/>
+		</symbol>
+		<symbol overflow="visible" id="Color06"> <!-- Metall -->
+			<rect x="0" y="0" width="100" height="100" style="stroke:#000000; stroke-width:2; stroke-linejoin:miter; fill :#CCCCCC"/>
+		</symbol>
+		<symbol overflow="visible" id="Color07"> <!-- Halbmetall -->
+			<rect x="0" y="0" width="100" height="100" style="stroke:#000000; stroke-width:2; stroke-linejoin:miter; fill :#DDDDBB"/>
+		</symbol>
+		<symbol overflow="visible" id="Color08"> <!-- Nichtmetall -->
+			<rect x="0" y="0" width="100" height="100" style="stroke:#000000; stroke-width:2; stroke-linejoin:miter; fill :#99FF99"/>
+		</symbol>
+		<symbol overflow="visible" id="Color09"> <!-- Halogen -->
+			<rect x="0" y="0" width="100" height="100" style="stroke:#000000; stroke-width:2; stroke-linejoin:miter; fill :#FFFF99"/>
+		</symbol>
+		<symbol overflow="visible" id="Farbe10"> <!-- Edelgas -->
+			<rect x="0" y="0" width="100" height="100" style="stroke:#000000; stroke-width:2; stroke-linejoin:miter; fill :#BBBBFF"/>
+		</symbol>
+		<symbol overflow="visible" id="Farbe11"> <!-- Platzhalter und unbekannt -->
+			<rect x="0" y="0" width="100" height="100" style="stroke:#000000; stroke-width:2; stroke-linejoin:miter; fill :#FFFFFF"/>
+		</symbol>
+		<symbol overflow="visible" id="Stripes"><!-- Overlay white vertical stripes -->
+			<clipPath id="myClip">
+				<rect width="98" height="98" x="1" y="1"/>
+			</clipPath>
+			<g style="stroke :none; fill :#FFFFFF; stroke :none; clip-path :url(#myClip);">
+				<rect x="5" y="1" width="6" height="98"/>
+				<rect x="17" y="1" width="6" height="98"/>
+				<rect x="29" y="1" width="6" height="98"/>
+				<rect x="41" y="1" width="6" height="98"/>
+				<rect x="53" y="1" width="6" height="98"/>
+				<rect x="65" y="1" width="6" height="98"/>
+				<rect x="77" y="1" width="6" height="98"/>
+				<rect x="89" y="1" width="6" height="98"/>
+			</g>
+		</symbol>
+		<!-- Overlay trigon top right. Color is defined by use. -->
+		<symbol id="trigon">
+				<polygon points="1,1 99,1 99,99"/>
+		</symbol>
+	</defs>
+	<rect id="paper" x="0" y="0" width="2100" height="1100" style="stroke :none; fill :#FFFFFF"/>
+	<g id="Tabelle" transform="translate(100,50)">
+		<!-- coordinates, relative to the  transformation:
+		  group:  1   2    3   xx   4    5    6    7    8    9   10    11    12    13    14    15    16    17    18   End
+		x-value:  0, 100, 200,300,400, 500, 600, 700, 800, 900, 1000, 1100, 1200, 1300, 1400, 1500, 1600, 1700, 1800, 1900
+
+		 period:  1   2    3    4    5    6    7   End         Lan  Act  End
+		y-value:  0, 100, 200, 300, 400, 500, 600, 700, sowie  800, 900, 1000
+		-->
+		<g id="Rechtecke">
+			<!-- Period 1 -->
+			<use id="UseOz001" x="0" y="0" xlink:href="#Color08"/><!-- Here overlays -->
+			<use id="UseOz002" x="1800" y="0" xlink:href="#Farbe10"/>
+			<!-- Period 2 -->
+			<use id="UseOz003" x="0" y="100" xlink:href="#Color01"/>
+			<use id="UseOz004" x="100" y="100" xlink:href="#Color02"/>
+			<use id="UseOz005" x="1300" y="100" xlink:href="#Color07"/>
+			<use id="UseOz006" x="1400" y="100" xlink:href="#Color08"/>
+			<use id="UseOz007" x="1500" y="100" xlink:href="#Color08"/>
+			<use id="UseOz008" x="1600" y="100" xlink:href="#Color08"/>
+			<use id="UseOz009" x="1700" y="100" xlink:href="#Color09"/>
+			<use id="UseOz010" x="1800" y="100" xlink:href="#Farbe10"/>
+			<!-- Period 3 -->
+			<use id="UseOz011" x="0" y="200" xlink:href="#Color01"/>
+			<use id="UseOz012" x="100" y="200" xlink:href="#Color02"/>
+			<use id="UseOz013" x="1300" y="200" xlink:href="#Color06"/>
+			<use id="UseOz014" x="1400" y="200" xlink:href="#Color07"/>
+			<use id="UseOz015" x="1500" y="200" xlink:href="#Color08"/>
+			<use id="UseOz016" x="1600" y="200" xlink:href="#Color08"/>
+			<use id="UseOz017" x="1700" y="200" xlink:href="#Color09"/>
+			<use id="UseOz018" x="1800" y="200" xlink:href="#Farbe10"/>
+			<!-- Period 4 -->
+			<use id="UseOz019" x="0" y="300" xlink:href="#Color01"/>
+			<use id="UseOz020" x="100" y="300" xlink:href="#Color02"/>
+			<use id="UseOz021" x="200" y="300" xlink:href="#Color03"/>
+			<use id="UseOz022" x="400" y="300" xlink:href="#Color03"/>
+			<use id="UseOz023" x="500" y="300" xlink:href="#Color03"/>
+			<use id="UseOz024" x="600" y="300" xlink:href="#Color03"/>
+			<use id="UseOz025" x="700" y="300" xlink:href="#Color03"/>
+			<use id="UseOz026" x="800" y="300" xlink:href="#Color03"/>
+			<use id="UseOz027" x="900" y="300" xlink:href="#Color03"/>
+			<use id="UseOz028" x="1000" y="300" xlink:href="#Color03"/>
+			<use id="UseOz029" x="1100" y="300" xlink:href="#Color03"/>
+			<use id="UseOz030" x="1200" y="300" xlink:href="#Color03"/>
+			<use id="UseOz031" x="1300" y="300" xlink:href="#Color06"/>
+			<use id="UseOz032" x="1400" y="300" xlink:href="#Color06"/><use id="TrigOZ032" x="1400" y="300" xlink:href="#trigon" style="fill:#DDDDBB; stroke:none;"/><!-- Color07 -->
+			<use id="UseOz033" x="1500" y="300" xlink:href="#Color07"/>
+			<use id="UseOz034" x="1600" y="300" xlink:href="#Color07"/><use id="TrigOZ034" x="1600" y="300" xlink:href="#trigon" style="fill:#99FF99; stroke:none;"/><!-- Color08 -->
+			<use id="UseOz035" x="1700" y="300" xlink:href="#Color09"/>
+			<use id="UseOz036" x="1800" y="300" xlink:href="#Farbe10"/>
+			<!-- Periode 5 -->
+			<use id="UseOz037" x="0" y="400" xlink:href="#Color01"/>
+			<use id="UseOz038" x="100" y="400" xlink:href="#Color02"/>
+			<use id="UseOz039" x="200" y="400" xlink:href="#Color03"/>
+			<use id="UseOz040" x="400" y="400" xlink:href="#Color03"/>
+			<use id="UseOz041" x="500" y="400" xlink:href="#Color03"/>
+			<use id="UseOz042" x="600" y="400" xlink:href="#Color03"/>
+			<use id="UseOz043" x="700" y="400" xlink:href="#Color03"/><use id="UseOz043s" x="700" y="400" xlink:href="#Stripes"/>
+			<use id="UseOz044" x="800" y="400" xlink:href="#Color03"/>
+			<use id="UseOz045" x="900" y="400" xlink:href="#Color03"/>
+			<use id="UseOz046" x="1000" y="400" xlink:href="#Color03"/>
+			<use id="UseOz047" x="1100" y="400" xlink:href="#Color03"/>
+			<use id="UseOz048" x="1200" y="400" xlink:href="#Color03"/>
+			<use id="UseOz049" x="1300" y="400" xlink:href="#Color06"/>
+			<use id="UseOz050" x="1400" y="400" xlink:href="#Color06"/>
+			<use id="UseOz051" x="1500" y="400" xlink:href="#Color06"/><use id="TrigOZ051" x="1500" y="400" xlink:href="#trigon" style="fill:#DDDDBB; stroke:none;"/><!-- Color07 -->
+			<use id="UseOz052" x="1600" y="400" xlink:href="#Color07"/>
+			<use id="UseOz053" x="1700" y="400" xlink:href="#Color09"/>
+			<use id="UseOz054" x="1800" y="400" xlink:href="#Farbe10"/>
+			<!-- Period 6 -->
+			<use id="UseOz055" x="0" y="500" xlink:href="#Color01"/>
+			<use id="UseOz056" x="100" y="500" xlink:href="#Color02"/>
+			<use id="UseOz057" x="200" y="500" xlink:href="#Color03"/>
+			<use id="UseOz072" x="400" y="500" xlink:href="#Color03"/>
+			<use id="UseOz073" x="500" y="500" xlink:href="#Color03"/>
+			<use id="UseOz074" x="600" y="500" xlink:href="#Color03"/>
+			<use id="UseOz075" x="700" y="500" xlink:href="#Color03"/>
+			<use id="UseOz076" x="800" y="500" xlink:href="#Color03"/>
+			<use id="UseOz077" x="900" y="500" xlink:href="#Color03"/>
+			<use id="UseOz078" x="1000" y="500" xlink:href="#Color03"/>
+			<use id="UseOz079" x="1100" y="500" xlink:href="#Color03"/>
+			<use id="UseOz080" x="1200" y="500" xlink:href="#Color03"/>
+			<use id="UseOz081" x="1300" y="500" xlink:href="#Color06"/>
+			<use id="UseOz082" x="1400" y="500" xlink:href="#Color06"/>
+			<use id="UseOz083" x="1500" y="500" xlink:href="#Color06"/>
+			<use id="UseOz084" x="1600" y="500" xlink:href="#Color06"/><use id="TrigOz084" x="1600" y="500" xlink:href="#trigon" style="fill:#DDDDBB; stroke:none;"/><!-- Color07 -->
+			<use id="UseOz085" x="1700" y="500" xlink:href="#Color07"/><use id="TrigOz085" x="1700" y="500" xlink:href="#trigon" style="fill:#FFFF99; stroke:none;"/><!-- Color09 -->
+			<use id="UseOz086" x="1800" y="500" xlink:href="#Farbe10"/>
+			<!-- Period 7 -->
+			<use id="UseOz087" x="0" y="600" xlink:href="#Color01"/>
+			<use id="UseOz088" x="100" y="600" xlink:href="#Color02"/>
+			<use id="UseOz089" x="200" y="600" xlink:href="#Color03"/>
+			<use id="UseOz104" x="400" y="600" xlink:href="#Color03"/><use id="UseOz104s" x="400" y="600" xlink:href="#Stripes"/>
+			<use id="UseOz105" x="500" y="600" xlink:href="#Color03"/><use id="UseOz105s" x="500" y="600" xlink:href="#Stripes"/>
+			<use id="UseOz106" x="600" y="600" xlink:href="#Color03"/><use id="UseOz106s" x="600" y="600" xlink:href="#Stripes"/>
+			<use id="UseOz107" x="700" y="600" xlink:href="#Color03"/><use id="UseOz107s" x="700" y="600" xlink:href="#Stripes"/>
+			<use id="UseOz108" x="800" y="600" xlink:href="#Color03"/><use id="UseOz108s" x="800" y="600" xlink:href="#Stripes"/>
+			<use id="UseOz109" x="900" y="600" xlink:href="#Color03"/><use id="UseOz109s" x="900" y="600" xlink:href="#Stripes"/>
+			<use id="UseOz110" x="1000" y="600" xlink:href="#Color03"/><use id="UseOz110s" x="1000" y="600" xlink:href="#Stripes"/>
+			<use id="UseOz111" x="1100" y="600" xlink:href="#Color03"/><use id="UseOz111s" x="1100" y="600" xlink:href="#Stripes"/>
+			<use id="UseOz112" x="1200" y="600" xlink:href="#Color03"/><use id="UseOz112s" x="1200" y="600" xlink:href="#Stripes"/>
+			<use id="UseOz113" x="1300" y="600" xlink:href="#Farbe11"/>
+			<use id="UseOz114" x="1400" y="600" xlink:href="#Farbe11"/>
+			<use id="UseOz115" x="1500" y="600" xlink:href="#Farbe11"/>
+			<use id="UseOz116" x="1600" y="600" xlink:href="#Farbe11"/>
+			<use id="UseOz117" x="1700" y="600" xlink:href="#Farbe11"/>
+			<use id="UseOz118" x="1800" y="600" xlink:href="#Farbe11"/>
+			<!-- Lanthanoide -->
+			<use id="UseOz058" x="300" y="800" xlink:href="#Color04"/>
+			<use id="UseOz059" x="400" y="800" xlink:href="#Color04"/>
+			<use id="UseOz060" x="500" y="800" xlink:href="#Color04"/>
+			<use id="UseOz061" x="600" y="800" xlink:href="#Color04"/><use id="UseOz061s" x="600" y="800" xlink:href="#Stripes"/>
+			<use id="UseOz062" x="700" y="800" xlink:href="#Color04"/>
+			<use id="UseOz063" x="800" y="800" xlink:href="#Color04"/>
+			<use id="UseOz064" x="900" y="800" xlink:href="#Color04"/>
+			<use id="UseOz065" x="1000" y="800" xlink:href="#Color04"/>
+			<use id="UseOz066" x="1100" y="800" xlink:href="#Color04"/>
+			<use id="UseOz067" x="1200" y="800" xlink:href="#Color04"/>
+			<use id="UseOz068" x="1300" y="800" xlink:href="#Color04"/>
+			<use id="UseOz069" x="1400" y="800" xlink:href="#Color04"/>
+			<use id="UseOz070" x="1500" y="800" xlink:href="#Color04"/>
+			<use id="UseOz071" x="1600" y="800" xlink:href="#Color04"/>
+			<!-- Actinoide -->
+			<use id="UseOz090" x="300" y="900" xlink:href="#Color05"/>
+			<use id="UseOz091" x="400" y="900" xlink:href="#Color05"/>
+			<use id="UseOz092" x="500" y="900" xlink:href="#Color05"/>
+			<use id="UseOz093" x="600" y="900" xlink:href="#Color05"/><use id="UseOz093s" x="600" y="900" xlink:href="#Stripes"/>
+			<use id="UseOz094" x="700" y="900" xlink:href="#Color05"/>
+			<use id="UseOz095" x="800" y="900" xlink:href="#Color05"/><use id="UseOz095s" x="800" y="900" xlink:href="#Stripes"/>
+			<use id="UseOz096" x="900" y="900" xlink:href="#Color05"/><use id="UseOz096s" x="900" y="900" xlink:href="#Stripes"/>
+			<use id="UseOz097" x="1000" y="900" xlink:href="#Color05"/><use id="UseOz097s" x="1000" y="900" xlink:href="#Stripes"/>
+			<use id="UseOz098" x="1100" y="900" xlink:href="#Color05"/><use id="UseOz098s" x="1100" y="900" xlink:href="#Stripes"/>
+			<use id="UseOz099" x="1200" y="900" xlink:href="#Color05"/><use id="UseOz099s" x="1200" y="900" xlink:href="#Stripes"/>
+			<use id="UseOz100" x="1300" y="900" xlink:href="#Color05"/><use id="UseOz100s" x="1300" y="900" xlink:href="#Stripes"/>
+			<use id="UseOz101" x="1400" y="900" xlink:href="#Color05"/><use id="UseOz101s" x="1400" y="900" xlink:href="#Stripes"/>
+			<use id="UseOz102" x="1500" y="900" xlink:href="#Color05"/><use id="UseOz102s" x="1500" y="900" xlink:href="#Stripes"/>
+			<use id="UseOz103" x="1600" y="900" xlink:href="#Color05"/><use id="UseOz103s" x="1600" y="900" xlink:href="#Stripes"/>
+			<!-- Placeholder -->
+			<use id="UseOz_La" x="300" y="500" xlink:href="#Farbe11"/>
+			<use id="UseOz_Ac" x="300" y="600" xlink:href="#Farbe11"/>
+		</g>
+		<!-- repainting outer borders -->
+		<g style="fill :none; stroke :#000000; stroke-width :2;  stroke-linejoin :round;">
+			<polygon points="0,0 100,0 100,100 200,100 200,300 300,300 300,500 400,500 400,300 1300,300 1300,100 1800,100 1800,0 1900,0 1900,700 0,700"/>
+			<polygon points="300,800 1700,800 1700,1000 300,1000"/>
+		</g>
+		<!-- Arrow from the upper to the lower table -->
+		<polygon transform="translate(350,710)" points="-4,2 -4,65 -8,65 0,78 8,65 4,65 4,2" id="Pfeil"/>
+		<!-- Here, grid is finished -->
+		<!-- Text. At first labels for periods and groups -->
+		<g id="Gridtext">
+			<text transform="matrix(0,-1,1,0,-30,355)" style="text-anchor :middle; font-size:40px; font-weight: bold;">Periode</text>
+			<g style="font-size: 30px; text-anchor: end; font-weight :bold;">
+				<text x="-6" y="55" id="TextPer01">1</text>
+				<text x="-6" y="155" id="TextPer02">2</text>
+				<text x="-6" y="255" id="TextPer03">3</text>
+				<text x="-6" y="355" id="TextPer04">4</text>
+				<text x="-6" y="455" id="TextPer05">5</text>
+				<text x="-6" y="555" id="TextPer06">6</text>
+				<text x="-6" y="655" id="TextPer07">7</text>
+				<text x="285" y="855" id="TextLa">Lanthanoide</text>
+				<text x="285" y="955" id="TextAc">Actinoide</text>
+			</g>
+			<!-- y-values:  20, 80, 200 -->
+			<g style="font-size :30px;text-anchor :middle; font-weight :bold;" transform="translate(50,-5)">
+				<text x="1450" y="50" id="TextGrup" style="font-size :40px; font-weight :bold;">Gruppe</text>
+				<text x="0" y="0" id="TextGr01">1</text>
+				<text x="100" y="100" id="TextGr02">2</text>
+				<text x="200" y="300" id="TextGr03">3</text>
+				<text x="400" y="300" id="TextGr04">4</text>
+				<text x="500" y="300" id="TextGr05">5</text>
+				<text x="600" y="300" id="TextGr06">6</text>
+				<text x="700" y="300" id="TextGr07">7</text>
+				<text x="800" y="300" id="TextGr08">8</text>
+				<text x="900" y="300" id="TextGr09">9</text>
+				<text x="1000" y="300" id="TextGr10">10</text>
+				<text x="1100" y="300" id="TextGr11">11</text>
+				<text x="1200" y="300" id="TextGr12">12</text>
+				<text x="1300" y="100" id="TextGr13">13</text>
+				<text x="1400" y="100" id="TextGr14">14</text>
+				<text x="1500" y="100" id="TextGr15">15</text>
+				<text x="1600" y="100" id="TextGr16">16</text>
+				<text x="1700" y="100" id="TextGr17">17</text>
+				<text x="1800" y="0" id="TextGr18">18</text>
+			</g>
+			<!-- filling the grid, sort by size and alignment -->
+			<!-- Ordnungszahl -->
+			<g transform="translate(4,18)" id="OZ" style="fill:#000000; font-size :16px; font-weight :bold; text-anchor :start;">
+				<!-- Period 1 -->
+				<text x="0" y="0" id="TextOz001">1</text>
+				<text x="1800" y="0" id="TextOz002">2</text>
+				<!-- Period 2 -->
+				<text x="0" y="100" id="TextOz003">3</text>
+				<text x="100" y="100" id="TextOz004">4</text>
+				<text x="1300" y="100" id="TextOz005">5</text>
+				<text x="1400" y="100" id="TextOz006">6</text>
+				<text x="1500" y="100" id="TextOz007">7</text>
+				<text x="1600" y="100" id="TextOz008">8</text>
+				<text x="1700" y="100" id="TextOz009">9</text>
+				<text x="1800" y="100" id="TextOz010">10</text>
+				<!-- Period 3 -->
+				<text x="0" y="200" id="TextOz011">11</text>
+				<text x="100" y="200" id="TextOz012">12</text>
+				<text x="1300" y="200" id="TextOz013">13</text>
+				<text x="1400" y="200" id="TextOz014">14</text>
+				<text x="1500" y="200" id="TextOz015">15</text>
+				<text x="1600" y="200" id="TextOz016">16</text>
+				<text x="1700" y="200" id="TextOz017">17</text>
+				<text x="1800" y="200" id="TextOz018">18</text>
+				<!-- Period 4 -->
+				<text x="0" y="300" id="TextOz019">19</text>
+				<text x="100" y="300" id="TextOz020">20</text>
+				<text x="200" y="300" id="TextOz021">21</text>
+				<text x="400" y="300" id="TextOz022">22</text>
+				<text x="500" y="300" id="TextOz023">23</text>
+				<text x="600" y="300" id="TextOz024">24</text>
+				<text x="700" y="300" id="TextOz025">25</text>
+				<text x="800" y="300" id="TextOz026">26</text>
+				<text x="900" y="300" id="TextOz027">27</text>
+				<text x="1000" y="300" id="TextOz028">28</text>
+				<text x="1100" y="300" id="TextOz029">29</text>
+				<text x="1200" y="300" id="TextOz030">30</text>
+				<text x="1300" y="300" id="TextOz031">31</text>
+				<text x="1400" y="300" id="TextOz032">32</text>
+				<text x="1500" y="300" id="TextOz033">33</text>
+				<text x="1600" y="300" id="TextOz034">34</text>
+				<text x="1700" y="300" id="TextOz035">35</text>
+				<text x="1800" y="300" id="TextOz036">36</text>
+				<!-- Period 5 -->
+				<text x="0" y="400" id="TextOz037">37</text>
+				<text x="100" y="400" id="TextOz038">38</text>
+				<text x="200" y="400" id="TextOz039">39</text>
+				<text x="400" y="400" id="TextOz040">40</text>
+				<text x="500" y="400" id="TextOz041">41</text>
+				<text x="600" y="400" id="TextOz042">42</text>
+				<text x="700" y="400" id="TextOz043">43</text>
+				<text x="800" y="400" id="TextOz044">44</text>
+				<text x="900" y="400" id="TextOz045">45</text>
+				<text x="1000" y="400" id="TextOz046">46</text>
+				<text x="1100" y="400" id="TextOz047">47</text>
+				<text x="1200" y="400" id="TextOz048">48</text>
+				<text x="1300" y="400" id="TextOz049">49</text>
+				<text x="1400" y="400" id="TextOz050">50</text>
+				<text x="1500" y="400" id="TextOz051">51</text>
+				<text x="1600" y="400" id="TextOz052">52</text>
+				<text x="1700" y="400" id="TextOz053">53</text>
+				<text x="1800" y="400" id="TextOz054">54</text>
+				<!-- Period 6 -->
+				<text x="0" y="500" id="TextOz055">55</text>
+				<text x="100" y="500" id="TextOz056">56</text>
+				<text x="200" y="500" id="TextOz057">57</text>
+				<text x="400" y="500" id="TextOz072">72</text>
+				<text x="500" y="500" id="TextOz073">73</text>
+				<text x="600" y="500" id="TextOz074">74</text>
+				<text x="700" y="500" id="TextOz075">75</text>
+				<text x="800" y="500" id="TextOz076">76</text>
+				<text x="900" y="500" id="TextOz077">77</text>
+				<text x="1000" y="500" id="TextOz078">78</text>
+				<text x="1100" y="500" id="TextOz079">79</text>
+				<text x="1200" y="500" id="TextOz080">80</text>
+				<text x="1300" y="500" id="TextOz081">81</text>
+				<text x="1400" y="500" id="TextOz082">82</text>
+				<text x="1500" y="500" id="TextOz083">83</text>
+				<text x="1600" y="500" id="TextOz084">84</text>
+				<text x="1700" y="500" id="TextOz085">85</text>
+				<text x="1800" y="500" id="TextOz086">86</text>
+				<!-- Period 7 -->
+				<text x="0" y="600" id="TextOz087">87</text>
+				<text x="100" y="600" id="TextOz088">88</text>
+				<text x="200" y="600" id="TextOz089">89</text>
+				<text x="400" y="600" id="TextOz104">104</text>
+				<text x="500" y="600" id="TextOz105">105</text>
+				<text x="600" y="600" id="TextOz106">106</text>
+				<text x="700" y="600" id="TextOz107">107</text>
+				<text x="800" y="600" id="TextOz108">108</text>
+				<text x="900" y="600" id="TextOz109">109</text>
+				<text x="1000" y="600" id="TextOz110">110</text>
+				<text x="1100" y="600" id="TextOz111">111</text>
+				<text x="1200" y="600" id="TextOz112">112</text>
+				<text x="1300" y="600" id="TextOz113">113</text>
+				<text x="1400" y="600" id="TextOz114">114</text>
+				<text x="1500" y="600" id="TextOz115">115</text>
+				<text x="1600" y="600" id="TextOz116">116</text>
+				<text x="1700" y="600" id="TextOz117">117</text>
+				<text x="1800" y="600" id="TextOz118">118</text>
+				<!-- Lanthanoide -->
+				<text x="300" y="800" id="TextOz058">58</text>
+				<text x="400" y="800" id="TextOz059">59</text>
+				<text x="500" y="800" id="TextOz060">60</text>
+				<text x="600" y="800" id="TextOz061">61</text>
+				<text x="700" y="800" id="TextOz062">62</text>
+				<text x="800" y="800" id="TextOz063">63</text>
+				<text x="900" y="800" id="TextOz064">64</text>
+				<text x="1000" y="800" id="TextOz065">65</text>
+				<text x="1100" y="800" id="TextOz066">66</text>
+				<text x="1200" y="800" id="TextOz067">67</text>
+				<text x="1300" y="800" id="TextOz068">68</text>
+				<text x="1400" y="800" id="TextOz069">69</text>
+				<text x="1500" y="800" id="TextOz070">70</text>
+				<text x="1600" y="800" id="TextOz071">71</text>
+				<!-- Actinoide -->
+				<text x="300" y="900" id="TextOz090">90</text>
+				<text x="400" y="900" id="TextOz091">91</text>
+				<text x="500" y="900" id="TextOz092">92</text>
+				<text x="600" y="900" id="TextOz093">93</text>
+				<text x="700" y="900" id="TextOz094">94</text>
+				<text x="800" y="900" id="TextOz095">95</text>
+				<text x="900" y="900" id="TextOz096">96</text>
+				<text x="1000" y="900" id="TextOz097">97</text>
+				<text x="1100" y="900" id="TextOz098">98</text>
+				<text x="1200" y="900" id="TextOz099">99</text>
+				<text x="1300" y="900" id="TextOz100">100</text>
+				<text x="1400" y="900" id="TextOz101">101</text>
+				<text x="1500" y="900" id="TextOz102">102</text>
+				<text x="1600" y="900" id="TextOz103">103</text>
+				<!-- Platzhalter -->
+				<text x="300" y="500" id="TextOz_La">58–71</text>
+				<text x="300" y="600" id="TextOz_Ac">90–103</text>
+			</g>
+			<!-- Atommasse -->
+			<g style="font-size :16px; font-weight :bold; text-anchor :end;" transform="translate(96,18)">
+				<!-- Period 1 -->
+				<text x="0" y="0">1,008</text>
+				<text x="1800" y="0">4,0026</text>
+				<!-- Period 2 -->
+				<text x="0" y="100">6,94</text>
+				<text x="100" y="100">9,0122</text>
+				<text x="1300" y="100">10,81</text>
+				<text x="1400" y="100">12,011</text>
+				<text x="1500" y="100">14,007</text>
+				<text x="1600" y="100">15,999</text>
+				<text x="1700" y="100">18,998</text>
+				<text x="1800" y="100">20,180</text>
+				<!-- Period 3 -->
+				<text x="0" y="200">22,990</text>
+				<text x="100" y="200">24,305</text>
+				<text x="1300" y="200">26,982</text>
+				<text x="1400" y="200">28,085</text>
+				<text x="1500" y="200">30,974</text>
+				<text x="1600" y="200">32,06</text>
+				<text x="1700" y="200">35,45</text>
+				<text x="1800" y="200">39,948</text>
+				<!-- Period 4 -->
+				<text x="0" y="300">39,098</text>
+				<text x="100" y="300">40,078</text>
+				<text x="200" y="300">44,956</text>
+				<text x="400" y="300">47,867</text>
+				<text x="500" y="300">50,942</text>
+				<text x="600" y="300">51,996</text>
+				<text x="700" y="300">54,938</text>
+				<text x="800" y="300">55,845</text>
+				<text x="900" y="300">58,933</text>
+				<text x="1000" y="300">58,693</text>
+				<text x="1100" y="300">63,546</text>
+				<text x="1200" y="300">65,380</text>
+				<text x="1300" y="300">69,723</text>
+				<text x="1400" y="300">72,630</text>
+				<text x="1500" y="300">74,922</text>
+				<text x="1600" y="300">78,971</text>
+				<text x="1700" y="300">79,904</text>
+				<text x="1800" y="300">83,798</text>
+				<!-- Period 5 -->
+				<text x="0" y="400">85,468</text>
+				<text x="100" y="400">87,62</text>
+				<text x="200" y="400">88,906</text>
+				<text x="400" y="400">91,224</text>
+				<text x="500" y="400">92,906</text>
+				<text x="600" y="400">95,95</text>
+				<text x="700" y="400">96,906</text>
+				<text x="800" y="400">101,07</text>
+				<text x="900" y="400">102,91</text>
+				<text x="1000" y="400">106,42</text>
+				<text x="1100" y="400">107,87</text>
+				<text x="1200" y="400">112,41</text>
+				<text x="1300" y="400">114,82</text>
+				<text x="1400" y="400">118,71</text>
+				<text x="1500" y="400">121,76</text>
+				<text x="1600" y="400">127,60</text>
+				<text x="1700" y="400">126,90</text>
+				<text x="1800" y="400">131,29</text>
+				<!-- Period 6 -->
+				<text x="0" y="500">132,91</text>
+				<text x="100" y="500">137,33</text>
+				<text x="200" y="500">138,91</text>
+
+				<text x="400" y="500">178,49</text>
+				<text x="500" y="500">180,95</text>
+				<text x="600" y="500">183,84</text>
+				<text x="700" y="500">186,21</text>
+				<text x="800" y="500">190,23</text>
+				<text x="900" y="500">192,22</text>
+				<text x="1000" y="500">195,08</text>
+				<text x="1100" y="500">196,97</text>
+				<text x="1200" y="500">200,59</text>
+				<text x="1300" y="500">204,38</text>
+				<text x="1400" y="500">207,20</text>
+				<text x="1500" y="500">208,98</text>
+				<text x="1600" y="500">209,98</text>
+				<text x="1700" y="500">209,99</text>
+				<text x="1800" y="500">222,02</text>
+				<!-- Period 7 -->
+				<text x="0" y="600">223,03</text>
+				<text x="100" y="600">226,03</text>
+				<text x="200" y="600">227,03</text>
+				<text x="400" y="600">267,12</text>
+				<text x="500" y="600">270,13</text>
+				<text x="600" y="600">269,13</text>
+				<text x="700" y="600">270,13</text>
+				<text x="800" y="600">269,13</text>
+				<text x="900" y="600">278,16</text>
+				<text x="1000" y="600">281,17</text>
+				<text x="1100" y="600">281,17</text>
+				<text x="1200" y="600">285,18</text>
+				<text x="1300" y="600">286,18</text>
+				<text x="1400" y="600">289,19</text>
+				<text x="1500" y="600">289,20</text>
+				<text x="1600" y="600">293,20</text>
+				<text x="1700" y="600">293,21</text>
+				<text x="1800" y="600">294,21</text>
+				<!-- Lanthanoide -->
+				<text x="300" y="800">140,12</text>
+				<text x="400" y="800">140,91</text>
+				<text x="500" y="800">144,24</text>
+				<text x="600" y="800">144,91</text>
+				<text x="700" y="800">150,36</text>
+				<text x="800" y="800">151,96</text>
+				<text x="900" y="800">157,25</text>
+				<text x="1000" y="800">158,93</text>
+				<text x="1100" y="800">162,50</text>
+				<text x="1200" y="800">164,93</text>
+				<text x="1300" y="800">167,26</text>
+				<text x="1400" y="800">168,93</text>
+				<text x="1500" y="800">173,05</text>
+				<text x="1600" y="800">174,97</text>
+				<!-- Actinoide -->
+				<text x="300" y="900">232,04</text>
+				<text x="400" y="900">231,04</text>
+				<text x="500" y="900">238,03</text>
+				<text x="600" y="900">237,05</text>
+				<text x="700" y="900">244,06</text>
+				<text x="800" y="900">243,06</text>
+				<text x="900" y="900">247,07</text>
+				<text x="1000" y="900">247,07</text>
+				<text x="1100" y="900">251,08</text>
+				<text x="1200" y="900">252,08</text>
+				<text x="1300" y="900">257,10</text>
+				<text x="1400" y="900">258,10</text>
+				<text x="1500" y="900">259,10</text>
+				<text x="1600" y="900">262,11</text>
+			</g>
+			<!-- Symbol -->
+			<g transform="translate(50,60)" style="text-anchor :middle; font-size :40px; font-weight :bold;">
+				<!-- Period 1 -->
+				<text x="0" y="0" id="TextSym001" style="fill :#ff0000">H</text>
+				<text x="1800" y="0" id="TextSym002" style="fill :#ff0000">He</text>
+				<!-- Period 2 -->
+				<text x="0" y="100" id="TextSym003" style="fill :#000000">Li</text>
+				<text x="100" y="100" id="TextSym004" style="fill :#000000">Be</text>
+				<text x="1300" y="100" id="TextSym005" style="fill :#000000">B</text>
+				<text x="1400" y="100" id="TextSym006" style="fill :#000000">C</text>
+				<text x="1500" y="100" id="TextSym007" style="fill :#FF0000">N</text>
+				<text x="1600" y="100" id="TextSym008" style="fill :#FF0000">O</text>
+				<text x="1700" y="100" id="TextSym009" style="fill :#FF0000">F</text>
+				<text x="1800" y="100" id="TextSym010" style="fill :#ff0000">Ne</text>
+				<!-- Period 3 -->
+				<text x="0" y="200" id="TextSym011" style="fill :#000000">Na</text>
+				<text x="100" y="200" id="TextSym012" style="fill :#000000">Mg</text>
+				<text x="1300" y="200" id="TextSym013" style="fill :#000000">Al</text>
+				<text x="1400" y="200" id="TextSym014" style="fill :#000000">Si</text>
+				<text x="1500" y="200" id="TextSym015" style="fill :#000000">P</text>
+				<text x="1600" y="200" id="TextSym016" style="fill :#000000">S</text>
+				<text x="1700" y="200" id="TextSym017" style="fill :#ff0000">Cl</text>
+				<text x="1800" y="200" id="TextSym018" style="fill :#ff0000">Ar</text>
+				<!-- Period 4 -->
+				<text x="0" y="300" id="TextSym019" style="fill :#000000">K</text>
+				<text x="100" y="300" id="TextSym020" style="fill :#000000">Ca</text>
+				<text x="200" y="300" id="TextSym021" style="fill :#000000">Sc</text>
+				<text x="400" y="300" id="TextSym022" style="fill :#000000">Ti</text>
+				<text x="500" y="300" id="TextSym023" style="fill :#000000">V</text>
+				<text x="600" y="300" id="TextSym024" style="fill :#000000">Cr</text>
+				<text x="700" y="300" id="TextSym025" style="fill :#000000">Mn</text>
+				<text x="800" y="300" id="TextSym026" style="fill :#000000">Fe</text>
+				<text x="900" y="300" id="TextSym027" style="fill :#000000">Co</text>
+				<text x="1000" y="300" id="TextSym028" style="fill :#000000">Ni</text>
+				<text x="1100" y="300" id="TextSym029" style="fill :#000000">Cu</text>
+				<text x="1200" y="300" id="TextSym030" style="fill :#000000">Zn</text>
+				<text x="1300" y="300" id="TextSym031" style="fill :#000000">Ga</text>
+				<text x="1400" y="300" id="TextSym032" style="fill :#000000">Ge</text>
+				<text x="1500" y="300" id="TextSym033" style="fill :#000000">As</text>
+				<text x="1600" y="300" id="TextSym034" style="fill :#000000">Se</text>
+				<text x="1700" y="300" id="TextSym035" style="fill :#0000ff">Br</text>
+				<text x="1800" y="300" id="TextSym036" style="fill :#ff0000">Kr</text>
+				<!-- Period 5 -->
+				<text x="0" y="400" id="TextSym037" style="fill :#000000">Rb</text>
+				<text x="100" y="400" id="TextSym038" style="fill :#000000">Sr</text>
+				<text x="200" y="400" id="TextSym039" style="fill :#000000">Y</text>
+				<text x="400" y="400" id="TextSym040" style="fill :#000000">Zr</text>
+				<text x="500" y="400" id="TextSym041" style="fill :#000000">Nb</text>
+				<text x="600" y="400" id="TextSym042" style="fill :#000000">Mo</text>
+				<text x="700" y="400" id="TextSym043" style="fill :#000000; text-decoration :underline;">Tc</text>
+				<text x="800" y="400" id="TextSym044" style="fill :#000000">Ru</text>
+				<text x="900" y="400" id="TextSym045" style="fill :#000000">Rh</text>
+				<text x="1000" y="400" id="TextSym046" style="fill :#000000">Pd</text>
+				<text x="1100" y="400" id="TextSym047" style="fill :#000000">Ag</text>
+				<text x="1200" y="400" id="TextSym048" style="fill :#000000">Cd</text>
+				<text x="1300" y="400" id="TextSym049" style="fill :#000000">In</text>
+				<text x="1400" y="400" id="TextSym050" style="fill :#000000">Sn</text>
+				<text x="1500" y="400" id="TextSym051" style="fill :#000000">Sb</text>
+				<text x="1600" y="400" id="TextSym052" style="fill :#000000">Te</text>
+				<text x="1700" y="400" id="TextSym053" style="fill :#000000">I</text>
+				<text x="1800" y="400" id="TextSym054" style="fill :#ff0000">Xe</text>
+				<!-- Period 6 -->
+				<text x="0" y="500" id="TextSym055" style="fill :#000000">Cs</text>
+				<text x="100" y="500" id="TextSym056" style="fill :#000000">Ba</text>
+				<text x="200" y="500" id="TextSym057" style="fill :#000000">La</text>
+				<text x="400" y="500" id="TextSym072" style="fill :#000000">Hf</text>
+				<text x="500" y="500" id="TextSym073" style="fill :#000000">Ta</text>
+				<text x="600" y="500" id="TextSym074" style="fill :#000000">W</text>
+				<text x="700" y="500" id="TextSym075" style="fill :#000000">Re</text>
+				<text x="800" y="500" id="TextSym076" style="fill :#000000">Os</text>
+				<text x="900" y="500" id="TextSym077" style="fill :#000000">Ir</text>
+				<text x="1000" y="500" id="TextSym078" style="fill :#000000">Pt</text>
+				<text x="1100" y="500" id="TextSym079" style="fill :#000000">Au</text>
+				<text x="1200" y="500" id="TextSym080" style="fill :#0000FF">Hg</text>
+				<text x="1300" y="500" id="TextSym081" style="fill :#000000">Tl</text>
+				<text x="1400" y="500" id="TextSym082" style="fill :#000000">Pb</text>
+				<text x="1500" y="500" id="TextSym083" style="fill :#000000; text-decoration :underline;">Bi</text>
+				<text x="1600" y="500" id="TextSym084" style="fill :#000000; text-decoration :underline;">Po</text>
+				<text x="1700" y="500" id="TextSym085" style="fill :#000000; text-decoration :underline;">At</text>
+				<text x="1800" y="500" id="TextSym086" style="fill :#FF0000; text-decoration :underline;">Rn</text>
+				<!-- Period 7 -->
+				<text x="0" y="600" id="TextSym087" style="fill :#000000; text-decoration :underline;">Fr</text>
+				<text x="100" y="600" id="TextSym088" style="fill :#000000; text-decoration :underline;">Ra</text>
+				<text x="200" y="600" id="TextSym089" style="fill :#000000; text-decoration :underline;">Ac</text>
+				<text x="400" y="600" id="TextSym104" style="fill :#000000; text-decoration :underline;">Rf</text>
+				<text x="500" y="600" id="TextSym105" style="fill :#000000; text-decoration :underline;">Db</text>
+				<text x="600" y="600" id="TextSym106" style="fill :#000000; text-decoration :underline;">Sg</text>
+				<text x="700" y="600" id="TextSym107" style="fill :#000000; text-decoration :underline;">Bh</text>
+				<text x="800" y="600" id="TextSym108" style="fill :#000000; text-decoration :underline;">Hs</text>
+				<text x="900" y="600" id="TextSym109" style="fill :#000000; text-decoration :underline;">Mt</text>
+				<text x="1000" y="600" id="TextSym110" style="fill :#000000; text-decoration :underline;">Ds</text>
+				<text x="1100" y="600" id="TextSym111" style="fill :#000000; text-decoration :underline;">Rg</text>
+				<text x="1200" y="600" id="TextSym112" style="fill :#999999; text-decoration :underline;">Cn</text>
+				<text x="1300" y="600" id="TextSym113" style="fill :#999999; text-decoration :underline;">Nh</text>
+				<text x="1400" y="600" id="TextSym114" style="fill :#999999; text-decoration :underline;">Fl</text>
+				<text x="1500" y="600" id="TextSym115" style="fill :#999999; text-decoration :underline;">Mc</text>
+				<text x="1600" y="600" id="TextSym116" style="fill :#999999; text-decoration :underline;">Lv</text>
+				<text x="1700" y="600" id="TextSym117" style="fill :#999999; text-decoration :underline;">Ts</text>
+				<text x="1800" y="600" id="TextSym118" style="fill :#999999; text-decoration :underline;">Og</text>
+				<!-- Lanthanoide -->
+				<text x="300" y="800" id="TextSym058" style="fill :#000000">Ce</text>
+				<text x="400" y="800" id="TextSym059" style="fill :#000000">Pr</text>
+				<text x="500" y="800" id="TextSym060" style="fill :#000000">Nd</text>
+				<text x="600" y="800" id="TextSym061" style="fill :#000000; text-decoration :underline;">Pm</text>
+				<text x="700" y="800" id="TextSym062" style="fill :#000000">Sm</text>
+				<text x="800" y="800" id="TextSym063" style="fill :#000000">Eu</text>
+				<text x="900" y="800" id="TextSym064" style="fill :#000000">Gd</text>
+				<text x="1000" y="800" id="TextSym065" style="fill :#000000">Tb</text>
+				<text x="1100" y="800" id="TextSym066" style="fill :#000000">Dy</text>
+				<text x="1200" y="800" id="TextSym067" style="fill :#000000">Ho</text>
+				<text x="1300" y="800" id="TextSym068" style="fill :#000000">Er</text>
+				<text x="1400" y="800" id="TextSym069" style="fill :#000000">Tm</text>
+				<text x="1500" y="800" id="TextSym070" style="fill :#000000">Yb</text>
+				<text x="1600" y="800" id="TextSym071" style="fill :#000000">Lu</text>
+				<!-- Actinoide -->
+				<text x="300" y="900" id="TextSym090" style="fill :#000000; text-decoration :underline;">Th</text>
+				<text x="400" y="900" id="TextSym091" style="fill :#000000; text-decoration :underline;">Pa</text>
+				<text x="500" y="900" id="TextSym092" style="fill :#000000; text-decoration :underline;">U</text>
+				<text x="600" y="900" id="TextSym093" style="fill :#000000; text-decoration :underline;">Np</text>
+				<text x="700" y="900" id="TextSym094" style="fill :#000000; text-decoration :underline;">Pu</text>
+				<text x="800" y="900" id="TextSym095" style="fill :#000000; text-decoration :underline;">Am</text>
+				<text x="900" y="900" id="TextSym096" style="fill :#000000; text-decoration :underline;">Cm</text>
+				<text x="1000" y="900" id="TextSym097" style="fill :#000000; text-decoration :underline;">Bk</text>
+				<text x="1100" y="900" id="TextSym098" style="fill :#000000; text-decoration :underline;">Cf</text>
+				<text x="1200" y="900" id="TextSym099" style="fill :#000000; text-decoration :underline;">Es</text>
+				<text x="1300" y="900" id="TextSym100" style="fill :#000000; text-decoration :underline;">Fm</text>
+				<text x="1400" y="900" id="TextSym101" style="fill :#000000; text-decoration :underline;">Md</text>
+				<text x="1500" y="900" id="TextSym102" style="fill :#000000; text-decoration :underline;">No</text>
+				<text x="1600" y="900" id="TextSym103" style="fill :#000000; text-decoration :underline;">Lr</text>
+			</g>
+			<!-- Name -->
+			<g transform="translate(50,80)" style="text-anchor :middle; font-size :14px; font-weight :normal;">
+				<!-- Period 1 -->
+				<text x="0" y="0">Wasserstoff</text><!--   -->
+				<text x="1800" y="0">Helium</text><!--        -->
+				<!-- Period 2 -->
+				<text x="0" y="100">Lithium</text><!--       -->
+				<text x="100" y="100">Beryllium</text><!--     -->
+				<text x="1300" y="100">Bor</text><!--           -->
+				<text x="1400" y="100">Kohlenstoff</text><!--   -->
+				<text x="1500" y="100">Stickstoff</text><!--    -->
+				<text x="1600" y="100">Sauerstoff</text><!--    -->
+				<text x="1700" y="100">Fluor</text><!--         -->
+				<text x="1800" y="100">Neon</text><!--          -->
+				<!-- Period 3 -->
+				<text x="0" y="200">Natrium</text><!--       -->
+				<text x="100" y="200">Magnesium</text><!--     -->
+				<text x="1300" y="200">Aluminium</text><!--     -->
+				<text x="1400" y="200">Silicium</text><!--      -->
+				<text x="1500" y="200">Phosphor</text><!--      -->
+				<text x="1600" y="200">Schwefel</text><!--      -->
+				<text x="1700" y="200">Chlor</text><!--         -->
+				<text x="1800" y="200">Argon</text><!--         -->
+				<!-- Period 4 -->
+				<text x="0" y="300">Kalium</text><!--        -->
+				<text x="100" y="300">Calcium</text><!--       -->
+				<text x="200" y="300">Scandium</text><!--      -->
+				<text x="400" y="300">Titan</text><!--         -->
+				<text x="500" y="300">Vanadium</text><!--      -->
+				<text x="600" y="300">Chrom</text><!--         -->
+				<text x="700" y="300">Mangan</text><!--        -->
+				<text x="800" y="300">Eisen</text><!--         -->
+				<text x="900" y="300">Cobalt</text><!--        -->
+				<text x="1000" y="300">Nickel</text><!--        -->
+				<text x="1100" y="300">Kupfer</text><!--        -->
+				<text x="1200" y="300">Zink</text><!--          -->
+				<text x="1300" y="300">Gallium</text><!--       -->
+				<text x="1400" y="300">Germanium</text><!--     -->
+				<text x="1500" y="300">Arsen</text><!--         -->
+				<text x="1600" y="300">Selen</text><!--         -->
+				<text x="1700" y="300">Brom</text><!--          -->
+				<text x="1800" y="300">Krypton</text><!--       -->
+				<!-- Period 5 -->
+				<text x="0" y="400">Rubidium</text><!--      -->
+				<text x="100" y="400">Strontium</text><!--     -->
+				<text x="200" y="400">Yttrium</text><!--       -->
+				<text x="400" y="400">Zirconium</text><!--     -->
+				<text x="500" y="400">Niob</text><!--          -->
+				<text x="600" y="400">Molybdän</text><!--      -->
+				<text x="700" y="400">Technetium</text><!--    -->
+				<text x="800" y="400">Ruthenium</text><!--     -->
+				<text x="900" y="400">Rhodium</text><!--       -->
+				<text x="1000" y="400">Palladium</text><!--     -->
+				<text x="1100" y="400">Silber</text><!--        -->
+				<text x="1200" y="400">Cadmium</text><!--       -->
+				<text x="1300" y="400">Indium</text><!--        -->
+				<text x="1400" y="400">Zinn</text><!--          -->
+				<text x="1500" y="400">Antimon</text><!--       -->
+				<text x="1600" y="400">Tellur</text><!--        -->
+				<text x="1700" y="400">Iod</text><!--           -->
+				<text x="1800" y="400">Xenon</text><!--         -->
+				<!-- Period 6 -->
+				<text x="0" y="500">Caesium</text><!--       -->
+				<text x="100" y="500">Barium</text><!--        -->
+				<text x="200" y="500">Lanthan</text><!--       -->
+				<text x="400" y="500">Hafnium</text><!--       -->
+				<text x="500" y="500">Tantal</text><!--        -->
+				<text x="600" y="500">Wolfram</text><!--       -->
+				<text x="700" y="500">Rhenium</text><!--       -->
+				<text x="800" y="500">Osmium</text><!--        -->
+				<text x="900" y="500">Iridium</text><!--       -->
+				<text x="1000" y="500">Platin</text><!--        -->
+				<text x="1100" y="500">Gold</text><!--          -->
+				<text x="1200" y="500">Quecksilber</text><!--   -->
+				<text x="1300" y="500">Thallium</text><!--      -->
+				<text x="1400" y="500">Blei</text><!--          -->
+				<text x="1500" y="500">Bismut</text><!--        -->
+				<text x="1600" y="500">Polonium</text><!--      -->
+				<text x="1700" y="500">Astat</text><!--         -->
+				<text x="1800" y="500">Radon</text><!--         -->
+				<!-- Period 7 -->
+				<text x="0" y="600">Francium</text><!--      -->
+				<text x="100" y="600">Radium</text><!--        -->
+				<text x="200" y="600">Actinium</text><!--      -->
+				<text x="400" y="600">Rutherfordium</text><!-- -->
+				<text x="500" y="600">Dubnium</text><!--       -->
+				<text x="600" y="600">Seaborgium</text><!--    -->
+				<text x="700" y="600">Bohrium</text><!--       -->
+				<text x="800" y="600">Hassium</text><!--       -->
+				<text x="900" y="600">Meitnerium</text><!--    -->
+				<text x="1000" y="600">Darmstadtium</text><!--  -->
+				<text x="1100" y="600">Roentgenium</text><!--   -->
+				<text x="1200" y="600">Copernicium</text><!--   -->
+				<text x="1300" y="600">Nihonium</text><!--      -->
+				<text x="1400" y="600">Flerovium</text><!--     -->
+				<text x="1500" y="600">Moscovium</text><!--     -->
+				<text x="1600" y="600">Livermorium</text><!--   -->
+				<text x="1700" y="600">Tenness</text><!--       -->
+				<text x="1800" y="600">Oganesson</text><!--     -->
+				<!-- Lanthanoide -->
+				<text x="300" y="800">Cer</text><!--           -->
+				<text x="400" y="800">Praseodym</text><!--     -->
+				<text x="500" y="800">Neodym</text><!--        -->
+				<text x="600" y="800">Promethium</text><!--    -->
+				<text x="700" y="800">Samarium</text><!--      -->
+				<text x="800" y="800">Europium</text><!--      -->
+				<text x="900" y="800">Gadolinium</text><!--    -->
+				<text x="1000" y="800">Terbium</text><!--       -->
+				<text x="1100" y="800">Dysprosium</text><!--    -->
+				<text x="1200" y="800">Holmium</text><!--       -->
+				<text x="1300" y="800">Erbium</text><!--        -->
+				<text x="1400" y="800">Thulium</text><!--       -->
+				<text x="1500" y="800">Ytterbium</text><!--     -->
+				<text x="1600" y="800">Lutetium</text><!--      -->
+				<!-- Actinoide -->
+				<text x="300" y="900">Thorium</text><!--       -->
+				<text x="400" y="900">Protactinium</text><!--  -->
+				<text x="500" y="900">Uran</text><!--          -->
+				<text x="600" y="900">Neptunium</text><!--     -->
+				<text x="700" y="900">Plutonium</text><!--     -->
+				<text x="800" y="900">Americium</text><!--     -->
+				<text x="900" y="900">Curium</text><!--        -->
+				<text x="1000" y="900">Berkelium</text><!--     -->
+				<text x="1100" y="900">Californium</text><!--   -->
+				<text x="1200" y="900">Einsteinium</text><!--   -->
+				<text x="1300" y="900">Fermium</text><!--       -->
+				<text x="1400" y="900">Mendelevium</text><!--   -->
+				<text x="1500" y="900">Nobelium</text><!--      -->
+				<text x="1600" y="900">Lawrencium</text><!--    -->
+				<!-- Hinweis -->
+				<g id="gName_La" transform="translate( 300,500)"><text style="font-size :24px"><tspan x="0" y="-30">siehe</tspan><tspan x="0" y="0">unten</tspan></text><!--   --></g>
+				<g id="gName_Ac" transform="translate( 300,600)"><text style="font-size :24px"><tspan x="0" y="-30">siehe</tspan><tspan x="0" y="0">unten</tspan></text><!--   --></g>
+			</g>
+			<!-- Elektronegativität -->
+			<g transform="translate(4,96)" id="EL" style="font-size :16px; font-weight :bold; text-anchor :start;fill :#000000;">
+				<!-- Period 1 -->
+				<text x="0" y="0" id="TextEl001">2,2</text><!--  -->
+				<text x="1800" y="0" id="TextEl002">—</text><!--    -->
+				<!-- Period 2 -->
+				<text x="0" y="100" id="TextEl003">0,98</text><!-- -->
+				<text x="100" y="100" id="TextEl004">1,57</text><!-- -->
+				<text x="1300" y="100" id="TextEl005">2,04</text><!-- -->
+				<text x="1400" y="100" id="TextEl006">2,55</text><!-- -->
+				<text x="1500" y="100" id="TextEl007">3,04</text><!-- -->
+				<text x="1600" y="100" id="TextEl008">3,44</text><!-- -->
+				<text x="1700" y="100" id="TextEl009">3,98</text><!-- -->
+				<text x="1800" y="100" id="TextEl010">—</text><!--    -->
+				<!-- Period 3 -->
+				<text x="0" y="200" id="TextEl011">0,93</text><!-- -->
+				<text x="100" y="200" id="TextEl012">1,31</text><!-- -->
+				<text x="1300" y="200" id="TextEl013">1,61</text><!-- -->
+				<text x="1400" y="200" id="TextEl014">1,90</text><!-- -->
+				<text x="1500" y="200" id="TextEl015">2,19</text><!-- -->
+				<text x="1600" y="200" id="TextEl016">2,58</text><!-- -->
+				<text x="1700" y="200" id="TextEl017">3,16</text><!-- -->
+				<text x="1800" y="200" id="TextEl018">—</text><!--    -->
+				<!-- Period 4 -->
+				<text x="0" y="300" id="TextEl019">0,82</text><!-- -->
+				<text x="100" y="300" id="TextEl020">1,0</text><!--  -->
+				<text x="200" y="300" id="TextEl021">1,36</text><!-- -->
+				<text x="400" y="300" id="TextEl022">1,54</text><!-- -->
+				<text x="500" y="300" id="TextEl023">1,63</text><!-- -->
+				<text x="600" y="300" id="TextEl024">1,66</text><!-- -->
+				<text x="700" y="300" id="TextEl025">1,55</text><!-- -->
+				<text x="800" y="300" id="TextEl026">1,83</text><!-- -->
+				<text x="900" y="300" id="TextEl027">1,88</text><!-- -->
+				<text x="1000" y="300" id="TextEl028">1,91</text><!-- -->
+				<text x="1100" y="300" id="TextEl029">1,90</text><!-- -->
+				<text x="1200" y="300" id="TextEl030">1,65</text><!-- -->
+				<text x="1300" y="300" id="TextEl031">1,81</text><!-- -->
+				<text x="1400" y="300" id="TextEl032">2,01</text><!-- -->
+				<text x="1500" y="300" id="TextEl033">2,18</text><!-- -->
+				<text x="1600" y="300" id="TextEl034">2,55</text><!-- -->
+				<text x="1700" y="300" id="TextEl035">2,96</text><!-- -->
+				<text x="1800" y="300" id="TextEl036">3,0</text><!--  -->
+				<!-- Period 5 -->
+				<text x="0" y="400" id="TextEl037">0,82</text><!-- -->
+				<text x="100" y="400" id="TextEl038">0,95</text><!-- -->
+				<text x="200" y="400" id="TextEl039">1,22</text><!-- -->
+				<text x="400" y="400" id="TextEl040">1,33</text><!-- -->
+				<text x="500" y="400" id="TextEl041">1,6</text><!--  -->
+				<text x="600" y="400" id="TextEl042">2,16</text><!-- -->
+				<text x="700" y="400" id="TextEl043">1,9</text><!--  -->
+				<text x="800" y="400" id="TextEl044">2,2</text><!--  -->
+				<text x="900" y="400" id="TextEl045">2,28</text><!-- -->
+				<text x="1000" y="400" id="TextEl046">2,20</text><!-- -->
+				<text x="1100" y="400" id="TextEl047">1,93</text><!-- -->
+				<text x="1200" y="400" id="TextEl048">1,69</text><!-- -->
+				<text x="1300" y="400" id="TextEl049">1,78</text><!-- -->
+				<text x="1400" y="400" id="TextEl050">1,96</text><!-- -->
+				<text x="1500" y="400" id="TextEl051">2,05</text><!-- -->
+				<text x="1600" y="400" id="TextEl052">2,1</text><!--  -->
+				<text x="1700" y="400" id="TextEl053">2,66</text><!-- -->
+				<text x="1800" y="400" id="TextEl054">2,6</text><!--  -->
+				<!-- Period 6 -->
+				<text x="0" y="500" id="TextEl055">0,79</text><!-- -->
+				<text x="100" y="500" id="TextEl056">0,89</text><!-- -->
+				<text x="200" y="500" id="TextEl057">1,10</text><!-- -->
+				<text x="400" y="500" id="TextEl072">1,3</text><!--  -->
+				<text x="500" y="500" id="TextEl073">1,5</text><!--  -->
+				<text x="600" y="500" id="TextEl074">2,36</text><!-- -->
+				<text x="700" y="500" id="TextEl075">1,9</text><!--  -->
+				<text x="800" y="500" id="TextEl076">2,2</text><!--  -->
+				<text x="900" y="500" id="TextEl077">2,2</text><!--  -->
+				<text x="1000" y="500" id="TextEl078">2,28</text><!-- -->
+				<text x="1100" y="500" id="TextEl079">2,54</text><!-- -->
+				<text x="1200" y="500" id="TextEl080">2,0</text><!--  -->
+				<text x="1300" y="500" id="TextEl081">1,62</text><!-- -->
+				<text x="1400" y="500" id="TextEl082">2,33</text><!-- -->
+				<text x="1500" y="500" id="TextEl083">2,02</text><!-- -->
+				<text x="1600" y="500" id="TextEl084">2,0</text><!--  -->
+				<text x="1700" y="500" id="TextEl085">2,2</text><!--  -->
+				<text x="1800" y="500" id="TextEl086">—</text><!--    -->
+				<!-- Period 7 -->
+				<text x="0" y="600" id="TextEl087">0,7</text><!--  -->
+				<text x="100" y="600" id="TextEl088">0,9</text><!--  -->
+				<text x="200" y="600" id="TextEl089">1,1</text><!--  -->
+				<text x="400" y="600" id="TextEl104">?</text><!--    -->
+				<text x="500" y="600" id="TextEl105">?</text><!--    -->
+				<text x="600" y="600" id="TextEl106">?</text><!--    -->
+				<text x="700" y="600" id="TextEl107">?</text><!--    -->
+				<text x="800" y="600" id="TextEl108">?</text><!--    -->
+				<text x="900" y="600" id="TextEl109">?</text><!--    -->
+				<text x="1000" y="600" id="TextEl110">?</text><!--    -->
+				<text x="1100" y="600" id="TextEl111">?</text><!--    -->
+				<text x="1200" y="600" id="TextEl112">?</text><!--    -->
+				<text x="1300" y="600" id="TextEl113">?</text><!--    -->
+				<text x="1400" y="600" id="TextEl114">?</text><!--    -->
+				<text x="1500" y="600" id="TextEl115">?</text><!--    -->
+				<text x="1600" y="600" id="TextEl116">?</text><!--    -->
+				<text x="1700" y="600" id="TextEl117">?</text><!--    -->
+				<text x="1800" y="600" id="TextEl118">?</text><!--    -->
+				<!-- Lanthanoide -->
+				<text x="300" y="800" id="TextEl058">1,12</text><!-- -->
+				<text x="400" y="800" id="TextEl059">1,13</text><!-- -->
+				<text x="500" y="800" id="TextEl060">1,14</text><!-- -->
+				<text x="600" y="800" id="TextEl061">—</text><!--    -->
+				<text x="700" y="800" id="TextEl062">1,17</text><!-- -->
+				<text x="800" y="800" id="TextEl063">—</text><!--    -->
+				<text x="900" y="800" id="TextEl064">1,2</text><!--  -->
+				<text x="1000" y="800" id="TextEl065">—</text><!--    -->
+				<text x="1100" y="800" id="TextEl066">1,22</text><!-- -->
+				<text x="1200" y="800" id="TextEl067">1,23</text><!-- -->
+				<text x="1300" y="800" id="TextEl068">1,24</text><!-- -->
+				<text x="1400" y="800" id="TextEl069">1,25</text><!-- -->
+				<text x="1500" y="800" id="TextEl070">—</text><!--    -->
+				<text x="1600" y="800" id="TextEl071">1,27</text><!-- -->
+				<!-- Actinoide -->
+				<text x="300" y="900" id="TextEl090">1,3</text><!--  -->
+				<text x="400" y="900" id="TextEl091">1,5</text><!--  -->
+				<text x="500" y="900" id="TextEl092">1,38</text><!-- -->
+				<text x="600" y="900" id="TextEl093">1,36</text><!-- -->
+				<text x="700" y="900" id="TextEl094">1,28</text><!-- -->
+				<text x="800" y="900" id="TextEl095">1,3</text><!--  -->
+				<text x="900" y="900" id="TextEl096">1,3</text><!--  -->
+				<text x="1000" y="900" id="TextEl097">1,3</text><!--  -->
+				<text x="1100" y="900" id="TextEl098">1,3</text><!--  -->
+				<text x="1200" y="900" id="TextEl099">1,3</text><!--  -->
+				<text x="1300" y="900" id="TextEl100">1,3</text><!--  -->
+				<text x="1400" y="900" id="TextEl101">1,3</text><!--  -->
+				<text x="1500" y="900" id="TextEl102">1,3</text><!--  -->
+				<text x="1600" y="900" id="TextEl103">—</text><!--    -->
+			</g>
+			<!-- density -->
+			<g transform="translate(96,96)" id="density" style="font-size :16px; font-weight :bold; text-anchor :end;">
+				<!-- Period 1 -->
+				<text x="0" y="0" id="TextDichte001" style="fill:#FF0000;">0,09</text><!--  -->
+				<text x="1800" y="0" id="TextDichte002" style="fill:#FF0000;">0,18</text><!--  -->
+				<!-- Period 2 -->
+				<text x="0" y="100" id="TextDichte003" style="fill:#000000;">0,53</text><!--  -->
+				<text x="100" y="100" id="TextDichte004" style="fill:#000000;">1,85</text><!--  -->
+				<text x="1300" y="100" id="TextDichte005" style="fill:#000000;">2,46</text><!--  -->
+				<text x="1400" y="100" id="TextDichte006" style="fill:#000000;">2,26</text><!--  -->
+				<text x="1500" y="100" id="TextDichte007" style="fill:#FF0000;">1,25</text><!--  -->
+				<text x="1600" y="100" id="TextDichte008" style="fill:#FF0000;">1,43</text><!--  -->
+				<text x="1700" y="100" id="TextDichte009" style="fill:#FF0000;">1,70</text><!--  -->
+				<text x="1800" y="100" id="TextDichte010" style="fill:#FF0000;">0,90</text><!--  -->
+				<!-- Period 3 -->
+				<text x="0" y="200" id="TextDichte011" style="fill:#000000;">0,97</text><!--  -->
+				<text x="100" y="200" id="TextDichte012" style="fill:#000000;">1,74</text><!--  -->
+				<text x="1300" y="200" id="TextDichte013" style="fill:#000000;">2,70</text><!--  -->
+				<text x="1400" y="200" id="TextDichte014" style="fill:#000000;">2,34</text><!--  -->
+				<text x="1500" y="200" id="TextDichte015" style="fill:#000000;">2,69</text><!--  -->
+				<text x="1600" y="200" id="TextDichte016" style="fill:#000000;">2,07</text><!--  -->
+				<text x="1700" y="200" id="TextDichte017" style="fill:#FF0000;">3,21</text><!--  -->
+				<text x="1800" y="200" id="TextDichte018" style="fill:#FF0000;">1,78</text><!--  -->
+				<!-- Period 4 -->
+				<text x="0" y="300" id="TextDichte019" style="fill:#000000;">0,86</text><!--  -->
+				<text x="100" y="300" id="TextDichte020" style="fill:#000000;">1,55</text><!--  -->
+				<text x="200" y="300" id="TextDichte021" style="fill:#000000;">2,98</text><!--  -->
+				<text x="400" y="300" id="TextDichte022" style="fill:#000000;">4,50</text><!--  -->
+				<text x="500" y="300" id="TextDichte023" style="fill:#000000;">6,11</text><!--  -->
+				<text x="600" y="300" id="TextDichte024" style="fill:#000000;">7,14</text><!--  -->
+				<text x="700" y="300" id="TextDichte025" style="fill:#000000;">7,43</text><!--  -->
+				<text x="800" y="300" id="TextDichte026" style="fill:#000000;">7,87</text><!--  -->
+				<text x="900" y="300" id="TextDichte027" style="fill:#000000;">8,90</text><!--  -->
+				<text x="1000" y="300" id="TextDichte028" style="fill:#000000;">8,91</text><!--  -->
+				<text x="1100" y="300" id="TextDichte029" style="fill:#000000;">8,92</text><!--  -->
+				<text x="1200" y="300" id="TextDichte030" style="fill:#000000;">7,14</text><!--  -->
+				<text x="1300" y="300" id="TextDichte031" style="fill:#000000;">5,90</text><!--  -->
+				<text x="1400" y="300" id="TextDichte032" style="fill:#000000;">5,32</text><!--  -->
+				<text x="1500" y="300" id="TextDichte033" style="fill:#000000;">5,73</text><!--  -->
+				<text x="1600" y="300" id="TextDichte034" style="fill:#000000;">4,82</text><!--  -->
+				<text x="1700" y="300" id="TextDichte035" style="fill:#000000;">3,12</text><!--  -->
+				<text x="1800" y="300" id="TextDichte036" style="fill:#FF0000;">3,75</text><!--  -->
+				<!-- Period 5 -->
+				<text x="0" y="400" id="TextDichte037" style="fill:#000000;">1,53</text><!--  -->
+				<text x="100" y="400" id="TextDichte038" style="fill:#000000;">2,63</text><!--  -->
+				<text x="200" y="400" id="TextDichte039" style="fill:#000000;">4,47</text><!--  -->
+				<text x="400" y="400" id="TextDichte040" style="fill:#000000;">6,50</text><!--  -->
+				<text x="500" y="400" id="TextDichte041" style="fill:#000000;">8,57</text><!--  -->
+				<text x="600" y="400" id="TextDichte042" style="fill:#000000;">10,28</text><!-- -->
+				<text x="700" y="400" id="TextDichte043" style="fill:#000000;">11,50</text><!-- -->
+				<text x="800" y="400" id="TextDichte044" style="fill:#000000;">12,37</text><!-- -->
+				<text x="900" y="400" id="TextDichte045" style="fill:#000000;">12,45</text><!-- -->
+				<text x="1000" y="400" id="TextDichte046" style="fill:#000000;">12,02</text><!-- -->
+				<text x="1100" y="400" id="TextDichte047" style="fill:#000000;">10,49</text><!-- -->
+				<text x="1200" y="400" id="TextDichte048" style="fill:#000000;">8,64</text><!--  -->
+				<text x="1300" y="400" id="TextDichte049" style="fill:#000000;">7,31</text><!--  -->
+				<text x="1400" y="400" id="TextDichte050" style="fill:#000000;">7,26</text><!--  -->
+				<text x="1500" y="400" id="TextDichte051" style="fill:#000000;">6,70</text><!--  -->
+				<text x="1600" y="400" id="TextDichte052" style="fill:#000000;">6,25</text><!--  -->
+				<text x="1700" y="400" id="TextDichte053" style="fill:#000000;">4,94</text><!--  -->
+				<text x="1800" y="400" id="TextDichte054" style="fill:#FF0000;">5,90</text><!--  -->
+				<!-- Period 6 -->
+				<text x="0" y="500" id="TextDichte055" style="fill:#000000;">1,90</text><!--  -->
+				<text x="100" y="500" id="TextDichte056" style="fill:#000000;">3,59</text><!--  -->
+				<text x="200" y="500" id="TextDichte057" style="fill:#000000;">6,15</text><!--  -->
+
+				<text x="400" y="500" id="TextDichte072" style="fill:#000000;">13,3</text><!--  -->
+				<text x="500" y="500" id="TextDichte073" style="fill:#000000;">16,65</text><!-- -->
+				<text x="600" y="500" id="TextDichte074" style="fill:#000000;">19,25</text><!-- -->
+				<text x="700" y="500" id="TextDichte075" style="fill:#000000;">21,0</text><!--  -->
+				<text x="800" y="500" id="TextDichte076" style="fill:#000000;">22,6</text><!--  -->
+				<text x="900" y="500" id="TextDichte077" style="fill:#000000;">22,56</text><!-- -->
+				<text x="1000" y="500" id="TextDichte078" style="fill:#000000;">21,45</text><!-- -->
+				<text x="1100" y="500" id="TextDichte079" style="fill:#000000;">19,32</text><!-- -->
+				<text x="1200" y="500" id="TextDichte080" style="fill:#000000;">13,55</text><!-- -->
+				<text x="1300" y="500" id="TextDichte081" style="fill:#000000;">11,85</text><!-- -->
+				<text x="1400" y="500" id="TextDichte082" style="fill:#000000;">11,35</text><!-- -->
+				<text x="1500" y="500" id="TextDichte083" style="fill:#000000;">9,75</text><!--  -->
+				<text x="1600" y="500" id="TextDichte084" style="fill:#000000;">9,20</text><!--  -->
+				<text x="1700" y="500" id="TextDichte085" style="fill:#000000;">?</text><!--     -->
+				<text x="1800" y="500" id="TextDichte086" style="fill:#FF0000;">9,73</text><!--  -->
+				<!-- Period 7 -->
+				<text x="0" y="600" id="TextDichte087" style="fill:#000000;">?</text><!--     -->
+				<text x="100" y="600" id="TextDichte088" style="fill:#000000;">5,5</text><!--   -->
+				<text x="200" y="600" id="TextDichte089" style="fill:#000000;">10,1</text><!--  -->
+				<text x="400" y="600" id="TextDichte104" style="fill:#000000;">?</text><!--     -->
+				<text x="500" y="600" id="TextDichte105" style="fill:#000000;">?</text><!--     -->
+				<text x="600" y="600" id="TextDichte106" style="fill:#000000;">?</text><!--     -->
+				<text x="700" y="600" id="TextDichte107" style="fill:#000000;">?</text><!--     -->
+				<text x="800" y="600" id="TextDichte108" style="fill:#000000;">?</text><!--     -->
+				<text x="900" y="600" id="TextDichte109" style="fill:#000000;">?</text><!--     -->
+				<text x="1000" y="600" id="TextDichte110" style="fill:#000000;">?</text><!--     -->
+				<text x="1100" y="600" id="TextDichte111" style="fill:#000000;">?</text><!--     -->
+				<text x="1200" y="600" id="TextDichte112" style="fill:#999999;">?</text><!--     -->
+				<text x="1300" y="600" id="TextDichte113" style="fill:#999999;">?</text><!--     -->
+				<text x="1400" y="600" id="TextDichte114" style="fill:#999999;">?</text><!--     -->
+				<text x="1500" y="600" id="TextDichte115" style="fill:#999999;">?</text><!--     -->
+				<text x="1600" y="600" id="TextDichte116" style="fill:#999999;">?</text><!--     -->
+				<text x="1700" y="600" id="TextDichte117" style="fill:#999999;">?</text><!--     -->
+				<text x="1800" y="600" id="TextDichte118" style="fill:#999999;">?</text><!--     -->
+				<!-- Lanthanoide -->
+				<text x="300" y="800" id="TextDichte058" style="fill:#000000;">6,77</text><!--  -->
+				<text x="400" y="800" id="TextDichte059" style="fill:#000000;">6,48</text><!--  -->
+				<text x="500" y="800" id="TextDichte060" style="fill:#000000;">7,01</text><!--  -->
+				<text x="600" y="800" id="TextDichte061" style="fill:#000000;">7,22</text><!--  -->
+				<text x="700" y="800" id="TextDichte062" style="fill:#000000;">7,54</text><!--  -->
+				<text x="800" y="800" id="TextDichte063" style="fill:#000000;">5,25</text><!--  -->
+				<text x="900" y="800" id="TextDichte064" style="fill:#000000;">7,89</text><!--  -->
+				<text x="1000" y="800" id="TextDichte065" style="fill:#000000;">8,25</text><!--  -->
+				<text x="1100" y="800" id="TextDichte066" style="fill:#000000;">8,55</text><!--  -->
+				<text x="1200" y="800" id="TextDichte067" style="fill:#000000;">8,78</text><!--  -->
+				<text x="1300" y="800" id="TextDichte068" style="fill:#000000;">9,05</text><!--  -->
+				<text x="1400" y="800" id="TextDichte069" style="fill:#000000;">9,32</text><!--  -->
+				<text x="1500" y="800" id="TextDichte070" style="fill:#000000;">6,97</text><!--  -->
+				<text x="1600" y="800" id="TextDichte071" style="fill:#000000;">9,84</text><!--  -->
+				<!-- Actinoide -->
+				<text x="300" y="900" id="TextDichte090" style="fill:#000000;">11,72</text><!-- -->
+				<text x="400" y="900" id="TextDichte091" style="fill:#000000;">15,4</text><!--  -->
+				<text x="500" y="900" id="TextDichte092" style="fill:#000000;">18,95</text><!-- -->
+				<text x="600" y="900" id="TextDichte093" style="fill:#000000;">20,45</text><!-- -->
+				<text x="700" y="900" id="TextDichte094" style="fill:#000000;">19,82</text><!-- -->
+				<text x="800" y="900" id="TextDichte095" style="fill:#000000;">13,67</text><!-- -->
+				<text x="900" y="900" id="TextDichte096" style="fill:#000000;">13,51</text><!-- -->
+				<text x="1000" y="900" id="TextDichte097" style="fill:#000000;">14,78</text><!-- -->
+				<text x="1100" y="900" id="TextDichte098" style="fill:#000000;">15,1</text><!--  -->
+				<text x="1200" y="900" id="TextDichte099" style="fill:#000000;">?</text><!--     -->
+				<text x="1300" y="900" id="TextDichte100" style="fill:#000000;">?</text><!--     -->
+				<text x="1400" y="900" id="TextDichte101" style="fill:#000000;">?</text><!--     -->
+				<text x="1500" y="900" id="TextDichte102" style="fill:#000000;">?</text><!--     -->
+				<text x="1600" y="900" id="TextDichte103" style="fill:#000000;">?</text><!--     -->
+			</g>
+		</g>
+		<!-- Legende -->
+		<g id="Legende" transform="translate(250,0)">
+			<rect id="LegHintergrund" x="0" y="0" width="1000" height="250" style="fill :#EEEEEE; stroke :#000000; stroke-width :2;"/>
+			<text x="30" y="45" id="LegTitel" style="text-anchor: start; font-size :40px;font-weight :bold; text-decoration :underline;">Legende</text>
+			<g id="LegBeispielBox" transform="translate(120,100)" style="stroke :#000000; stroke-width :1;">
+				<use id="LegBox" x="0" y="0" xlink:href="#Color09"/>
+				<rect id="LegBoxRand" x="0" y="0" width="100" height="100" style="fill :none; stroke :#000000; stroke-width :2;"/>
+				<g style="stroke-width :2;">
+					<path id="LegLinieO_Zahl" d="M -30,-10  L  3,10"/>
+					<path id="LegLinieAtomgw" d="M  90,-10  L 70,3"/>
+					<path id="LegLinieSymbol" d="M -10,45   L 25,45"/>
+					<path id="LegLinieName" d="M -10,70   L 25,75"/>
+					<path id="LegLinieElNega" d="M -30,110  L  3,97"/>
+					<path id="LegLinieDichte" d="M  90,110  L 90,97"/>
+					<path id="LegLinieSerie" d="M 110,80   L 95,50"/>
+				</g>
+				<g id="LegBeispielText" style="font-size :16px;">
+					<text x="4" y="18" style="text-anchor: start; font-weight :bold;" id="LegOz">17</text>
+					<text x="96" y="18" style="text-anchor: end;" id="LegAw">35,451</text>
+					<text x="50" y="60" style="font-size :40px; text-anchor :middle; font-weight :bold; fill :#FF0000" id="LegSym">Cl</text>
+					<text x="50" y="80" style="font-size :14px; text-anchor :middle; font-weight :bold;" id="LegName">Chlor</text>
+					<text x="4" y="96" style="text-anchor: start;" id="LegElN">3,16</text>
+					<text x="96" y="96" style="text-anchor: end;" id="LegDi">3,21</text>
+					<text x="-30" y="-15" style="text-anchor: middle;">Ordnungszahl</text>
+					<text x="90" y="-15" style="text-anchor: middle;">Atomgewicht</text>
+					<text x="-15" y="50" style="text-anchor: end;">Symbol</text>
+					<text x="-15" y="75" style="text-anchor: end;">Name</text>
+					<text x="-30" y="125" style="text-anchor: middle;">Elektronegativität</text>
+					<text x="90" y="125" style="text-anchor: middle;">Dichte</text>
+					<text x="130" y="100" style="text-anchor: middle;">Serie</text>
+				</g>
+			</g>
+			<g id="legendetext" transform="translate(310,8)" style="font-size :18px;">
+				<g id="Block1" transform="translate(5,5)">
+					<text x="0" y="18" style="fill :#000000;">Symbol</text>
+					<line x1="0" y1="20" x2="210" y2="20" style="fill :none; stroke :#000000; stroke-width :2;"/>
+					<text style="fill :#000000;"><!--
+					--><tspan x="120" y="40" style="text-anchor :end;">schwarz = </tspan><!--
+					--><tspan x="120" y="40" style="text-anchor :start;">Feststoff</tspan><!--
+					--></text>
+					<text style="fill :#0000ff;"><!--
+					--><tspan x="120" y="60" style="text-anchor :end;">blau = </tspan><!--
+					--><tspan x="120" y="60" style="text-anchor :start;">Flüssigkeit</tspan><!--
+					--></text>
+					<text style="fill :#ff0000;"><!--
+					--><tspan x="120" y="80" style="text-anchor :end;">rot = </tspan><!--
+					--><tspan x="120" y="80" style="text-anchor :start;">Gas</tspan><!--
+					--></text>
+					<text style="fill :#999999;"><!--
+					--><tspan x="120" y="100" style="text-anchor :end;">grau = </tspan><!--
+					--><tspan x="120" y="100" style="text-anchor :start;">unbekannt</tspan><!--
+					--></text>
+					<text style="fill :#000000; text-decoration :underline;"><!--
+					--><tspan x="120" y="120" style="text-anchor :end;">unterstrichen = </tspan><!--
+					--><tspan x="120" y="120" style="text-anchor :start;">radioaktiv</tspan><!--
+					--></text>
+				</g>
+				<g id="Block2" transform="translate(5,150)">
+					<text x="0" y="18" style="fill :#000000;">Dichte</text>
+					<line x1="0" y1="20" x2="210" y2="20" style="fill :none; stroke :#000000; stroke-width :2;"/>
+					<text style="fill :#FF0000;"><!--
+					--><tspan x="120" y="40" style="text-anchor :end;">rot = </tspan><!--
+					--><tspan x="120" y="40" style="text-anchor :start;">kg / m³</tspan><!--
+					--></text>
+					<text style="fill :#000000;"><!--
+					--><tspan x="120" y="60" style="text-anchor :end;">schwarz = </tspan><!--
+					--><tspan x="120" y="60" style="text-anchor :start;">kg / dm³</tspan><!--
+					--></text>
+					<text style="fill :#999999;"><!--
+					--><tspan x="120" y="80" style="text-anchor :end;">grau = </tspan><!--
+					--><tspan x="120" y="80" style="text-anchor :start;">unbestimmt</tspan><!--
+					--></text>
+				</g>
+				<g id="Block3" transform="translate(270,5)" style="fill:#000000;">
+					<text x="0" y="18">Serie (Flächenfarbe)</text>
+					<line x1="0" y1="20" x2="210" y2="20" style="fill :none; stroke :#000000; stroke-width :2;"/>
+					<rect x="0" y="25" width="16" height="16" id="SmallColor01" style="fill :#FF8888"/>
+					<rect x="0" y="45" width="16" height="16" id="SmallColor02" style="fill :#FFAADD"/>
+					<rect x="0" y="65" width="16" height="16" id="SmallColor03" style="fill :#BBFFFF"/>
+					<rect x="0" y="85" width="16" height="16" id="SmallColor04" style="fill :#FFCC99"/>
+					<rect x="0" y="105" width="16" height="16" id="SmallColor05" style="fill :#FFBB77"/>
+					<rect x="180" y="25" width="16" height="16" id="SmallColor06" style="fill :#CCCCCC"/>
+					<rect x="180" y="45" width="16" height="16" id="SmallColor07" style="fill :#DDDDBB"/>
+					<rect x="180" y="65" width="16" height="16" id="SmallColor08" style="fill :#99FF99"/>
+					<rect x="180" y="85" width="16" height="16" id="SmallColor09" style="fill :#FFFF99"/>
+					<rect x="180" y="105" width="16" height="16" id="SmallFarbe10" style="fill :#BBBBFF"/>
+					<rect x="180" y="126" width="15" height="15" id="SmallFarbe11" style="fill :#FFFFFF; stroke :#999999; stroke-width :1; stroke-dasharray :1 1; stroke-linecap:butt;"/>
+
+					<text x="20" y="40">Alkalimetalle</text>
+					<text x="20" y="60">Erdalkalimetalle</text>
+					<text x="20" y="80">Übergangsmetalle</text>
+					<text x="20" y="100">Lanthanoide</text>
+					<text x="20" y="120">Actinoide</text>
+					<text x="200" y="40">Metalle</text>
+					<text x="200" y="60">Halbmetalle</text>
+					<text x="200" y="80">Nichtmetalle</text>
+					<text x="200" y="100">Halogene</text>
+					<text x="200" y="120">Edelgase</text>
+					<text x="200" y="140">unbekannt</text>
+				</g>
+				<g id="Block4" transform="translate(270,150)">
+					<text x="0" y="18" style="fill :#000000;">Stripes</text>
+					<line x1="0" y1="20" x2="250" y2="20" style="fill :none; stroke :#000000; stroke-width :2:"/>
+					<text style="fill :#000000;"><tspan x="120" y="40" style="text-anchor :end;">durchgehend = </tspan><tspan x="120" y="40" style="text-anchor :start;">natürliches Element</tspan></text>
+					<text style="fill :#000000;"><tspan x="120" y="60" style="text-anchor :end;">schraffiert = </tspan><tspan x="120" y="60" style="text-anchor :start;">künstliches Element</tspan></text>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
