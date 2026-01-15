@@ -52,7 +52,7 @@ Die DDR lies Hauseingänge und Erdgeschoss-Fenster die Direkt an der Grenze lage
 
 ![[Stacheldraht & Soldat.jpg]]
 
-### Auswirkungen vom Bauer der Mauer 
+# Auswirkungen vom Bauer der Mauer 
 
 So blamabel es für den SED-Staat war: Der Mauerbau eröffnete in der DDR eine Phase der Entspannung und Stabilisierung.
 Viele DDR-Bürger arrangierten sich mit dem Bestehenden System und diese bedankte sich mit steigendem Lebenstandard und nachlassendem Druck. 
@@ -86,3 +86,4 @@ https://www.berlin.de/mauer/geschichte/mauertote/ (Aufrufdataum: 24.11.2025 )
 https://www.berlin.de/mauer/geschichte/bau-der-mauer/ (Aufrufdatum: 01.12.25)
 https://www.dw.com/de/der-mauerbau-und-die-stasi/a-58755371
 (Aufrufdatum: 08.12.25)
+https://www.chronik-der-mauer.de/180123/das-grenzsystem (Aufrufdatum: 14.01.2026)

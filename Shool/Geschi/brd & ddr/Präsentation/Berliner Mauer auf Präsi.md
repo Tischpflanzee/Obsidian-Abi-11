@@ -24,7 +24,5 @@ Die Sektorengrenze zwischen. Ost-und Westberlin wurden  militärisch abriegeln u
 Nur wenige Kontrollpunkte bleiben offen.
 
 
-
 ## Das Grenzsystem
-
 

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/chemie/echemie_und_redoxreaktionen/Übungsaufgaben= Redoxreaktionen.md",
+                "file": "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer auf Präsi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Übungsaufgaben= Redoxreaktionen"
+              "title": "Berliner Mauer auf Präsi"
+            }
+          },
+          {
+            "id": "f1777c88eb5ae8df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shool/spanisch/Unidad 1 & 2/2025-11-05-Leif & Wörter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-05-Leif & Wörter"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eb3b08c1845a19fc",
@@ -184,54 +198,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "776060dbfd91ac89",
+  "active": "f1777c88eb5ae8df",
   "lastOpenFiles": [
-    "Shool/chemie/Periodensystem_Einfach.svg",
-    "Shool/chemie/echemie_und_redoxreaktionen/Übungsaufgaben= Redoxreaktionen.md",
-    "Shool/chemie/echemie_und_redoxreaktionen/Pdfs/Übungsaufgaben Redoxreaktion.pdf",
-    "Shool/chemie/echemie_und_redoxreaktionen/Was ist eine Redoxreaktion.md",
-    "Shool/itgk/Digitaltechnik/2025-11-11-Kombinationen.md",
-    "Shool/itgk/Digitaltechnik/pdf/09_Digitaltechnik KV-Diagramme.pdf",
-    "Shool/itgk/Aufgabe.md",
-    "Shool/itgk/Digitaltechnik/pdf/06_Regeln_Niklas_Hainz.pdf",
-    "Shool/tk/Präsentation/Gliederung und co.md",
-    "Shool/englisch/The English Speaking World/M02-Bad-English.md",
-    "Shool/TO DO.md",
-    "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer auf Präsi.md",
-    "Personal/Notizen/2026/Januar/1. Januar.md",
-    "To do.md",
-    "Personal/Notizen/2026/Januar",
-    "Personal/Notizen/2026",
-    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/M2 Schreibplan Figurenanalyse_kommentiert.pdf",
-    "Personal/Notizen",
-    "Shool/englisch/The English Speaking World/pdf/x/M04 The Sounds of English.xopp~",
-    "Shool/englisch/The English Speaking World/pdf/x/M04 The Sounds of English.xopp",
-    "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer.md",
-    "Shool/deutsch/Themen/Corpus Delectiy/pdfs/Buch.pdf",
-    "Shool/deutsch/Themen/Corpus Delectiy/Mia-Characteriesierung.md",
-    "Shool/deutsch/Themen/Corpus Delectiy/2025-10-27-Arbeitsplan-Teil-1.md",
-    "Shool/deutsch/Themen/Corpus Delectiy/2025-11-19-Arbeitsplan-II.md",
-    "Shool/deutsch/Themen/Corpus Delectiy/Charakterisierung von Mia Holl.md",
-    "Shool/tk/Wer bin ich - Präsentation.md",
-    "Shool/Geschi/brd & ddr/Präsentation/Gliederung.md",
-    "Personal/e-technik/Wie Funktioniert ein Stromkreis/Bilder/Pasted image 20251212212214.png",
-    "Personal/e-technik/Wie Funktioniert ein Stromkreis/Wie Funktioniert ein Stromkreis.md",
-    "Personal/e-technik/Wechselrichter/Wechselrichter.md",
-    "Shool/englisch/The English Speaking World/Englisch-Poster.md",
-    "Shool/itgk/Präsentation/Antiallising.md",
-    "Shool/itgk/Präsentation/Was ist eine Rastergrafik.md",
-    "Shool/deutsch/images/Sender-Empfaemger-Modell.fw_-3649212335.png",
-    "Shool/englisch/The English Speaking World/The english speaking world.canvas",
-    "Shool/Geschi/brd & ddr/Präsentation/Bilder/42517782_905.jpg",
-    "Shool/Geschi/brd & ddr/2025-10-27,2025-10-27-Basistext-> Deutschland nach dem 2. Weltkrieg – Entstehung zwei deutscher Staaten.md",
-    "Shool/Geschi/brd & ddr/Präsentation/Bilder/Stacheldraht & Soldat.jpg",
-    "Shool/Geschi/brd & ddr/Präsentation/Bilder/183157-3x2-article1200.jpg",
-    "Shool/Geschi/brd & ddr/Präsentation/Bilder/174670-3x2-article1200.jpg",
-    "Shool/itgk/Abgabe Itgk.md",
+    "Shool/spanisch/Unidad 1 & 2/Pagina 34-35.md",
+    "Shool/deutsch/Sprache_als_medium/images/quellen/quellen.txt",
+    "Shool/deutsch/Sprache_als_medium/pdfs/Xournal/Loriot.xopp",
+    "Shool/deutsch/Sprache_als_medium/pdfs/Xournal/Ein netter Kerl - Kurzgeschichte mit Aufgabenstellung.pdf",
+    "Shool/deutsch/Sprache_als_medium/pdfs/Xournal/03-Drama-Dreieck - Aufgaben und Material.xopp",
+    "Shool/deutsch/Sprache_als_medium/pdfs/Sprachexperiment verbal,nonverbal,paraverbal/Sprachexperiment verbal,nonverbal,paraverbal.xopp",
+    "Shool/deutsch/Sprache_als_medium/pdfs/Sprachexperiment verbal,nonverbal,paraverbal/Sprachexperiment verbal,nonverbal,paraverbal.pdf",
+    "Shool/deutsch/Sprache_als_medium/pdfs/Arbeitsplan/Arbeitsplan.pdf",
+    "Shool/deutsch/Sprache_als_medium/pdfs/Arbeitsplan/2025-09-10-Reflexion.md",
+    "Shool/deutsch/Sprache_als_medium/images/quellen",
+    "Shool/deutsch/Sprache_als_medium/images/Sender-Empfaemger-Modell.fw_-3649212335.png",
+    "Shool/deutsch/Sprache_als_medium/pdfs/faszinieren-powerpoint-hintergrund-vorlagen-bewundernswerte-von-powerpoint-hintergrund-vorlagen-508191327.jpg",
+    "Shool/deutsch/Sprache_als_medium/pdfs/deutschsprachexperi.pdf",
+    "Shool/deutsch/Sprache_als_medium/pdfs/Xournal",
+    "Shool/deutsch/Sprache_als_medium/Übungen.md",
+    "Shool/deutsch/Sprache_als_medium/Watzlawwick.md",
+    "Shool/deutsch/Sprache_als_medium/Watzlawwick-Axiome.md",
+    "Shool/deutsch/Sprache_als_medium/Sprache als Medium (mindmap).md",
+    "Shool/deutsch/Sprache_als_medium/Karikatur - Beschreiben.md",
+    "Shool/deutsch/Sprache_als_medium/Deutsch - Erfahrungen.md",
+    "Shool/deutsch/Sprache_als_medium/Arbeit-Korrektur.md",
+    "Shool/deutsch/Sprache_als_medium/2025-10-01-Ein-netter-Kerl-analyse.md",
+    "Shool/deutsch/Sprache_als_medium/2025-09-29-Inhaltsangabe-Ein-netter-Kerl.md",
+    "Shool/deutsch/Sprache_als_medium/2025-09-10-Das Vier Seiten Modell der Kommunikation.md",
+    "Shool/deutsch/Sprache_als_medium/2025-09-08-Dramadreieck.md",
+    "Shool/deutsch/Sprache_als_medium/2025-09-03-Sprachexpermient verbal-nonverbal-paraverbal.md",
+    "Shool/deutsch/Sprache_als_medium/2025-09-03-Sprachexpermient Fachsprache.md",
+    "Shool/deutsch/Corpus Delectiy/Mia-Characteriesierung.md",
+    "Shool/deutsch/Corpus Delectiy/Charakterisierung von Mia Holl.md",
+    "Shool/deutsch/Corpus Delectiy/2025-11-19-Arbeitsplan-II.md",
+    "Shool/deutsch/Corpus Delectiy/2025-10-27-Arbeitsplan-Teil-1.md",
+    "Shool/spanisch/Unidad 1 & 2/2025-11-05-Leif & Wörter.md",
+    "Untitled.md",
+    "Pasted image 20251028120354.png",
     "README.md",
-    "Shool/tk/Präsentation/bilder/Managementabstrakt Fortschrittliche Angriffe - Neue Qualität aktueller Angriffe und Prognose - Ransomware_Managementabstract-Angriffe.png",
-    "Shool/tk/Präsentation/bilder/Ransomware_Killchain_d.png",
-    "Shool/powi/Migration/Untitled.canvas",
-    "Shool/chemie/Bilder/WhatsApp Image 2025-11-25 at 14.33.17.jpeg"
+    "Shool/Untitled/A.md",
+    "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer auf Präsi.md",
+    "Shool/Geschi/brd & ddr/Präsentation/Berliner Mauer.md",
+    "Shool/Geschi/brd & ddr/Präsentation/Bilder/174670-3x2-article1200.jpg",
+    "Shool/Geschi/brd & ddr/Präsentation/Bilder/183157-3x2-article1200.jpg",
+    "Shool/Geschi/brd & ddr/Präsentation/Bilder/42517782_905.jpg",
+    "Shool/Geschi/brd & ddr/Präsentation/Bilder/Stacheldraht & Soldat.jpg",
+    "Shool/chemie/2.-Radfahrer.png",
+    "Shool/chemie/Periodensystem_Einfach.svg",
+    "Personal/e-technik/Wie Funktioniert ein Stromkreis/Bilder/Pasted image 20251212212214.png",
+    "Shool/englisch/The English Speaking World/The english speaking world.canvas",
+    "Shool/powi/Migration/Untitled.canvas"
   ]
 }

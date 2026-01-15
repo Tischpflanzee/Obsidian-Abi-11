@@ -12,7 +12,7 @@ hermana   = schwester
 
 ## padres
 madre = mutter
-padre = Vater
+padre = VaterDateien werden automatisch gelöscht am 09.02.2026
 
 quelle : s. 150
 

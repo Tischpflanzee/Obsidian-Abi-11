@@ -48,7 +48,7 @@ Die aussartung von dieser Situation hätte vermieden werden können indem der Ma
 
 
 
-![[deutsch/pdfs/Arbeitsmappe Schulz von Thun.pdf]]
+![[Arbeitsmappe Schulz von Thun.pdf]]
 
 #deutsch #sprache-als-medium 
 #Shool
