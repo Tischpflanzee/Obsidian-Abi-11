@@ -5,3 +5,8 @@ recibir → recib**iendo**
 trabajar → trabaj**ando**
 salir → sal**iendo**
 jugar → jug**ando** 
+
+# Unregelmässig 
+
+ir → yendo 
+leer → leyendo 
