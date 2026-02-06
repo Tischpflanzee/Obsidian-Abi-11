@@ -4,107 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "fd820e0d598c823c",
+        "id": "1bb7ab19cd395224",
         "type": "tabs",
         "children": [
           {
-            "id": "ee6be58f02ae7528",
+            "id": "517e6f74fc41d4bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/itgk/11-2Halbjahr/E-technik/Energieerzeugung.md",
+                "file": "Shool/englisch/The English Speaking World/Eassy Writing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Energieerzeugung"
+              "title": "Eassy Writing"
             }
           },
           {
-            "id": "4066b362e1a33a72",
+            "id": "cf71bd08bbfcde3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/spanisch/Gramatik/Grundform Bilden.md",
+                "file": "Shool/itgk/11-2Halbjahr/E-technik/Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grundform Bilden"
-            }
-          },
-          {
-            "id": "3bc43b507ca37fa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/spanisch/Unidad 3/Me gusta - S.40.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Me gusta - S.40"
-            }
-          },
-          {
-            "id": "a8f61c50ebd3291c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Shool/pi/ergebnis/Aufgaben_Arrays_20200127_kommentiert.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Aufgaben_Arrays_20200127_kommentiert"
-            }
-          },
-          {
-            "id": "9eb53d0f19c69224",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Notizen/2026/01Januar/1. Januar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Januar"
-            }
-          },
-          {
-            "id": "cda1fe3c647d7e62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Notizen/2026/02Februar/05-Feb-2tage vor dem Treffen mit alissa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05-Feb-2tage vor dem Treffen mit alissa"
-            }
-          },
-          {
-            "id": "68e3d9754c641a8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/itgk/11-2Halbjahr/E-technik/Energieerzeugung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Energieerzeugung"
+              "title": "Untitled 1"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,10 +198,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cda1fe3c647d7e62",
+  "active": "b3b34ff6bfa08b01",
   "lastOpenFiles": [
-    "Personal/Notizen/2026/01Januar/1. Januar.md",
+    "Shool/itgk/11-2Halbjahr/E-technik/Untitled 1.md",
+    "Personal/Notizen/2026/02Februar/06-Feb-Mitten im reli unterricht.md",
+    "Shool/englisch/The English Speaking World/Eassy Writing.md",
+    "Personal/Notizen/2026/01Januar/1. Januar- Tag nach silvster.md",
     "Personal/Notizen/2026/02Februar/05-Feb-2tage vor dem Treffen mit alissa.md",
+    "Shool/itgk/11-2Halbjahr/E-technik/Energieerzeugung.md",
     "Untitled.md",
     "Personal/Notizen/2026/02Februar",
     "Shool/pi/ergebnis/Aufgaben_Arrays_20200127_kommentiert.pdf",
@@ -283,13 +219,11 @@
     "Shool/spanisch/Unidad 3/Me gusta - S.40.md",
     "Shool/spanisch/Gramatik/Pronomen.md",
     "Shool/spanisch/Gramatik/Grundform Bilden.md",
-    "Shool/itgk/11-2Halbjahr/E-technik/Energieerzeugung.md",
     "Shool/spanisch/Gramatik",
     "Personal/latex/Requierments.md",
     "Personal/latex",
     "Shool/itgk/11-2Halbjahr/E-technik",
     "E-ti",
-    "Shool/englisch/The English Speaking World/Eassy Writing.md",
     "Shool/englisch/The English Speaking World/2025-11-14-Acents.md",
     "Shool/englisch/The English Speaking World/The english speaking world.canvas",
     "Shool/englisch/The English Speaking World/M02-Bad-English.md",
@@ -305,8 +239,6 @@
     "Shool/deutsch/Sprache_als_medium/Watzlawwick-Axiome.md",
     "Shool/deutsch/Sprache_als_medium/Sprache als Medium (mindmap).md",
     "Shool/deutsch/Sprache_als_medium/Karikatur - Beschreiben.md",
-    "Shool/deutsch/Sprache_als_medium/Deutsch - Erfahrungen.md",
-    "Shool/deutsch/Sprache_als_medium/Arbeit-Korrektur.md",
     "Pasted image 20251028120354.png",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/174670-3x2-article1200.jpg",
     "Shool/Geschi/brd & ddr/Präsentation/Bilder/183157-3x2-article1200.jpg",

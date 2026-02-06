@@ -1,0 +1,3 @@
+Wie es sich herraus gestellt hat denke ich über die ganze situation von meinen aktuellen gefühlen ein ganzes stück rationaler wenn es tagsüber ist als wenn es nachts ist. Mein aktueller "plan" ist es über morgen mal zu gucken wie sie sich mir gegenüberverhält. Und ich entscheide mich dann da was ich tun sollte. Bzw. wenn ich mich entscheide mit ihr darüber zu reden dann mit vorsicht bzw. ob ich es ihr an dem selben tag sagen sollte oder ob ich es ihr wann anders sag bzw. ob ich noch mal einen tag darüber nachdenken sollte. 
+
+Zum thema mich in ihre lage zu versetzen ist die situation ziemlich beschissen. Also ich meine das ist ja so ähnlich schonmal passiert deswegen würde ich davon ausgehen das sie sehr kritisch damit umgehen würde, aber ersmal abwarten....
