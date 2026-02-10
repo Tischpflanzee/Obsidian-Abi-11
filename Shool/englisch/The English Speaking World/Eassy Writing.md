@@ -2,7 +2,93 @@
 
 In the German newspaper article from "Die Zeit" they talk about the topic Culture Clash. They talk about how different things that people do because of their Culture cann be different. Many people think something like "that isn't normal" while using them self  as the normality without them thinking about different Cultures. They also talk about different ways of talking where misunderstandings. Why are People judging other people from different cultures ? And what should you look out for when speaking to people from different cultures. 
 
- People judge other People from different Cultures because they do other tings not how they are used to. For example the way people speak. German are normaliy more direct when they speak to Dutch people, but British people speak differently they write E-Mails like I would belive that could need some rework or i would suggest... . A
+ People judge other People from different Cultures because they do other tings not how they are used to. For example the way people speak. German are normaliy more direct. That works when they speak to Dutch people, but British people speak differently for example when they write E-Mails the use pharses like I would belive that could need some rework or i would suggest... . While German are more Direct and would say something like: No we cann't do it like that or that doesen't work like that. 
+This diffrence is what restrains the comunication when for example Germans speak with Briten. The British could talk around the topic and Germans would be relative to British very Direct. This diffrenc concludes that Briten think Germans are rude because they think it isn´t Polite to be so direct. While Germans would be annoyed because the conversaiton leads to nothing in their eyes. 
+Another example is that people say things different. They rather speak more direct  or more inderect. For example direct: Your Article is full of mistakes or There seem to be some issues in your report. There can also be some misunderstandings becuase of hierarchy. For example if the cann´t decide because they are not competent to make a decision so they say something like Yes, we will see. This actuly means Pleas don´t notice that i cann´t tell you no because this could be bad for our relationship to each other.     
+
+I would belive it is important to now about coultourel diffrences and how they cann affect us in our communication or how we judge other People. I don´t belive someone should be judge or missunderstud only because they grew up diffrently respectifly in a other coultoure/country. I also wouldn´t be wannted to be missunderstod so it´s only fair to do this to other people.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ![[Essay intercultural communication.pdf]]

@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bb2201d5b3f59cdc",
+        "id": "baf1060b8da49a72",
         "type": "split",
         "children": [
           {
             "id": "6b3d8e1100dd5a4f",
             "type": "tabs",
+            "dimension": 64.0926640926641,
             "children": [
               {
                 "id": "b1825eb4f136e510",
@@ -17,37 +18,55 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Exkurs-> Chemichesrechnen.md",
+                    "file": "Shool/englisch/The English Speaking World/Eassy Writing.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Exkurs-> Chemichesrechnen"
+                  "title": "Eassy Writing"
                 }
               }
             ]
           },
           {
-            "id": "f46ebd0a9bd47a38",
+            "id": "a33b8c911d3a7286",
             "type": "tabs",
+            "dimension": 35.907335907335906,
             "children": [
               {
-                "id": "31b383e87d0db94c",
+                "id": "de7148c02c9a4e5b",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Kopfübung_OxZahlen_Chemisches Rechnen.pdf"
+                    "file": "Shool/englisch/The English Speaking World/pdf/Essay intercultural communication.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "Kopfübung_OxZahlen_Chemisches Rechnen"
+                  "title": "Essay intercultural communication"
                 }
               }
-            ],
-            "stacked": true
+            ]
           }
         ],
         "direction": "horizontal"
+      },
+      {
+        "id": "913cee5813ce282f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5564d5399a14ec86",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Shool/englisch/The English Speaking World/pdf/CultureClashes.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CultureClashes"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,8 +231,11 @@
   },
   "active": "b1825eb4f136e510",
   "lastOpenFiles": [
-    "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Kopfübung_OxZahlen_Chemisches Rechnen.pdf",
+    "Shool/englisch/The English Speaking World/pdf/Essay intercultural communication.pdf",
+    "Shool/englisch/The English Speaking World/Eassy Writing.md",
+    "Shool/englisch/The English Speaking World/pdf/CultureClashes.pdf",
     "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Exkurs-> Chemichesrechnen.md",
+    "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Kopfübung_OxZahlen_Chemisches Rechnen.pdf",
     "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen",
     "Personal/latex/Requierments.md",
     "Shool/chemie/2.Halbjahr",
@@ -232,8 +254,6 @@
     "Shool/chemie/1. Halbjahr/PDF/xorunal ++/AB_EXP_Magnesiumoxid-Synthese.xopp",
     "Shool/chemie/1. Halbjahr/PDF/xorunal ++/AB_EXP_Magnesiumoxid-Synthese.pdf",
     "Shool/chemie/1. Halbjahr/PDF/xorunal ++",
-    "Shool/chemie/1. Halbjahr/PDF/Modelle.pdf",
-    "Shool/chemie/1. Halbjahr/PDF/Chemisches dreick .pdf",
     "Shool/chemie/1. Halbjahr/echemie_und_redoxreaktionen/Pdfs/x/Periodensystem_Einfach.svg.png",
     "Shool/chemie/1. Halbjahr/echemie_und_redoxreaktionen/Übungsaufgaben= Redoxreaktionen.md",
     "Shool/chemie/1. Halbjahr/echemie_und_redoxreaktionen/Was ist eine Redoxreaktion.md",
@@ -241,7 +261,6 @@
     "Shool/chemie/1. Halbjahr/bilder/WhatsApp Image 2025-09-09 at 14.15.11.jpeg",
     "Shool/chemie/1. Halbjahr/Bilder/WhatsApp Image 2025-11-25 at 14.33.17.jpeg",
     "Shool/chemie/1. Halbjahr/Arbeit/Arbeit.md",
-    "Shool/englisch/The English Speaking World/Eassy Writing.md",
     "Shool/englisch/The English Speaking World/M02-Bad-English.md",
     "Shool/englisch/The English Speaking World/Englishes and Language Change.md",
     "Personal/Notizen/2026/02Februar/06-Feb-Mitten im reli unterricht.md",
