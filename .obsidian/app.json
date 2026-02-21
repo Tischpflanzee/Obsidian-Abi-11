@@ -8,5 +8,6 @@
   },
   "showLineNumber": true,
   "readableLineLength": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": false
 }
