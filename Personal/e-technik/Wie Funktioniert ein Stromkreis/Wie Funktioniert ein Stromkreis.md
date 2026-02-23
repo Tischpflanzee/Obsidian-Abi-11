@@ -13,11 +13,11 @@ Der Elektrische Strom bewegt sich immer vom Minuspol zum Pluspol aufgrund von Sp
 ![[Pasted image 20251212212214.png]]
 
 
-| Wassermodell                                        | Stromkreis                                                  |
-| --------------------------------------------------- | ----------------------------------------------------------- |
-| Wasser fließt vom oberen zum Unterbecken der Quelle | Strom fließt vom Minus zum Pluspol der Quelle               |
-| Druckdifferenz zwischen oberem und unterem Becken   | Spannung zwischen Minus und Pluspol                         |
-| An Wassermülle gibt es einen Druckabfall            | An elektrischen Verbrauchern gibt es einen Spannungsabfall  |
+| Wassermodell                                        | Stromkreis                                                 |
+| --------------------------------------------------- | ---------------------------------------------------------- |
+| Wasser fließt vom oberen zum Unterbecken der Quelle | Strom fließt vom Minus zum Pluspol der Quelle              |
+| Druckdifferenz zwischen oberem und unterem Becken   | Spannung zwischen Minus und Pluspol                        |
+| An Wassermülle gibt es einen Druckabfall            | An elektrischen Verbrauchern gibt es einen Spannungsabfall |
 
 
 
@@ -39,7 +39,7 @@ Einheit; **Ampere (A)**
 Physikaliche Stromrichtung = von - zu + 
 Technische Stromrichtung = von + zu - 
 
-In Schaltplänen wird die **Technische Stromrichtung** benzt und Wirklichkeit fließt der Strom nach der **Physikaliche Stromrichtung**.
+In Schaltplänen wird die **Technische Stromrichtung** benuzt und Wirklichkeit fließt der Strom nach der **Physikaliche Stromrichtung**.
 
 noch aufschreiben
 

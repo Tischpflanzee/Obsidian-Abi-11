@@ -13,6 +13,6 @@ Abschluss Gruppe 2:
 • Emotionen
 • Subjektiv
 
-# Kopf-oder Bauchmensch  
+# Kopf-oder Bauch mensch  
 
-Ich persönliche würde sagen das ich ein Kopf-mensch bin, da ich 
+Ich persönliche würde sagen das ich ein Bauch-mensch bin, da ich oftmals unüberlegt und Impulsiv handel. 
