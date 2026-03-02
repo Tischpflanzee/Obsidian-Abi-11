@@ -4,39 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "e2b2ce63909b9054",
+        "id": "77324cb79fd917fc",
         "type": "tabs",
         "children": [
           {
-            "id": "e5e7bbcae155d4c1",
+            "id": "bbf176afe6da5226",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Shool/deutsch/0Neues Thema/Aufgabenplan-Material-Geschützes-Schreiben.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Aufgabenplan-Material-Geschützes-Schreiben"
             }
-          }
-        ]
-      },
-      {
-        "id": "c46843ab15ff2fa9",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "8c9db6b9082064fb",
+            "id": "0e62dc52ba374338",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "Shool/deutsch/0Neues Thema/Pdfs/Arbeitsplan I Materialgestütztes Schreiben.pdf"
+                "file": "Shool/deutsch/0Neues Thema/Mindmap.canvas",
+                "viewState": {
+                  "x": 67.5,
+                  "y": -150,
+                  "zoom": -1.0513468800002206
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Arbeitsplan I Materialgestütztes Schreiben"
+              "icon": "lucide-layout-dashboard",
+              "title": "Mindmap"
             }
           }
         ]
@@ -59,10 +68,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -96,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "right": {
     "id": "eb3b08c1845a19fc",
@@ -113,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
+                "file": "Shool/deutsch/0Neues Thema/Aufgabenplan-Material-Geschützes-Schreiben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for P.45 - Personen Beschreibung"
+              "title": "Rückverweise auf Aufgabenplan-Material-Geschützes-Schreiben"
             }
           },
           {
@@ -132,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
+                "file": "Shool/deutsch/0Neues Thema/Aufgabenplan-Material-Geschützes-Schreiben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from P.45 - Personen Beschreibung"
+              "title": "Ausgehende Links von Aufgabenplan-Material-Geschützes-Schreiben öffnen"
             }
           },
           {
@@ -161,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shool/Geschi/Schule der Zukunft/Schule der Zukunft - Basis Text.md",
+                "file": "Shool/deutsch/0Neues Thema/Aufgabenplan-Material-Geschützes-Schreiben.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Schule der Zukunft - Basis Text"
+              "title": "Gliederung von Aufgabenplan-Material-Geschützes-Schreiben"
             }
           },
           {
@@ -181,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,40 +198,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "daily-notes:Open today's daily note": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "markdown-importer:Markdown Importprogramm öffnen": false,
+      "random-note:Zufällige Notiz öffnen": false,
+      "bases:Neue Base erstellen": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5e7bbcae155d4c1",
+  "active": "b3b34ff6bfa08b01",
   "lastOpenFiles": [
-    "Shool/deutsch/0Neues Thema/Pdfs/Arbeitsplan I Materialgestütztes Schreiben.pdf",
+    "Shool/deutsch/0Neues Thema/Media/mindmap.png",
+    "Shool/deutsch/0Neues Thema/Mindmap.canvas",
+    "Shool/deutsch/0Neues Thema/Media/mindmap.png#",
+    "Shool/deutsch/0Neues Thema/Media/x/BG Kapitelüberschriften Corpus Delicti.xopp",
+    "Shool/deutsch/0Neues Thema/Media/x/BG Kapitelüberschriften Corpus Delicti.pdf",
+    "Shool/deutsch/0Neues Thema/Media/x",
+    "Shool/deutsch/0Neues Thema/Media/BG Kapitelüberschriften Corpus Delicti_kommentiert.pdf",
+    "Shool/deutsch/0Neues Thema/Media/Arbeitsplan I Materialgestütztes Schreiben.pdf",
+    "Shool/deutsch/0Neues Thema/Media",
     "Shool/deutsch/0Neues Thema/Aufgabenplan-Material-Geschützes-Schreiben.md",
+    "Shool/deutsch/0Neues Thema/Pdfs/Arbeitsplan I Materialgestütztes Schreiben.pdf",
     "Shool/deutsch/0Neues Thema/Kopf-o-Bauchmensch.md",
     "Shool/Geschi/Schule der Zukunft/Schule der Zukunft - Basis Text.md",
     "conflict-files-obsidian-git.md",
     "Shool/Geschi/Schule der Zukunft/pdf/Geschi - Hintergrundmaterial - Projekt_Schule der Zukunft.pdf",
     "Shool/Geschi/Schule der Zukunft/Schule der Zukunft/pdf/Geschi - Hintergrundmaterial - Projekt_Schule der Zukunft.pdf",
-    "Shool/Geschi/Schule der Zukunft/Schule der Zukunft/pdf",
     "Shool/Geschi/Schule der Zukunft/Schule der Zukunft/Schule der Zukunft - Basis Text.md",
-    "Shool/Geschi/Schule der Zukunft/Schule der Zukunft",
     "Shool/spanisch/Unidad 3/p46.md",
     "Shool/spanisch/Unidad 3/Buch-Unidad 3.md",
-    "Shool/deutsch/0Neues Thema/Pdfs/x/Abeitsplan1-Halbjahr2.pdf",
     "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Untitled 1.md",
-    "Shool/itgk/11-2Halbjahr/E-technik/pdfs/04 Elektrotechnik - Messung und Energieverbrauch.pdf",
-    "Shool/Geschi/Schule der Zukunft/pdf",
-    "Shool/Geschi/Schule der Zukunft",
     "Shool/itgk/11-2Halbjahr/E-technik/Wie viel kostet die Schule.md",
     "Shool/itgk/11-2Halbjahr/E-technik/Bilder/Strompreisentwicklung-2014-2025-1.jpg",
-    "Shool/itgk/11-2Halbjahr/E-technik/Bilder",
     "Shool/englisch/The English Speaking World/Englishes and Language Change.md",
     "Shool/englisch/The English Speaking World/M02-Bad-English.md",
     "Shool/englisch/The English Speaking World/Eassy Writing.md",
