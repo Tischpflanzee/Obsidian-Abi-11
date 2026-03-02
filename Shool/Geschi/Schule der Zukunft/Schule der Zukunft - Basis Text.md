@@ -5,13 +5,13 @@
 - Nicht nur Wissen zu vermitteln, sondern auch Erziehung im sinne des Staates zu fördern 
 - Wiederstand der Landbevölkerung, da sie auf ihrer Arbeitskraft ihrer Kinder angewiesen. 
 - Schule wurde so zum Instrument der Aufklärung
-- Vermitlung von Gehorsam und christlichen Werten. 
+- Vermittlung von Gehorsam und christlichen Werten. 
 
 
 # 1871-1918
 
 - Volksschule war für alle Kinder Pflicht
-	- Zugang zur weiterführenden Schule blieb wohabenden Schichten vorbehalten 
+	- Zugang zur weiterführenden Schule blieb wohlabenden Schichten vorbehalten 
 -  Neben der Volksschule existierten Mittelschulen und Gymnasien -> für eine Kleine elite
 - Disziplin, Gehorsam und Patriotismus standen im Mittelpunkt der schulischen Erziehung, was sich auch in der strengen Unterrichtsatmosphäre
 	- Orentierung an militärischen Tugenden 

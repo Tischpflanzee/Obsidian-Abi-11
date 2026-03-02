@@ -13,12 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/Geschi/Schule der Zukunft/Schule der Zukunft - Basis Text.md",
+                "file": "Shool/deutsch/0Neues Thema/Aufgabenplan-Material-Geschützes-Schreiben.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schule der Zukunft - Basis Text"
+              "title": "Aufgabenplan-Material-Geschützes-Schreiben"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c46843ab15ff2fa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c9db6b9082064fb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Shool/deutsch/0Neues Thema/Pdfs/Arbeitsplan I Materialgestütztes Schreiben.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Arbeitsplan I Materialgestütztes Schreiben"
             }
           }
         ]
@@ -186,9 +204,12 @@
   },
   "active": "e5e7bbcae155d4c1",
   "lastOpenFiles": [
+    "Shool/deutsch/0Neues Thema/Pdfs/Arbeitsplan I Materialgestütztes Schreiben.pdf",
+    "Shool/deutsch/0Neues Thema/Aufgabenplan-Material-Geschützes-Schreiben.md",
+    "Shool/deutsch/0Neues Thema/Kopf-o-Bauchmensch.md",
+    "Shool/Geschi/Schule der Zukunft/Schule der Zukunft - Basis Text.md",
     "conflict-files-obsidian-git.md",
     "Shool/Geschi/Schule der Zukunft/pdf/Geschi - Hintergrundmaterial - Projekt_Schule der Zukunft.pdf",
-    "Shool/Geschi/Schule der Zukunft/Schule der Zukunft - Basis Text.md",
     "Shool/Geschi/Schule der Zukunft/Schule der Zukunft/pdf/Geschi - Hintergrundmaterial - Projekt_Schule der Zukunft.pdf",
     "Shool/Geschi/Schule der Zukunft/Schule der Zukunft/pdf",
     "Shool/Geschi/Schule der Zukunft/Schule der Zukunft/Schule der Zukunft - Basis Text.md",
@@ -203,14 +224,11 @@
     "Shool/itgk/11-2Halbjahr/E-technik/Wie viel kostet die Schule.md",
     "Shool/itgk/11-2Halbjahr/E-technik/Bilder/Strompreisentwicklung-2014-2025-1.jpg",
     "Shool/itgk/11-2Halbjahr/E-technik/Bilder",
-    "Shool/itgk/11-2Halbjahr/E-technik/pdfs",
     "Shool/englisch/The English Speaking World/Englishes and Language Change.md",
     "Shool/englisch/The English Speaking World/M02-Bad-English.md",
     "Shool/englisch/The English Speaking World/Eassy Writing.md",
     "Shool/englisch/The English Speaking World/2025-11-14-Acents.md",
     "Shool/TO DO.md",
-    "Shool/deutsch/0Neues Thema/Kopf-o-Bauchmensch.md",
-    "Shool/deutsch/0Neues Thema/Aufgabenplan-Material-Geschützes-Schreiben.md",
     "Untitled.md",
     "Shool/Untitled/A.md",
     "Shool/Temp.md",
