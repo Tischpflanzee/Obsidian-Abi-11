@@ -26,10 +26,11 @@ Wichtig waren Religion (teil 1), der Umgang mit Schülern. (teil 2) und Teil 3 d
 
 ## Nummer 2
 
-Ein wenig wissen über Religion (Christentum), ein wenig wissen über dein Umgang mit Kindern im Unterricht und noch grundlegendes Wissen über Geographie und das Fleißig sein 
+Ein wenig wissen über Religion (Christentum), ein wenig wissen über dein Umgang mit Kindern im Unterricht und noch grundlegendes Wissen über Geographie und das Fleißig sein. Die Kenntnisse wirken auf mich sehr Grundlegend für heutige Verhältnisse und für einen Lehrer ein wenig zu wenig. 
 
+## Nummer 3
 
-
+Zu erkennen ist mit den Fragen ein sehr strenges System. Die Kinder dürfen bei Fehlern geschlagen werden und sind rein auf ihren Fleiß begrenzt
 
 
 

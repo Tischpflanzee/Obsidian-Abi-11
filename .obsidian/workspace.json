@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "right": {
     "id": "eb3b08c1845a19fc",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
+                "file": "Shool/Geschi/Schule der Zukunft/Schule der Zukunft - Basis Text.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of P.45 - Personen Beschreibung"
+              "title": "Outline of Schule der Zukunft - Basis Text"
             }
           },
           {
@@ -157,12 +158,12 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
