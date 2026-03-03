@@ -36,9 +36,33 @@
                   "icon": "lucide-file",
                   "title": "Versuch"
                 }
+              },
+              {
+                "id": "2661df8c12e022dd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "conflict-files-obsidian-git.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "conflict-files-obsidian-git"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "49525161f8cc58de",
@@ -205,8 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,10 +245,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5772c7109baebd9",
+  "active": "2661df8c12e022dd",
   "lastOpenFiles": [
-    "Shool/chemie/2.Halbjahr/1_AB_DaniellElement.pdf",
     "Shool/chemie/2.Halbjahr/Versuch.md",
+    "conflict-files-obsidian-git.md",
+    "Shool/deutsch/0Neues Thema/Mindmap.canvas",
+    "Shool/deutsch/0Neues Thema/Media/x/BG Kapitelüberschriften Corpus Delicti.xopp",
+    "Shool/deutsch/0Neues Thema/Media/x/BG Kapitelüberschriften Corpus Delicti.pdf",
+    "Shool/deutsch/0Neues Thema/Media/x",
+    "Shool/deutsch/0Neues Thema/Media/mindmap.png",
+    "Shool/deutsch/0Neues Thema/Media/BG Kapitelüberschriften Corpus Delicti_kommentiert.pdf",
+    "Shool/deutsch/0Neues Thema/Media/Arbeitsplan I Materialgestütztes Schreiben.pdf",
+    "Shool/deutsch/0Neues Thema/Media",
+    "Shool/chemie/2.Halbjahr/1_AB_DaniellElement.pdf",
     "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Kopfübung_OxZahlen_Chemisches Rechnen.pdf",
     "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Exkurs-> Chemichesrechnen.md",
     "Shool/itgk/11-2Halbjahr/E-technik/Wie viel kostet die Schule.md",
@@ -237,14 +269,8 @@
     "Shool/Geschi/Schule der Zukunft/Schule der Zukunft - Basis Text.md",
     "Shool/spanisch/Unidad 3/p46.md",
     "Shool/itgk/11-2Halbjahr/E-technik/pdfs/04 Elektrotechnik - Messung und Energieverbrauch.pdf",
-    "Shool/itgk/11-2Halbjahr/E-technik/pdfs",
     "Shool/itgk/11-2Halbjahr/E-technik/Bilder/Strompreisentwicklung-2014-2025-1.jpg",
-    "Shool/itgk/11-2Halbjahr/E-technik/Bilder",
-    "Shool/Geschi/Schule der Zukunft/pdf/Geschi - Hintergrundmaterial - Projekt_Schule der Zukunft.pdf",
-    "Shool/Geschi/Schule der Zukunft/pdf",
     "Shool/Geschi/Schule der Zukunft - Basis Text.md",
-    "Shool/Geschi/Schule der Zukunft",
-    "Shool/pi/Aufgaben_Arrays_20200127.pdf",
     "Shool/it/Bonbonglas.md",
     "Shool/spanisch/Unidad 3/Buch-Unidad 3.md",
     "Shool/spanisch/Unidad 3/Me gusta - S.40.md",
@@ -257,7 +283,6 @@
     "Shool/englisch/The English Speaking World/Bildbeschreibung.md",
     "Shool/englisch/The English Speaking World/2025-11-14-Acents.md",
     "Shool/englisch/The English Speaking World/Englishes and Language Change.md",
-    "conflict-files-obsidian-git.md",
     "Shool/TO DO.md",
     "Untitled.md",
     "Pasted image 20251028120354.png",
@@ -269,7 +294,6 @@
     "Shool/englisch/The English Speaking World/The english speaking world.canvas",
     "Shool/deutsch/Sprache_als_medium/images/Sender-Empfaemger-Modell.fw_-3649212335.png",
     "Shool/deutsch/Sprache_als_medium/pdfs/faszinieren-powerpoint-hintergrund-vorlagen-bewundernswerte-von-powerpoint-hintergrund-vorlagen-508191327.jpg",
-    "Shool/Geschi/brd & ddr/Präsentation/Bilder/174670-3x2-article1200.jpg",
     "Shool/powi/Migration/Untitled.canvas"
   ]
 }

@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"59cbeed40992d7d9","type":"text","text":"Vernunft ","x":-84,"y":-197,"width":250,"height":60,"color":"4"},
+		{"id":"5a339258838f92a3","type":"text","text":"Gefühl","x":-84,"y":120,"width":250,"height":60,"color":"2"},
+		{"id":"c0370d0c44721417","type":"text","text":"Glück","x":-514,"y":53,"width":250,"height":60,"color":"2"},
+		{"id":"69914f22f7ad7603","x":340,"y":-60,"width":250,"height":53,"color":"5","type":"text","text":"Freiheit"},
+		{"id":"0dcebc3fc3d28654","x":-520,"y":-248,"width":250,"height":60,"color":"4","type":"text","text":"Gleichheit"},
+		{"id":"31a496f599a3eb49","x":315,"y":-440,"width":250,"height":60,"color":"4","type":"text","text":"Wissen"},
+		{"id":"23acaa92fad986d8","x":405,"y":-649,"width":250,"height":60,"color":"4","type":"text","text":"Bildung"},
+		{"id":"b59f2d8c61d3ec7d","type":"text","text":"Aufklärung","x":90,"y":-575,"width":250,"height":60,"color":"4"},
+		{"id":"2ecbe265ec9e0f98","x":-440,"y":-500,"width":250,"height":60,"color":"4","type":"text","text":"Brüderlichkeit"},
+		{"id":"54b70d672d0b196a","x":-190,"y":-635,"width":250,"height":60,"color":"4","type":"text","text":"Kritisches Denken"},
+		{"id":"fc6d5ae52f8e42ff","x":-203,"y":-38,"width":250,"height":60,"color":"2","type":"text","text":"Subjektiv"},
+		{"id":"bc83d6d4f418a827","x":403,"y":-243,"width":250,"height":60,"color":"4","type":"text","text":"Selbstkontrolle"},
+		{"id":"e6f4e8c622b5c011","x":90,"y":-800,"width":250,"height":60,"color":"4","type":"text","text":"Freiheit"},
+		{"id":"43b2ea22d6ae3c3e","x":-160,"y":440,"width":250,"height":60,"color":"2","type":"text","text":"Faulheit"},
+		{"id":"a11d1d2b2e042ed7","x":290,"y":356,"width":250,"height":60,"color":"2","type":"text","text":"Unvernünftig"},
+		{"id":"66707401bda07e2e","x":-389,"y":-360,"width":250,"height":60,"color":"4","type":"text","text":"Zivieliesiert "}
+	],
+	"edges":[
+		{"id":"bb11d7ca1bfa6e6e","fromNode":"5a339258838f92a3","fromSide":"left","toNode":"c0370d0c44721417","toSide":"right"},
+		{"id":"f906edb5297bf564","fromNode":"59cbeed40992d7d9","fromSide":"top","toNode":"b59f2d8c61d3ec7d","toSide":"bottom"},
+		{"id":"64969f8f7f599337","fromNode":"5a339258838f92a3","fromSide":"top","toNode":"69914f22f7ad7603","toSide":"bottom"},
+		{"id":"16434e764e9b52cf","fromNode":"59cbeed40992d7d9","fromSide":"right","toNode":"69914f22f7ad7603","toSide":"left"},
+		{"id":"8a60739a79f4a442","fromNode":"59cbeed40992d7d9","fromSide":"top","toNode":"2ecbe265ec9e0f98","toSide":"bottom"},
+		{"id":"aaedab9a0aee8c77","fromNode":"59cbeed40992d7d9","fromSide":"left","toNode":"0dcebc3fc3d28654","toSide":"right"},
+		{"id":"5b9b35e7bf578e53","fromNode":"59cbeed40992d7d9","fromSide":"top","toNode":"31a496f599a3eb49","toSide":"bottom"},
+		{"id":"191e9135887b3d14","fromNode":"31a496f599a3eb49","fromSide":"top","toNode":"23acaa92fad986d8","toSide":"bottom"},
+		{"id":"3f3b3a6f509548ca","fromNode":"b59f2d8c61d3ec7d","fromSide":"top","toNode":"23acaa92fad986d8","toSide":"left"},
+		{"id":"89220520c7afad7e","fromNode":"59cbeed40992d7d9","fromSide":"top","toNode":"54b70d672d0b196a","toSide":"bottom"},
+		{"id":"92046dcd0f80e872","fromNode":"54b70d672d0b196a","fromSide":"bottom","toNode":"31a496f599a3eb49","toSide":"left"},
+		{"id":"c5bab99a86620a16","fromNode":"5a339258838f92a3","fromSide":"top","toNode":"fc6d5ae52f8e42ff","toSide":"bottom"},
+		{"id":"8499e521b8e3f57f","fromNode":"59cbeed40992d7d9","fromSide":"right","toNode":"bc83d6d4f418a827","toSide":"left"},
+		{"id":"22495736c7aac6f1","fromNode":"b59f2d8c61d3ec7d","fromSide":"top","toNode":"e6f4e8c622b5c011","toSide":"bottom"},
+		{"id":"30f270d755b4e27e","fromNode":"54b70d672d0b196a","fromSide":"top","toNode":"e6f4e8c622b5c011","toSide":"left","fromEnd":"arrow"},
+		{"id":"e5da55c1b2f1a2ec","fromNode":"5a339258838f92a3","fromSide":"bottom","toNode":"43b2ea22d6ae3c3e","toSide":"top","label":"Bequem"},
+		{"id":"dd9605b10d2a9155","fromNode":"43b2ea22d6ae3c3e","fromSide":"right","toNode":"a11d1d2b2e042ed7","toSide":"left"},
+		{"id":"260ed347a3e56991","fromNode":"59cbeed40992d7d9","fromSide":"bottom","toNode":"a11d1d2b2e042ed7","toSide":"top","toEnd":"none"},
+		{"id":"0ebe180e6057b74a","fromNode":"59cbeed40992d7d9","fromSide":"top","toNode":"66707401bda07e2e","toSide":"bottom"}
+	]
+}
