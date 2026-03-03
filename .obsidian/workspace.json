@@ -4,24 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "e2b2ce63909b9054",
-        "type": "tabs",
+        "id": "fd94faaaf8da1ff5",
+        "type": "split",
         "children": [
           {
-            "id": "e5e7bbcae155d4c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/Geschi/Schule der Zukunft/Schule der Zukunft - Basis Text.md",
-                "mode": "source",
-                "source": false
+            "id": "e2c7607aee2db473",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e53b95458c4cf44",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Kopfübung_OxZahlen_Chemisches Rechnen.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Kopfübung_OxZahlen_Chemisches Rechnen"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Schule der Zukunft - Basis Text"
-            }
+              {
+                "id": "f5772c7109baebd9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Shool/chemie/2.Halbjahr/Versuch.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Versuch"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "49525161f8cc58de",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1973271d2c14fa5a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Shool/chemie/2.Halbjahr/1_AB_DaniellElement.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "1_AB_DaniellElement"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -44,7 +82,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -78,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
@@ -143,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shool/Geschi/Schule der Zukunft/Schule der Zukunft - Basis Text.md",
+                "file": "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Schule der Zukunft - Basis Text"
+              "title": "Outline of P.45 - Personen Beschreibung"
             }
           },
           {
@@ -163,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -172,57 +210,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "daily-notes:Open today's daily note": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "markdown-importer:Markdown Importprogramm öffnen": false,
+      "random-note:Zufällige Notiz öffnen": false,
+      "bases:Neue Base erstellen": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5e7bbcae155d4c1",
+  "active": "f5772c7109baebd9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Shool/Geschi/Schule der Zukunft/pdf/Geschi - Hintergrundmaterial - Projekt_Schule der Zukunft.pdf",
-    "Shool/Geschi/Schule der Zukunft/Schule der Zukunft - Basis Text.md",
-    "Shool/Geschi/Schule der Zukunft/Schule der Zukunft/pdf/Geschi - Hintergrundmaterial - Projekt_Schule der Zukunft.pdf",
-    "Shool/Geschi/Schule der Zukunft/Schule der Zukunft/pdf",
-    "Shool/Geschi/Schule der Zukunft/Schule der Zukunft/Schule der Zukunft - Basis Text.md",
-    "Shool/Geschi/Schule der Zukunft/Schule der Zukunft",
-    "Shool/spanisch/Unidad 3/p46.md",
-    "Shool/spanisch/Unidad 3/Buch-Unidad 3.md",
-    "Shool/deutsch/0Neues Thema/Pdfs/x/Abeitsplan1-Halbjahr2.pdf",
-    "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Untitled 1.md",
-    "Shool/itgk/11-2Halbjahr/E-technik/pdfs/04 Elektrotechnik - Messung und Energieverbrauch.pdf",
-    "Shool/Geschi/Schule der Zukunft/pdf",
-    "Shool/Geschi/Schule der Zukunft",
+    "Shool/chemie/2.Halbjahr/1_AB_DaniellElement.pdf",
+    "Shool/chemie/2.Halbjahr/Versuch.md",
+    "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Kopfübung_OxZahlen_Chemisches Rechnen.pdf",
+    "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Exkurs-> Chemichesrechnen.md",
     "Shool/itgk/11-2Halbjahr/E-technik/Wie viel kostet die Schule.md",
+    "Shool/itgk/11-2Halbjahr/E-technik/Energieerzeugung.md",
+    "Shool/itgk/11-2Halbjahr/E-technik/Untitled 1.md",
+    "Shool/deutsch/0Neues Thema/Aufgabenplan-Material-Geschützes-Schreiben.md",
+    "Shool/deutsch/0Neues Thema/Kopf-o-Bauchmensch.md",
+    "Shool/deutsch/0Neues Thema/Pdfs/BG Kapitelüberschriften Corpus Delicti_kommentiert.pdf",
+    "Shool/Geschi/Schule der Zukunft/Schule der Zukunft - Basis Text.md",
+    "Shool/spanisch/Unidad 3/p46.md",
+    "Shool/itgk/11-2Halbjahr/E-technik/pdfs/04 Elektrotechnik - Messung und Energieverbrauch.pdf",
+    "Shool/itgk/11-2Halbjahr/E-technik/pdfs",
     "Shool/itgk/11-2Halbjahr/E-technik/Bilder/Strompreisentwicklung-2014-2025-1.jpg",
     "Shool/itgk/11-2Halbjahr/E-technik/Bilder",
-    "Shool/itgk/11-2Halbjahr/E-technik/pdfs",
-    "Shool/englisch/The English Speaking World/Englishes and Language Change.md",
+    "Shool/Geschi/Schule der Zukunft/pdf/Geschi - Hintergrundmaterial - Projekt_Schule der Zukunft.pdf",
+    "Shool/Geschi/Schule der Zukunft/pdf",
+    "Shool/Geschi/Schule der Zukunft - Basis Text.md",
+    "Shool/Geschi/Schule der Zukunft",
+    "Shool/pi/Aufgaben_Arrays_20200127.pdf",
+    "Shool/it/Bonbonglas.md",
+    "Shool/spanisch/Unidad 3/Buch-Unidad 3.md",
+    "Shool/spanisch/Unidad 3/Me gusta - S.40.md",
+    "Shool/spanisch/Unidad 3/Workbook S.26.md",
+    "Untitled 1.md",
+    "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
+    "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Untitled 1.md",
     "Shool/englisch/The English Speaking World/M02-Bad-English.md",
     "Shool/englisch/The English Speaking World/Eassy Writing.md",
+    "Shool/englisch/The English Speaking World/Bildbeschreibung.md",
     "Shool/englisch/The English Speaking World/2025-11-14-Acents.md",
+    "Shool/englisch/The English Speaking World/Englishes and Language Change.md",
+    "conflict-files-obsidian-git.md",
     "Shool/TO DO.md",
-    "Shool/deutsch/0Neues Thema/Kopf-o-Bauchmensch.md",
-    "Shool/deutsch/0Neues Thema/Aufgabenplan-Material-Geschützes-Schreiben.md",
     "Untitled.md",
-    "Shool/Untitled/A.md",
-    "Shool/Temp.md",
-    "Shool/Reflexion.md",
     "Pasted image 20251028120354.png",
-    "Personal/e-technik/Wie Funktioniert ein Stromkreis/Wie Funktioniert ein Stromkreis.md",
-    "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
-    "Shool/spanisch/Unidad 1 & 2/1_Wörter.md",
-    "Shool/Mathe/Lernfad-M09.md",
-    "Personal/Obsidian.md",
-    "Shool/pi/Mergesort.md",
-    "README.md",
     "Shool/chemie/1. Halbjahr/Periodensystem_Einfach.svg",
     "Shool/chemie/1. Halbjahr/echemie_und_redoxreaktionen/Pdfs/x/Periodensystem_Einfach.svg.png",
     "Shool/chemie/1. Halbjahr/bilder/WhatsApp Image 2025-09-09 at 14.51.00.jpeg",

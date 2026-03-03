@@ -40,8 +40,11 @@ $15 W \cdot 4 \cdot 2.5$
 ## 3 Notebooks 
 
 
+# Insgesamt Schule 
 
+## Drucker im Ruhezustand 
 
+10W
 
 # Quellen + Pdfs
 
