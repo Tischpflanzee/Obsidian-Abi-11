@@ -14,18 +14,8 @@ Ja bis zu 0,8V
 
 # Aspekt Prozesse auf Teilchen ebene 
 
-Durch das $SO_4\ ^{2-}$ geht durch die poröse Trennwand  wodurch 2 Elektronen mehr in der Lösung sind. das Zink reagiert darauf und wird zu $Zn^{2+}$. Die zwei Elektronen gehen über die anode also den Minuspol bis zur Kathode also den Pluspol wodurch die Zwei Elektronen in die Kupfersulfat Lösung kommen. 
+Durch das $SO_4\ ^{2-}$ geht durch die poröse Trennwand  wodurch 2 Elektronen mehr in der Lösung sind. das Zink reagiert darauf und wird zu $Zn^{2+}$. Die zwei Elektronen gehen über die anode also den Minuspol bis zur Kathode also den Pluspol wodurch die Zwei Elektronen in die Kupfersulfat Lösung kommen.
 
 
 
-
-
-
-Kupefsulfat 
-
-
-
-
-
-
-![[1_AB_DaniellElement.pdf]]
+![[1_AB_DaniellElement.pdf]]        
