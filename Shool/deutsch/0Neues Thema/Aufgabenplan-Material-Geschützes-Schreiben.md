@@ -43,9 +43,47 @@ Die Texte waren ziemlich kurz und meist nicht sehr argumentativ, da vorher im Un
 
 ### Aufklärung
 
-1720-1800, Freiheit und Vernunft, gegen Machtverhältnis vom Bürgertum
+- 1720-1800
+- Freiheit und Vernunft
+- gegen Machtverhältnis vom Bürgertum
 
+<<<<<<< HEAD
 # 2. Aufgabenstellung  
+=======
+Historicher Hintergrund 
+
+- Pestepidemien 
+- dreißigjähriger Krieg
+- Glaubenskriege durch Reformation 
+- Französiche Revolution
+	- Freiheit
+	- Gleichheit
+	- Brüderlichkeit
+- Verstädterung
+- technicher Fortschrit 
+- höhere Bildung 
+Welt und Menschenbild
+- Menschenrechte für alle
+- Keine Klassenzugehörigkeiten 
+- Bildungsmöglichkeiten
+	- durch Vernunft von Unfreiheit befreien 
+- Wissen = Vernunft 
+- Verstand -> kritisches Denken
+
+## Sturm und Drang
+
+- 1767-1784
+- Aufklärung
+	-  Vernüftig sein
+- sich selbst sein 
+- orentierung an: Shakespear Homer
+- Natürlichkeit 
+- Gefühl
+- Inspiration
+- Rebellion
+- Erfahrungen 
+# Aufgabenstellung 2 
+>>>>>>> origin/main
 
 ## 2.1
 
@@ -64,17 +102,32 @@ v
 2. **wichtige** Informationen markieren und notieren 
 3. Welche Informationen sind **nützlich** ?
 
+<<<<<<< HEAD
 ## 2.2
 
 Grundsätzlich bearbeite ich texte sehre ähnlich wie im Video beschrieben. Meist lese ich erst die Aufgabenstellung, um herauszufinden auf was ich in dem Text achten muss. Wenn interessante bzw. relevante Informationen im text steht wird der markiert oder direkt raus geschrieben. 
 Auf was ich am wennigsten achte ist für welche zielgruppe die texte sind. 
 
 # 3. Aufgabenstellung 
+=======
+
+
+# Aufgabenstellung 3
+
+
+![[Mindmap.canvas]]
+
+|
+|
+v
+![[mindmap.png]]
+
+>>>>>>> origin/main
 
 
 
 # To do 
 
-1.5,1.6
+
 
 ![[Arbeitsplan I Materialgestütztes Schreiben.pdf]]
