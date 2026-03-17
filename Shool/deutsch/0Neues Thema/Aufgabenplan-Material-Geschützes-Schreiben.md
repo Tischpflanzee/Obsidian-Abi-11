@@ -83,7 +83,9 @@ Welt und Menschenbild
 - Rebellion
 - Erfahrungen 
 # Aufgabenstellung 2 
->>>>>>> origin/main
+
+
+
 
 ## 2.1
 
