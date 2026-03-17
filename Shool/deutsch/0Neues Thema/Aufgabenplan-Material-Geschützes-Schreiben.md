@@ -99,6 +99,10 @@ v
 3. Welche Informationen sind **nützlich** ?
 
 
+## 2.2 
+
+Grundsätzlich bearbeite ich texte sehre ähnlich wie im Video beschrieben. Meist lese ich erst die Aufgabenstellung, um herauszufinden auf was ich in dem Text achten muss. Wenn interessante bzw. relevante Informationen im text steht wird der markiert oder direkt raus geschrieben. 
+Auf was ich am wennigsten achte ist für welche zielgruppe die texte sind.
 
 # Aufgabenstellung 3
 
