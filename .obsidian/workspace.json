@@ -4,28 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e2c7607aee2db473",
+        "id": "58171ccf2ad1d432",
         "type": "tabs",
+        "dimension": 52.931769722814494,
         "children": [
           {
-            "id": "7e53b95458c4cf44",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Kopfübung_OxZahlen_Chemisches Rechnen.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Kopfübung_OxZahlen_Chemisches Rechnen"
-            }
-          },
-          {
-            "id": "f5772c7109baebd9",
+            "id": "6b8a2b897e6dc4c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/deutsch/0Neues Thema/Kopf-o-Bauchmensch.md",
+                "file": "Shool/Geschi/nation/Nation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,50 +29,26 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kopf-o-Bauchmensch"
-            }
-          },
-          {
-            "id": "e26f174b4637fbc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/deutsch/0Neues Thema/Aufgabenplan II.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Aufgabenplan II"
+              "title": "Nation"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "0375006e9865c1a2",
+        "id": "66df84e7845825f3",
         "type": "tabs",
+        "dimension": 47.068230277185506,
         "children": [
           {
-            "id": "fa06adcd0bf12039",
+            "id": "0e4322b19654806f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Shool/deutsch/0Neues Thema/Media/Arbeitsplan II Materialgestütztes Schreiben (1).pdf"
+                "file": "Shool/Geschi/nation/pdf/1_AB_Einstieg_Bilder Nation.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Arbeitsplan II Materialgestütztes Schreiben (1)"
+              "title": "1_AB_Einstieg_Bilder Nation"
             }
           }
         ]
@@ -160,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
+                "file": "Shool/spanisch/Unidad 3/p46.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for P.45 - Personen Beschreibung"
+              "title": "Rückverweise auf p46"
             }
           },
           {
@@ -227,8 +192,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -249,12 +213,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa06adcd0bf12039",
+  "active": "6b8a2b897e6dc4c0",
   "lastOpenFiles": [
+    "Shool/Geschi/nation/pdf/1_AB_Einstieg_Bilder Nation.pdf",
+    "Shool/Geschi/nation/Nation.md",
+    "Shool/chemie/2.Halbjahr/Standarte Wasserstoffzuelle.md",
+    "Shool/chemie/2.Halbjahr/Zinkiodid.md",
+    "Shool/chemie/2.Halbjahr/Versuch.md",
+    "Shool/Reli/Von vielen Göttern zu einem+.md",
+    "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Exkurs-> Chemichesrechnen.md",
     "Shool/deutsch/0Neues Thema/Aufgabenplan II.md",
+    "Shool/deutsch/0Neues Thema/Media/Arbeitsplan II Materialgestütztes Schreiben (1).pdf",
+    "Shool/spanisch/Unidad 3/p.50.md",
+    "Shool/spanisch/Unidad 3/p46.md",
+    "Shool/spanisch/Unidad 3/Workbook S.26.md",
+    "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
+    "Shool/spanisch/Unidad 3/Me gusta - S.40.md",
+    "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Kopfübung_OxZahlen_Chemisches Rechnen.pdf",
     "Shool/deutsch/0Neues Thema/Kopf-o-Bauchmensch.md",
     "Shool/deutsch/0Neues Thema/Aufgabenplan-Material-Geschützes-Schreiben.md",
-    "Shool/chemie/2.Halbjahr/Versuch.md",
     "conflict-files-obsidian-git.md",
     "Shool/deutsch/0Neues Thema/Mindmap.canvas",
     "Shool/deutsch/0Neues Thema/Media/x/BG Kapitelüberschriften Corpus Delicti.xopp",
@@ -265,31 +242,17 @@
     "Shool/deutsch/0Neues Thema/Media/Arbeitsplan I Materialgestütztes Schreiben.pdf",
     "Shool/deutsch/0Neues Thema/Media",
     "Shool/chemie/2.Halbjahr/1_AB_DaniellElement.pdf",
-    "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Kopfübung_OxZahlen_Chemisches Rechnen.pdf",
-    "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Exkurs-> Chemichesrechnen.md",
     "Shool/itgk/11-2Halbjahr/E-technik/Wie viel kostet die Schule.md",
     "Shool/itgk/11-2Halbjahr/E-technik/Energieerzeugung.md",
     "Shool/itgk/11-2Halbjahr/E-technik/Untitled 1.md",
-    "Shool/deutsch/0Neues Thema/Pdfs/BG Kapitelüberschriften Corpus Delicti_kommentiert.pdf",
     "Shool/Geschi/Schule der Zukunft/Schule der Zukunft - Basis Text.md",
-    "Shool/spanisch/Unidad 3/p46.md",
-    "Shool/itgk/11-2Halbjahr/E-technik/pdfs/04 Elektrotechnik - Messung und Energieverbrauch.pdf",
     "Shool/itgk/11-2Halbjahr/E-technik/Bilder/Strompreisentwicklung-2014-2025-1.jpg",
     "Shool/Geschi/Schule der Zukunft - Basis Text.md",
     "Shool/it/Bonbonglas.md",
     "Shool/spanisch/Unidad 3/Buch-Unidad 3.md",
-    "Shool/spanisch/Unidad 3/Me gusta - S.40.md",
-    "Shool/spanisch/Unidad 3/Workbook S.26.md",
     "Untitled 1.md",
-    "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
     "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Untitled 1.md",
     "Shool/englisch/The English Speaking World/M02-Bad-English.md",
-    "Shool/englisch/The English Speaking World/Eassy Writing.md",
-    "Shool/englisch/The English Speaking World/Bildbeschreibung.md",
-    "Shool/englisch/The English Speaking World/2025-11-14-Acents.md",
-    "Shool/englisch/The English Speaking World/Englishes and Language Change.md",
-    "Shool/TO DO.md",
-    "Untitled.md",
     "Pasted image 20251028120354.png",
     "Shool/chemie/1. Halbjahr/Periodensystem_Einfach.svg",
     "Shool/chemie/1. Halbjahr/echemie_und_redoxreaktionen/Pdfs/x/Periodensystem_Einfach.svg.png",
