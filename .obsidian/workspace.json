@@ -6,15 +6,14 @@
       {
         "id": "58171ccf2ad1d432",
         "type": "tabs",
-        "dimension": 52.931769722814494,
         "children": [
           {
-            "id": "6b8a2b897e6dc4c0",
+            "id": "ef007cc105869a89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/Geschi/nation/Nation.md",
+                "file": "Shool/powi/Ski - Powi/Karikaturanalyse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,29 +28,53 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nation"
+              "title": "Karikaturanalyse"
             }
           }
         ]
       },
       {
-        "id": "66df84e7845825f3",
-        "type": "tabs",
-        "dimension": 47.068230277185506,
+        "id": "5df140f9479af6c4",
+        "type": "split",
         "children": [
           {
-            "id": "0e4322b19654806f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Shool/Geschi/nation/pdf/1_AB_Einstieg_Bilder Nation.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1_AB_Einstieg_Bilder Nation"
-            }
+            "id": "1bfbaebc3218e957",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6b8a2b897e6dc4c0",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Shool/powi/Ski - Powi/pdf/AB-01-Karikatur.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "AB-01-Karikatur"
+                }
+              }
+            ]
+          },
+          {
+            "id": "936ddf002c2ef41a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "57b5fbd576181038",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Shool/powi/Ski - Powi/pdf/AB-01-Karikatur.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "AB-01-Karikatur"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -213,10 +236,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b8a2b897e6dc4c0",
+  "active": "ef007cc105869a89",
   "lastOpenFiles": [
-    "Shool/Geschi/nation/pdf/1_AB_Einstieg_Bilder Nation.pdf",
+    "Untitled.md",
+    "Shool/powi/Ski - Powi/Karikaturanalyse.md",
+    "Shool/powi/Ski - Powi/pdf/AB-01-Karikatur.pdf",
+    "Shool/Geschi/nation/pdf/1_AB_Fachtexte_Nation-Definition.pdf",
+    "Unbenannt",
     "Shool/Geschi/nation/Nation.md",
+    "Shool/Geschi/nation/pdf/1_AB_Einstieg_Bilder Nation.pdf",
     "Shool/chemie/2.Halbjahr/Standarte Wasserstoffzuelle.md",
     "Shool/chemie/2.Halbjahr/Zinkiodid.md",
     "Shool/chemie/2.Halbjahr/Versuch.md",
@@ -239,9 +267,6 @@
     "Shool/deutsch/0Neues Thema/Media/x",
     "Shool/deutsch/0Neues Thema/Media/mindmap.png",
     "Shool/deutsch/0Neues Thema/Media/BG Kapitelüberschriften Corpus Delicti_kommentiert.pdf",
-    "Shool/deutsch/0Neues Thema/Media/Arbeitsplan I Materialgestütztes Schreiben.pdf",
-    "Shool/deutsch/0Neues Thema/Media",
-    "Shool/chemie/2.Halbjahr/1_AB_DaniellElement.pdf",
     "Shool/itgk/11-2Halbjahr/E-technik/Wie viel kostet die Schule.md",
     "Shool/itgk/11-2Halbjahr/E-technik/Energieerzeugung.md",
     "Shool/itgk/11-2Halbjahr/E-technik/Untitled 1.md",
@@ -252,7 +277,6 @@
     "Shool/spanisch/Unidad 3/Buch-Unidad 3.md",
     "Untitled 1.md",
     "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Untitled 1.md",
-    "Shool/englisch/The English Speaking World/M02-Bad-English.md",
     "Pasted image 20251028120354.png",
     "Shool/chemie/1. Halbjahr/Periodensystem_Einfach.svg",
     "Shool/chemie/1. Halbjahr/echemie_und_redoxreaktionen/Pdfs/x/Periodensystem_Einfach.svg.png",
