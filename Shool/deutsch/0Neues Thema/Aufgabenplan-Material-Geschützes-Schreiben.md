@@ -1,4 +1,4 @@
-# 1
+# 1. Aufgabenstellung 
 
 ## 1.1
 
@@ -47,6 +47,9 @@ Die Texte waren ziemlich kurz und meist nicht sehr argumentativ, da vorher im Un
 - Freiheit und Vernunft
 - gegen Machtverhältnis vom Bürgertum
 
+<<<<<<< HEAD
+# 2. Aufgabenstellung  
+=======
 Historicher Hintergrund 
 
 - Pestepidemien 
@@ -81,6 +84,9 @@ Welt und Menschenbild
 - Erfahrungen 
 # Aufgabenstellung 2 
 
+
+
+
 ## 2.1
 
 https://www.youtube.com/watch?v=RpfyyJa5f4k
@@ -98,7 +104,19 @@ v
 2. **wichtige** Informationen markieren und notieren 
 3. Welche Informationen sind **nützlich** ?
 
+<<<<<<< HEAD
+## 2.2
 
+Grundsätzlich bearbeite ich texte sehre ähnlich wie im Video beschrieben. Meist lese ich erst die Aufgabenstellung, um herauszufinden auf was ich in dem Text achten muss. Wenn interessante bzw. relevante Informationen im text steht wird der markiert oder direkt raus geschrieben. 
+Auf was ich am wennigsten achte ist für welche zielgruppe die texte sind. 
+
+# 3. Aufgabenstellung 
+=======
+
+## 2.2 
+
+Grundsätzlich bearbeite ich texte sehre ähnlich wie im Video beschrieben. Meist lese ich erst die Aufgabenstellung, um herauszufinden auf was ich in dem Text achten muss. Wenn interessante bzw. relevante Informationen im text steht wird der markiert oder direkt raus geschrieben. 
+Auf was ich am wennigsten achte ist für welche zielgruppe die texte sind.
 
 # Aufgabenstellung 3
 
@@ -110,6 +128,7 @@ v
 v
 ![[mindmap.png]]
 
+>>>>>>> origin/main
 
 
 
