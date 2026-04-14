@@ -17,7 +17,6 @@
 
 
 -  Eingebettete Rechner: chipkarten(RMV-Karte), Kaffemaschiene -> eingabe -> Durchführung vom Eingebetteten system -> Ausgabe Kaffe.
-- 
 
 
 
