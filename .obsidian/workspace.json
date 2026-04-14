@@ -4,15 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "77324cb79fd917fc",
+        "id": "58171ccf2ad1d432",
         "type": "tabs",
         "children": [
           {
-            "id": "bbf176afe6da5226",
+            "id": "ef007cc105869a89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Personal/Linux/Hyprland/Hyprland .config file.md",
                 "mode": "preview",
                 "source": false,
@@ -38,6 +39,9 @@
               "type": "markdown",
               "state": {
                 "file": "Personal/Linux/Kitty/Kitty befehle.md",
+=======
+                "file": "Shool/powi/Ski - Powi/Karikaturanalyse.md",
+>>>>>>> c9f2621b1910f300d686a41f94241a4e66a8f91d
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,6 +56,7 @@
                 }
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Kitty befehle"
             }
           },
@@ -77,10 +82,59 @@
               },
               "icon": "lucide-file",
               "title": "Obsidian syntax"
+=======
+              "title": "Karikaturanalyse"
+>>>>>>> c9f2621b1910f300d686a41f94241a4e66a8f91d
             }
           }
+        ]
+      },
+      {
+        "id": "5df140f9479af6c4",
+        "type": "split",
+        "children": [
+          {
+            "id": "1bfbaebc3218e957",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6b8a2b897e6dc4c0",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Shool/powi/Ski - Powi/pdf/AB-01-Karikatur.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "AB-01-Karikatur"
+                }
+              }
+            ]
+          },
+          {
+            "id": "936ddf002c2ef41a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "57b5fbd576181038",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Shool/powi/Ski - Powi/pdf/AB-01-Karikatur.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "AB-01-Karikatur"
+                }
+              }
+            ]
+          }
         ],
+<<<<<<< HEAD
         "currentTab": 2
+=======
+        "direction": "horizontal"
+>>>>>>> c9f2621b1910f300d686a41f94241a4e66a8f91d
       }
     ],
     "direction": "vertical"
@@ -100,7 +154,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -137,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eb3b08c1845a19fc",
@@ -153,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shool/deutsch/0Neues Thema/Aufgabenplan-Material-Geschützes-Schreiben.md",
+                "file": "Shool/spanisch/Unidad 3/p46.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +218,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Aufgabenplan-Material-Geschützes-Schreiben"
+              "title": "Rückverweise auf p46"
             }
           },
           {
@@ -172,12 +227,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shool/deutsch/0Neues Thema/Aufgabenplan-Material-Geschützes-Schreiben.md",
+                "file": "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Aufgabenplan-Material-Geschützes-Schreiben öffnen"
+              "title": "Outgoing links from P.45 - Personen Beschreibung"
             }
           },
           {
@@ -201,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shool/deutsch/0Neues Thema/Aufgabenplan-Material-Geschützes-Schreiben.md",
+                "file": "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Aufgabenplan-Material-Geschützes-Schreiben"
+              "title": "Outline of P.45 - Personen Beschreibung"
             }
           },
           {
@@ -220,8 +275,7 @@
               "title": "git-view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,6 +295,7 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
   "active": "02bd71ab78937e97",
   "lastOpenFiles": [
     "Personal/Linux/Nixos/commands.md",
@@ -257,6 +312,10 @@
     "Shool/englisch/Becomming me/Food.md",
     "Shool/englisch/Becomming me/pdf/11BG_Growing Up_Video Analysis_Food.pdf",
     "Shool/englisch/Becomming me/pdf",
+=======
+  "active": "ef007cc105869a89",
+  "lastOpenFiles": [
+>>>>>>> c9f2621b1910f300d686a41f94241a4e66a8f91d
     "conflict-files-obsidian-git.md",
     "Shool/spanisch/Unidad 3/Untitled 1.md",
     "Shool/itgk/11-2Halbjahr/Hardware/media",
@@ -266,6 +325,7 @@
     "Shool/englisch/Becomming me",
     "Shool/deutsch/0Neues Thema/Media/Arbeitsplan III Materialgestützes Schreiben.pdf",
     "Shool/deutsch/0Neues Thema/Aufgabenplan III.md",
+<<<<<<< HEAD
     "Shool/deutsch/0Neues Thema/Aufgabenplan II.md",
     "Shool/chemie/2.Halbjahr/Versuch.md",
     "Shool/deutsch/0Neues Thema/Media/mindmap.png",
@@ -282,6 +342,36 @@
     "Shool/englisch/The English Speaking World/Eassy Writing.md",
     "Shool/englisch/The English Speaking World/2025-11-14-Acents.md",
     "Shool/TO DO.md",
+=======
+    "Personal/Nixos/commands.md",
+    "Personal/Nixos",
+    "Untitled.md",
+    "Shool/powi/Ski - Powi/Karikaturanalyse.md",
+    "Shool/powi/Ski - Powi/pdf/AB-01-Karikatur.pdf",
+    "Shool/Geschi/nation/pdf/1_AB_Fachtexte_Nation-Definition.pdf",
+    "Unbenannt",
+    "Shool/Geschi/nation/Nation.md",
+    "Shool/Geschi/nation/pdf/1_AB_Einstieg_Bilder Nation.pdf",
+    "Shool/chemie/2.Halbjahr/Standarte Wasserstoffzuelle.md",
+    "Shool/chemie/2.Halbjahr/Zinkiodid.md",
+    "Shool/chemie/2.Halbjahr/Versuch.md",
+    "Shool/Reli/Von vielen Göttern zu einem+.md",
+    "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Exkurs-> Chemichesrechnen.md",
+    "Shool/deutsch/0Neues Thema/Aufgabenplan II.md",
+    "Shool/spanisch/Unidad 3/p.50.md",
+    "Shool/spanisch/Unidad 3/p46.md",
+    "Shool/spanisch/Unidad 3/Workbook S.26.md",
+    "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
+    "Shool/spanisch/Unidad 3/Me gusta - S.40.md",
+    "Shool/deutsch/0Neues Thema/Kopf-o-Bauchmensch.md",
+    "Shool/deutsch/0Neues Thema/Aufgabenplan-Material-Geschützes-Schreiben.md",
+    "Shool/deutsch/0Neues Thema/Mindmap.canvas",
+    "Shool/deutsch/0Neues Thema/Media/mindmap.png",
+    "Shool/itgk/11-2Halbjahr/E-technik/Wie viel kostet die Schule.md",
+    "Shool/itgk/11-2Halbjahr/E-technik/Energieerzeugung.md",
+    "Shool/itgk/11-2Halbjahr/E-technik/Untitled 1.md",
+    "Shool/itgk/11-2Halbjahr/E-technik/Bilder/Strompreisentwicklung-2014-2025-1.jpg",
+>>>>>>> c9f2621b1910f300d686a41f94241a4e66a8f91d
     "Pasted image 20251028120354.png",
     "Shool/chemie/1. Halbjahr/Periodensystem_Einfach.svg",
     "Shool/chemie/1. Halbjahr/echemie_und_redoxreaktionen/Pdfs/x/Periodensystem_Einfach.svg.png",
