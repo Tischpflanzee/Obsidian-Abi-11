@@ -1,47 +1,19 @@
 {
   "main": {
-    "id": "6f5298dcdaf6bcc6",
+    "id": "fa8e35f14327299c",
     "type": "split",
     "children": [
       {
-        "id": "58171ccf2ad1d432",
+        "id": "c5e4347d5ccc3278",
         "type": "tabs",
         "children": [
           {
-            "id": "ef007cc105869a89",
+            "id": "67408c154de32e63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Personal/Linux/Hyprland/Hyprland .config file.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hyprland .config file"
-            }
-          },
-          {
-            "id": "768efe0817667be5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Linux/Kitty/Kitty befehle.md",
-=======
-                "file": "Shool/powi/Ski - Powi/Karikaturanalyse.md",
->>>>>>> c9f2621b1910f300d686a41f94241a4e66a8f91d
+                "file": "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -56,17 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Kitty befehle"
+              "title": "P.45 - Personen Beschreibung"
             }
           },
           {
-            "id": "02bd71ab78937e97",
+            "id": "636e9d0b50aa2794",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Obsidian/Obsidian syntax.md",
+                "file": "Shool/spanisch/Unidad 4/P. 52 - 2026-04-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -81,74 +52,49 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Obsidian syntax"
-=======
-              "title": "Karikaturanalyse"
->>>>>>> c9f2621b1910f300d686a41f94241a4e66a8f91d
+              "title": "P. 52 - 2026-04-16"
             }
-          }
-        ]
-      },
-      {
-        "id": "5df140f9479af6c4",
-        "type": "split",
-        "children": [
-          {
-            "id": "1bfbaebc3218e957",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6b8a2b897e6dc4c0",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Shool/powi/Ski - Powi/pdf/AB-01-Karikatur.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "AB-01-Karikatur"
-                }
-              }
-            ]
           },
           {
-            "id": "936ddf002c2ef41a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "57b5fbd576181038",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Shool/powi/Ski - Powi/pdf/AB-01-Karikatur.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "AB-01-Karikatur"
+            "id": "19d301871264b909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shool/spanisch/Unidad 4/P.53 - 2026-04-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
-              }
-            ]
+              },
+              "icon": "lucide-file",
+              "title": "P.53 - 2026-04-16"
+            }
           }
         ],
-<<<<<<< HEAD
         "currentTab": 2
-=======
-        "direction": "horizontal"
->>>>>>> c9f2621b1910f300d686a41f94241a4e66a8f91d
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fde1794f4028fb43",
+    "id": "84bea021bc0be898",
     "type": "split",
     "children": [
       {
-        "id": "214ae3eaaf90a2db",
+        "id": "de988dad57d00f33",
         "type": "tabs",
         "children": [
           {
-            "id": "b3b34ff6bfa08b01",
+            "id": "934635288ffd7f2c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -157,11 +103,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
-            "id": "fceff717cf99f759",
+            "id": "cda92c405692a42c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -174,41 +120,40 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Suchen"
             }
           },
           {
-            "id": "9e11b389866a5d50",
+            "id": "1dd5d9e7ccb79d83",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Lesezeichen"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "eb3b08c1845a19fc",
+    "id": "4c30207f564110c8",
     "type": "split",
     "children": [
       {
-        "id": "c24f0761aef0c611",
+        "id": "dcf4c342f2029ec9",
         "type": "tabs",
         "children": [
           {
-            "id": "a27c76f778e4f46a",
+            "id": "54f8351d0e66c019",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shool/spanisch/Unidad 3/p46.md",
+                "file": "Shool/spanisch/Unidad 4/P.53 - 2026-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,25 +163,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf p46"
+              "title": "Rückverweise auf P.53 - 2026-04-16"
             }
           },
           {
-            "id": "3003ee41eba5dde3",
+            "id": "97ec9ee92d136473",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
+                "file": "Shool/chemie/2.Halbjahr/Säure-Base-Reaktion/Unbenannt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from P.45 - Personen Beschreibung"
+              "title": "Ausgehende Links von Unbenannt öffnen"
             }
           },
           {
-            "id": "278bdb48eeb634ec",
+            "id": "f84e171a8394a055",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -251,28 +196,18 @@
             }
           },
           {
-            "id": "84ebdd587963e1cf",
+            "id": "b02474d09d1b790e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
+                "file": "Shool/chemie/2.Halbjahr/Säure-Base-Reaktion/Unbenannt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of P.45 - Personen Beschreibung"
-            }
-          },
-          {
-            "id": "bbc3a47052858531",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "title": "Gliederung von Unbenannt"
             }
           }
         ]
@@ -284,103 +219,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false,
-      "bases:Create new base": false
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "markdown-importer:Markdown Importprogramm öffnen": false,
+      "random-note:Zufällige Notiz öffnen": false,
+      "bases:Neue Base erstellen": false
     }
   },
-<<<<<<< HEAD
-  "active": "02bd71ab78937e97",
+  "active": "19d301871264b909",
   "lastOpenFiles": [
-    "Personal/Linux/Nixos/commands.md",
-    "Personal/Linux/Kitty/Kitty befehle.md",
-    "Personal/Obsidian/Obsidian syntax.md",
-    "Personal/Obsidian",
-    "Personal/Linux/Hyprland/Hyprland .config file.md",
-    "Personal/Linux",
-    "Personal/Linux/Kitty",
-    "Shool/deutsch/0Neues Thema/Aufgabenplan-Material-Geschützes-Schreiben.md",
-    "Shool/deutsch/0Neues Thema/Mindmap.canvas",
-    "Shool/itgk/11-2Halbjahr/Hardware/Eva.md",
-    "Shool/itgk/11-2Halbjahr/Hardware/media/00_EVA(S)_annotated.pdf",
-    "Shool/englisch/Becomming me/Food.md",
-    "Shool/englisch/Becomming me/pdf/11BG_Growing Up_Video Analysis_Food.pdf",
-    "Shool/englisch/Becomming me/pdf",
-=======
-  "active": "ef007cc105869a89",
-  "lastOpenFiles": [
->>>>>>> c9f2621b1910f300d686a41f94241a4e66a8f91d
-    "conflict-files-obsidian-git.md",
-    "Shool/spanisch/Unidad 3/Untitled 1.md",
-    "Shool/itgk/11-2Halbjahr/Hardware/media",
-    "Shool/itgk/11-2Halbjahr/Hardware",
-    "Shool/itgk/11-2Halbjahr/E-technik/T.md",
-    "Shool/englisch/Becomming me/Welcome to the Internet.md",
-    "Shool/englisch/Becomming me",
-    "Shool/deutsch/0Neues Thema/Media/Arbeitsplan III Materialgestützes Schreiben.pdf",
-    "Shool/deutsch/0Neues Thema/Aufgabenplan III.md",
-<<<<<<< HEAD
-    "Shool/deutsch/0Neues Thema/Aufgabenplan II.md",
-    "Shool/chemie/2.Halbjahr/Versuch.md",
-    "Shool/deutsch/0Neues Thema/Media/mindmap.png",
-    "Shool/deutsch/0Neues Thema/Kopf-o-Bauchmensch.md",
-    "Shool/Geschi/Schule der Zukunft/Schule der Zukunft - Basis Text.md",
-    "Shool/Geschi/Schule der Zukunft/Schule der Zukunft/Schule der Zukunft - Basis Text.md",
-    "Shool/spanisch/Unidad 3/p46.md",
-    "Shool/spanisch/Unidad 3/Buch-Unidad 3.md",
-    "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Untitled 1.md",
-    "Shool/itgk/11-2Halbjahr/E-technik/Wie viel kostet die Schule.md",
-    "Shool/itgk/11-2Halbjahr/E-technik/Bilder/Strompreisentwicklung-2014-2025-1.jpg",
-    "Shool/englisch/The English Speaking World/Englishes and Language Change.md",
-    "Shool/englisch/The English Speaking World/M02-Bad-English.md",
-    "Shool/englisch/The English Speaking World/Eassy Writing.md",
-    "Shool/englisch/The English Speaking World/2025-11-14-Acents.md",
-    "Shool/TO DO.md",
-=======
-    "Personal/Nixos/commands.md",
-    "Personal/Nixos",
-    "Untitled.md",
-    "Shool/powi/Ski - Powi/Karikaturanalyse.md",
-    "Shool/powi/Ski - Powi/pdf/AB-01-Karikatur.pdf",
-    "Shool/Geschi/nation/pdf/1_AB_Fachtexte_Nation-Definition.pdf",
-    "Unbenannt",
-    "Shool/Geschi/nation/Nation.md",
-    "Shool/Geschi/nation/pdf/1_AB_Einstieg_Bilder Nation.pdf",
-    "Shool/chemie/2.Halbjahr/Standarte Wasserstoffzuelle.md",
-    "Shool/chemie/2.Halbjahr/Zinkiodid.md",
-    "Shool/chemie/2.Halbjahr/Versuch.md",
-    "Shool/Reli/Von vielen Göttern zu einem+.md",
-    "Shool/chemie/2.Halbjahr/Exkurs Chemichesrechnen/Exkurs-> Chemichesrechnen.md",
-    "Shool/deutsch/0Neues Thema/Aufgabenplan II.md",
-    "Shool/spanisch/Unidad 3/p.50.md",
-    "Shool/spanisch/Unidad 3/p46.md",
-    "Shool/spanisch/Unidad 3/Workbook S.26.md",
+    "Shool/spanisch/Unidad 4/P. 52 - 2026-04-16.md",
+    "Shool/spanisch/Unidad 4/P.53 - 2026-04-16.md",
     "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
+    "Shool/spanisch/Unidad 4",
     "Shool/spanisch/Unidad 3/Me gusta - S.40.md",
-    "Shool/deutsch/0Neues Thema/Kopf-o-Bauchmensch.md",
-    "Shool/deutsch/0Neues Thema/Aufgabenplan-Material-Geschützes-Schreiben.md",
-    "Shool/deutsch/0Neues Thema/Mindmap.canvas",
-    "Shool/deutsch/0Neues Thema/Media/mindmap.png",
-    "Shool/itgk/11-2Halbjahr/E-technik/Wie viel kostet die Schule.md",
-    "Shool/itgk/11-2Halbjahr/E-technik/Energieerzeugung.md",
-    "Shool/itgk/11-2Halbjahr/E-technik/Untitled 1.md",
-    "Shool/itgk/11-2Halbjahr/E-technik/Bilder/Strompreisentwicklung-2014-2025-1.jpg",
->>>>>>> c9f2621b1910f300d686a41f94241a4e66a8f91d
-    "Pasted image 20251028120354.png",
-    "Shool/chemie/1. Halbjahr/Periodensystem_Einfach.svg",
-    "Shool/chemie/1. Halbjahr/echemie_und_redoxreaktionen/Pdfs/x/Periodensystem_Einfach.svg.png",
-    "Shool/chemie/1. Halbjahr/bilder/WhatsApp Image 2025-09-09 at 14.51.00.jpeg",
-    "Shool/chemie/1. Halbjahr/bilder/WhatsApp Image 2025-09-09 at 14.15.11.jpeg",
-    "Shool/chemie/1. Halbjahr/Bilder/WhatsApp Image 2025-11-25 at 14.33.17.jpeg",
-    "Shool/englisch/The English Speaking World/The english speaking world.canvas",
-    "Shool/deutsch/Sprache_als_medium/images/Sender-Empfaemger-Modell.fw_-3649212335.png",
-    "Shool/deutsch/Sprache_als_medium/pdfs/faszinieren-powerpoint-hintergrund-vorlagen-bewundernswerte-von-powerpoint-hintergrund-vorlagen-508191327.jpg",
-    "Shool/powi/Migration/Untitled.canvas"
+    "Shool/chemie/2.Halbjahr/Säure-Base-Reaktion/Unbenannt.md",
+    "Shool/chemie/2.Halbjahr/Säure-Base-Reaktion"
   ]
 }
