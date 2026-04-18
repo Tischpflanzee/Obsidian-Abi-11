@@ -1,26 +1,25 @@
-# Am wochenende
--**Vokabeln lernen unidad 1 Spanisch lernen Grammatik: p.163-p.164**
-- Konjugieren lernen 
-- Generell Spanich !!!
+# Schule
+
+- [ ] Spanisch Vokabeln Unidad 1 Part A
+- [ ] Mathe Abgabe **Fällig am 20.04.26**
+- [ ] Jhonny ITGK **Fällig am 22.04.26**
+
+# Sonstiges
+
+## Haushalt
+
+- [ ] Zimmer auf räumen
+
+## Täglich
+
+- [ ] Kapitel Lesen
+- [ ] Sport
+- [ ] Creatin
+- [ ] 
 
 
-# Bis Montag
-
-# Bis Dienstag
-
-
-# Bis Mittwoch
-
-
-# Bis Donnerstag
 
 
 
-# Bis Freitag
 
-# Bis nach Wochenende
-
-Englisch aufgabenplan 
-
-# Bis Nach den ferien 
  

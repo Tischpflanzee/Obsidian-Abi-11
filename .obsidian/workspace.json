@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67408c154de32e63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "P.45 - Personen Beschreibung"
-            }
-          },
-          {
-            "id": "636e9d0b50aa2794",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/spanisch/Unidad 4/P. 52 - 2026-04-16.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "P. 52 - 2026-04-16"
-            }
-          },
-          {
             "id": "19d301871264b909",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/spanisch/Unidad 4/P.53 - 2026-04-16.md",
+                "file": "Shool/TO DO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "P.53 - 2026-04-16"
+              "title": "TO DO"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4c30207f564110c8",
@@ -227,14 +179,20 @@
       "command-palette:Befehlspalette öffnen": false,
       "markdown-importer:Markdown Importprogramm öffnen": false,
       "random-note:Zufällige Notiz öffnen": false,
-      "bases:Neue Base erstellen": false
+      "bases:Neue Base erstellen": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "19d301871264b909",
   "lastOpenFiles": [
+    "Shool/itgk/11-2Halbjahr/Hardware/Jhonny simmulator.md",
+    "Shool/itgk/11-2Halbjahr/Hardware/Grundelemente eines Rechners.md",
+    "Shool/itgk/11-2Halbjahr/Hardware/Eva.md",
+    "Shool/itgk/11-2Halbjahr/Hardware/media/00_EVA(S)_annotated.pdf",
+    "Shool/itgk/11-2Halbjahr/Hardware/media/Multiplizieren.ram",
     "Shool/spanisch/Unidad 4/P. 52 - 2026-04-16.md",
-    "Shool/spanisch/Unidad 4/P.53 - 2026-04-16.md",
     "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
+    "Shool/spanisch/Unidad 4/P.53 - 2026-04-16.md",
     "Shool/spanisch/Unidad 4",
     "Shool/spanisch/Unidad 3/Me gusta - S.40.md",
     "Shool/chemie/2.Halbjahr/Säure-Base-Reaktion/Unbenannt.md",

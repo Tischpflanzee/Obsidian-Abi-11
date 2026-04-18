@@ -9,5 +9,6 @@
   "showLineNumber": true,
   "readableLineLength": true,
   "alwaysUpdateLinks": true,
-  "vimMode": false
+  "vimMode": false,
+  "showUnsupportedFiles": true
 }
