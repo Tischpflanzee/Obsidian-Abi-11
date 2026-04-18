@@ -9,13 +9,14 @@
 ## Haushalt
 
 - [ ] Zimmer auf räumen
+- [ ] Müll
 
 ## Täglich
 
 - [ ] Kapitel Lesen
 - [ ] Sport
-- [ ] Creatin
-- [ ] 
+- [x] Creatin 
+- [ ] Spanisch Vokabeln 
 
 
 

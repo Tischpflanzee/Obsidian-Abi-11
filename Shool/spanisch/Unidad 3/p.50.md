@@ -1,3 +1,6 @@
+tags: #spanisch #spanischübungen 
+
+
 Tarek necesita a sus amigos 
 Tarek necesita ropa
 

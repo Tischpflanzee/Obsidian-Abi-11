@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/TO DO.md",
+                "file": "TO DO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4c30207f564110c8",
@@ -185,6 +184,11 @@
   },
   "active": "19d301871264b909",
   "lastOpenFiles": [
+    "README.md",
+    "TO DO.md",
+    "Pasted image 20251028120354.png",
+    "Shool/itgk/11-1Halbjar/Präsentation/Antiallising.md",
+    "Shool/spanisch/Unidad 3/p.50.md",
     "Shool/itgk/11-2Halbjahr/Hardware/Jhonny simmulator.md",
     "Shool/itgk/11-2Halbjahr/Hardware/Grundelemente eines Rechners.md",
     "Shool/itgk/11-2Halbjahr/Hardware/Eva.md",
