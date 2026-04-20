@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
+                "file": "Shool/Geschi/nation/Nation.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TO DO"
+              "title": "Nation"
+            }
+          },
+          {
+            "id": "eee171eec1f82a7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shool/Geschi/nation/Nation-HA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nation-HA"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4c30207f564110c8",
@@ -160,13 +186,23 @@
               "icon": "lucide-list",
               "title": "Gliederung von Unbenannt"
             }
+          },
+          {
+            "id": "784b85b5f8224e63",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +218,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19d301871264b909",
+  "active": "eee171eec1f82a7b",
   "lastOpenFiles": [
-    "README.md",
+    "Shool/Geschi/nation/Nation.md",
+    "Shool/Geschi/nation/Nation-HA.md",
     "TO DO.md",
+    "README.md",
     "Pasted image 20251028120354.png",
     "Shool/itgk/11-1Halbjar/Präsentation/Antiallising.md",
     "Shool/spanisch/Unidad 3/p.50.md",
