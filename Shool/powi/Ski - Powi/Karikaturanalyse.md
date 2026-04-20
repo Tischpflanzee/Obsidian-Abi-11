@@ -4,4 +4,4 @@ Die Karikatur zeigt Berge bzw. ein Ski gebiet wo kein schnee mehr liegt bzw. nur
 
 # 4 
 
-Das problem besteht darin das die Menschen  
+Das Problem besteht darin das die Menschen sich nur darüber aufregen wenn das Tall beschniet wird, aber wenn es am Berg beschneit wird, wird sich nicht darüber beschwert das am Berg kein Schnee mehr liegt, obwohl da Schnee liegen sollte.

@@ -27,4 +27,8 @@ Souvernänität = Gestalltung ihrer Lebensverhältnisse, d.h. politische Selbstv
 
 ## 5
 
-Eine Nation ist eine Gesellschaft in einem bestimmten Land, die mit der Vergangenheit gewachsen ist, und sich dazu entschieden hat eine Gemeinschaft zu Bilden. Sie hat eine Feste territoriale Grundlage auf und teilt Kultur Sprache und Tradition 
+Eine Nation ist eine Gesellschaft in einem bestimmten Land, die mit der Vergangenheit gewachsen ist, und sich dazu entschieden hat eine Gemeinschaft zu Bilden. Sie hat eine Feste territoriale Grundlage auf und teilt Kultur Sprache und Tradition.
+
+## 6
+
+Ich finde den Text M2 sehr passend da er prägnat und Unviersell einsetzbar ist.
