@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c5e4347d5ccc3278",
+        "id": "6e2770250a08df36",
         "type": "tabs",
-        "dimension": 46.64179104477612,
         "children": [
           {
-            "id": "c72673767373a588",
+            "id": "8b22e97a5b472385",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/powi/Ski - Powi/Güterarten.md",
+                "file": "Shool/englisch/Becomming me/Kurz Film Englisch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,54 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Güterarten"
+              "title": "Kurz Film Englisch"
             }
           }
         ]
-      },
-      {
-        "id": "e77e4a1720ecdb2f",
-        "type": "tabs",
-        "dimension": 53.35820895522389,
-        "children": [
-          {
-            "id": "50dc2fdd201ee101",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Shool/powi/Ski - Powi/pdf/AB-01-Ski-Klimawandel.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "AB-01-Ski-Klimawandel"
-            }
-          },
-          {
-            "id": "960e0ff29f8d5b18",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Shool/powi/Ski - Powi/pdf/AB-01-Karikatur.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "AB-01-Karikatur"
-            }
-          },
-          {
-            "id": "8ade6a351a0588c2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Shool/powi/Ski - Powi/pdf/AB-02-Gueterarten_kommentiert.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "AB-02-Gueterarten_kommentiert"
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4c30207f564110c8",
@@ -238,11 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c72673767373a588",
+  "active": "8b22e97a5b472385",
   "lastOpenFiles": [
+    "Shool/englisch/Becomming me/Kurz Film Englisch mindmap.canvas",
+    "Shool/englisch/Becomming me/Kurz Film Englisch.md",
     "TO DO.md",
-    "README.md",
     "Shool/powi/Ski - Powi/Güterarten.md",
+    "README.md",
     "Shool/powi/Ski - Powi/pdf/AB-02-Gueterarten_kommentiert.pdf",
     "Shool/powi/Ski - Powi/pdf/AB-01-Karikatur.pdf",
     "Shool/powi/Ski - Powi/pdf/AB-02-Gueterarten.pdf",
