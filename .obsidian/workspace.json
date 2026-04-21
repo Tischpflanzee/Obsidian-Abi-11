@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6e2770250a08df36",
+        "id": "5ed4d8e17846a008",
         "type": "tabs",
         "children": [
           {
-            "id": "8b22e97a5b472385",
+            "id": "0d3fc44bb3e62e83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/englisch/Becomming me/Kurz Film Englisch.md",
+                "file": "Shool/itgk/11-2Halbjahr/Hardware/Jhonny simmulator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kurz Film Englisch"
+              "title": "Jhonny simmulator"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shool/spanisch/Unidad 4/P.53 - 2026-04-16.md",
+                "file": "Shool/it/Bonbonglas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf P.53 - 2026-04-16"
+              "title": "Rückverweise auf Bonbonglas"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shool/chemie/2.Halbjahr/Säure-Base-Reaktion/Unbenannt.md",
+                "file": "Shool/it/Bonbonglas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Unbenannt öffnen"
+              "title": "Ausgehende Links von Bonbonglas öffnen"
             }
           },
           {
@@ -173,11 +173,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,14 +191,24 @@
       "markdown-importer:Markdown Importprogramm öffnen": false,
       "random-note:Zufällige Notiz öffnen": false,
       "bases:Neue Base erstellen": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b22e97a5b472385",
+  "active": "0d3fc44bb3e62e83",
   "lastOpenFiles": [
-    "Shool/englisch/Becomming me/Kurz Film Englisch mindmap.canvas",
+    "Shool/itgk/11-2Halbjahr/Hardware/media/Dividieren_Zwei_Zahlen.ram",
+    "Shool/itgk/11-2Halbjahr/Hardware/Jhonny simmulator.md",
+    "Shool/itgk/11-2Halbjahr/Hardware/media/03_AB_JohnnySimulator.pdf",
+    "Shool/itgk/11-2Halbjahr/Hardware/media/00_EVA(S)_annotated.pdf",
+    "Shool/itgk/11-2Halbjahr/Hardware/Grundelemente eines Rechners.md",
+    "Shool/it/Bonbonglas.md",
     "Shool/englisch/Becomming me/Kurz Film Englisch.md",
     "TO DO.md",
+    "Shool/englisch/Becomming me/media/images/BeforeAfter smartphones.png",
+    "Shool/englisch/Becomming me/media/images",
+    "Shool/englisch/Becomming me/media",
+    "Shool/englisch/Becomming me/Kurz Film Englisch mindmap.canvas",
     "Shool/powi/Ski - Powi/Güterarten.md",
     "README.md",
     "Shool/powi/Ski - Powi/pdf/AB-02-Gueterarten_kommentiert.pdf",
@@ -213,17 +224,11 @@
     "Pasted image 20251028120354.png",
     "Shool/itgk/11-1Halbjar/Präsentation/Antiallising.md",
     "Shool/spanisch/Unidad 3/p.50.md",
-    "Shool/itgk/11-2Halbjahr/Hardware/Jhonny simmulator.md",
-    "Shool/itgk/11-2Halbjahr/Hardware/Grundelemente eines Rechners.md",
     "Shool/itgk/11-2Halbjahr/Hardware/Eva.md",
-    "Shool/itgk/11-2Halbjahr/Hardware/media/00_EVA(S)_annotated.pdf",
-    "Shool/itgk/11-2Halbjahr/Hardware/media/Multiplizieren.ram",
     "Shool/spanisch/Unidad 4/P. 52 - 2026-04-16.md",
     "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
     "Shool/spanisch/Unidad 4/P.53 - 2026-04-16.md",
-    "Shool/spanisch/Unidad 4",
     "Shool/spanisch/Unidad 3/Me gusta - S.40.md",
-    "Shool/chemie/2.Halbjahr/Säure-Base-Reaktion/Unbenannt.md",
-    "Shool/chemie/2.Halbjahr/Säure-Base-Reaktion"
+    "Shool/chemie/2.Halbjahr/Säure-Base-Reaktion/Unbenannt.md"
   ]
 }
