@@ -12,7 +12,7 @@ eins
 ### 4. Ist der Ablauf deterministisch und das Ergebnis determiniert?
 das Ergebnis ist deterministisch da am ende nur noch ein Kirch Bonbon übrig bleibt 
 
-#it #algorithmus #basicsit 
+#it #algorithmus 
 
 ![[01_Algorithmus.pdf]]
 #Shool
