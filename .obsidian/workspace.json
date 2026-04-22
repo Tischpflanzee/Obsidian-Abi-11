@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "TO DO"
             }
+          },
+          {
+            "id": "499f5f666948f329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +219,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f58e6da475da324a",
+  "active": "499f5f666948f329",
   "lastOpenFiles": [
+    "TO DO.md",
+    "conflict-files-obsidian-git.md",
+    "Personal/Bücher/Alles Idioten/Alles Idioten.md",
+    "Personal/Bücher/Alles Idioten",
+    "Personal/Bücher",
+    "Ernährung.md",
     "Shool/chemie/2.Halbjahr/Warm up.md",
     "Shool/itgk/11-2Halbjahr/Hardware/Jhonny simmulator.md",
     "Shool/chemie/2.Halbjahr/media/1_AB_DaniellElement.pdf",
@@ -206,7 +237,6 @@
     "Shool/itgk/11-2Halbjahr/Hardware/Grundelemente eines Rechners.md",
     "Shool/it/Bonbonglas.md",
     "Shool/englisch/Becomming me/Kurz Film Englisch.md",
-    "TO DO.md",
     "Shool/englisch/Becomming me/media/images/BeforeAfter smartphones.png",
     "Shool/englisch/Becomming me/media/images",
     "Shool/englisch/Becomming me/media",
@@ -214,8 +244,6 @@
     "Shool/powi/Ski - Powi/Güterarten.md",
     "README.md",
     "Shool/powi/Ski - Powi/pdf/AB-02-Gueterarten_kommentiert.pdf",
-    "Shool/powi/Ski - Powi/pdf/AB-01-Karikatur.pdf",
-    "Shool/powi/Ski - Powi/pdf/AB-02-Gueterarten.pdf",
     "Shool/powi/Ski - Powi/Klimawandel.md",
     "Shool/powi/Ski - Powi/Karikaturanalyse.md",
     "Shool/Geschi/nation/Nation.md",
