@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "TO DO"
             }
-          },
-          {
-            "id": "499f5f666948f329",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,10 +194,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "499f5f666948f329",
+  "active": "f58e6da475da324a",
   "lastOpenFiles": [
-    "TO DO.md",
     "conflict-files-obsidian-git.md",
+    "TO DO.md",
     "Personal/Bücher/Alles Idioten/Alles Idioten.md",
     "Personal/Bücher/Alles Idioten",
     "Personal/Bücher",
