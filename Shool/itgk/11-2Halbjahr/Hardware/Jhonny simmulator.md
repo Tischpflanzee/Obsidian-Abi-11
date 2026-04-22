@@ -36,10 +36,9 @@ pc-->ab
 acc-->db
 db-->ram
 
+Zusammen arbeit: Nils Brück
 
 
-
-**Noch nicht fertig**
 
 # 5 
 
