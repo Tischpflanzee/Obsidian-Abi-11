@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f58e6da475da324a",
+            "id": "3bf26b2262fe330d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
+                "file": "Personal/Obsidian/Sonderzeichen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,47 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TO DO"
+              "title": "Sonderzeichen"
+            }
+          },
+          {
+            "id": "6c48a78329962dc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shool/spanisch/Unidad 4/p54 - 2026-04-23.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "p54 - 2026-04-23"
+            }
+          },
+          {
+            "id": "a21813e00c17d66a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Shool/deutsch/Sturm und Drang/media/Arbeitsplan I Sturm und Drang.pdf",
+                "page": 1,
+                "left": -21,
+                "top": 526,
+                "zoom": 0.7106854838709677
+              },
+              "icon": "lucide-file-text",
+              "title": "Arbeitsplan I Sturm und Drang"
             }
           }
         ]
@@ -191,17 +231,32 @@
       "random-note:Zufällige Notiz öffnen": false,
       "bases:Neue Base erstellen": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f58e6da475da324a",
+  "active": "934635288ffd7f2c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Personal/Linux/latex/Requierments.md",
+    "Shool/deutsch/Sturm und Drang/media/Arbeitsplan I Sturm und Drang.pdf",
+    "Personal/Obsidian/Sonderzeichen.md",
+    "Personal/Obsidian/Obsidian syntax.md",
+    "Shool/deutsch/Sturm und Drang/Unbenannt.md",
+    "Personal/Linux/Kitty/Kitty befehle.md",
+    "Shool/spanisch/Unidad 4/p54 - 2026-04-23.md",
+    "Shool/spanisch/Unidad 4/P. 52 - 2026-04-16.md",
+    "Shool/spanisch/Unidad 4/P.53 - 2026-04-16.md",
+    "Shool/physik/Unbenannt.md",
+    "Shool/deutsch/Sturm und Drang/media/22. April 2026-Dialog über Friedrich Schiller.pdf",
+    "Shool/deutsch/Sturm und Drang/media",
     "TO DO.md",
+    "conflict-files-obsidian-git.md",
     "Personal/Bücher/Alles Idioten/Alles Idioten.md",
     "Personal/Bücher/Alles Idioten",
     "Personal/Bücher",
-    "Ernährung.md",
+    "Personal/Gym 1/Ernährung.md",
     "Shool/chemie/2.Halbjahr/Warm up.md",
     "Shool/itgk/11-2Halbjahr/Hardware/Jhonny simmulator.md",
     "Shool/chemie/2.Halbjahr/media/1_AB_DaniellElement.pdf",
@@ -213,24 +268,14 @@
     "Shool/it/Bonbonglas.md",
     "Shool/englisch/Becomming me/Kurz Film Englisch.md",
     "Shool/englisch/Becomming me/media/images/BeforeAfter smartphones.png",
-    "Shool/englisch/Becomming me/media/images",
-    "Shool/englisch/Becomming me/media",
     "Shool/englisch/Becomming me/Kurz Film Englisch mindmap.canvas",
     "Shool/powi/Ski - Powi/Güterarten.md",
     "README.md",
-    "Shool/powi/Ski - Powi/pdf/AB-02-Gueterarten_kommentiert.pdf",
     "Shool/powi/Ski - Powi/Klimawandel.md",
     "Shool/powi/Ski - Powi/Karikaturanalyse.md",
     "Shool/Geschi/nation/Nation.md",
     "Shool/Geschi/nation/Nation-HA.md",
     "Pasted image 20251028120354.png",
-    "Shool/itgk/11-1Halbjar/Präsentation/Antiallising.md",
-    "Shool/spanisch/Unidad 3/p.50.md",
-    "Shool/itgk/11-2Halbjahr/Hardware/Eva.md",
-    "Shool/spanisch/Unidad 4/P. 52 - 2026-04-16.md",
-    "Shool/spanisch/Unidad 3/P.45 - Personen Beschreibung.md",
-    "Shool/spanisch/Unidad 4/P.53 - 2026-04-16.md",
-    "Shool/spanisch/Unidad 3/Me gusta - S.40.md",
-    "Shool/chemie/2.Halbjahr/Säure-Base-Reaktion/Unbenannt.md"
+    "Shool/itgk/11-1Halbjar/Präsentation/Antiallising.md"
   ]
 }
