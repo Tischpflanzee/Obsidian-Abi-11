@@ -71,7 +71,8 @@
               "title": "Arbeitsplan I Sturm und Drang"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,11 +238,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "934635288ffd7f2c",
+  "active": "6c48a78329962dc1",
   "lastOpenFiles": [
+    "Personal/Obsidian/Sonderzeichen.md",
     "Personal/Linux/latex/Requierments.md",
     "Shool/deutsch/Sturm und Drang/media/Arbeitsplan I Sturm und Drang.pdf",
-    "Personal/Obsidian/Sonderzeichen.md",
     "Personal/Obsidian/Obsidian syntax.md",
     "Shool/deutsch/Sturm und Drang/Unbenannt.md",
     "Personal/Linux/Kitty/Kitty befehle.md",
