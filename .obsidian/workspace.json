@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
+                "file": "Personal/Bücher/Alles Idioten/Alles Idioten.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TO DO"
+              "title": "Alles Idioten"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eb3b08c1845a19fc",
@@ -200,8 +199,8 @@
   },
   "active": "0d3fc44bb3e62e83",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "TO DO.md",
+    "conflict-files-obsidian-git.md",
     "Shool/spanisch/Unidad 4/p54 - 2026-04-23.md",
     "Shool/physik/Unbenannt.md",
     "Shool/deutsch/Sturm und Drang/media/Arbeitsplan I Sturm und Drang.pdf",
