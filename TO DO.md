@@ -5,6 +5,7 @@
 - [x] Jhonny ITGK **Fällig am 22.04.26** ✅ 2026-04-21
 - [ ] Powi 
 - [ ] Englisch
+- [ ] Mathe Lernpfad 
 
 # Sonstiges
 
