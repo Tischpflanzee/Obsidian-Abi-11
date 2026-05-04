@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "p56 2026-04-30"
             }
-          },
-          {
-            "id": "267c764ff8632e2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,10 +221,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "267c764ff8632e2b",
+  "active": "3b6a9f422167c336",
   "lastOpenFiles": [
-    "Shool/spanisch/Unidad 4/p56 2026-04-30.md",
     "conflict-files-obsidian-git.md",
+    "Shool/spanisch/Unidad 4/p56 2026-04-30.md",
     "Shool/physik/Unbenannt.md",
     "Shool/deutsch/Sturm und Drang/media/Arbeitsplan I Sturm und Drang.pdf",
     "Shool/deutsch/Sturm und Drang/media/M1 Das Herz schlägt früher, als der Kopf denkt - einfache Sprache.pdf",
