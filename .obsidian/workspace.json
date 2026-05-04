@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5b2f21faaaf02d0",
+        "id": "bd54a766d1c6948e",
         "type": "tabs",
         "children": [
           {
-            "id": "f7cfc800a8789ae7",
+            "id": "ae3d93989a14fc48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/physik/Unbenannt.md",
+                "file": "Shool/Geschi/nation/Was macht eine Nation aus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,28 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unbenannt"
-            }
-          },
-          {
-            "id": "3b6a9f422167c336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/spanisch/Unidad 4/p56 2026-04-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "p56 2026-04-30"
+              "title": "Was macht eine Nation aus"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "167f65513212a3d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a50e04a18dea942b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Shool/Geschi/nation/pdf/Nationalismus und Patriotische Lyrik_kommentiert.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Nationalismus und Patriotische Lyrik_kommentiert"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4c30207f564110c8",
@@ -221,10 +215,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3b6a9f422167c336",
+  "active": "ae3d93989a14fc48",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Shool/Geschi/nation/pdf/Nationalismus und Patriotische Lyrik_kommentiert.pdf",
+    "Shool/Geschi/nation/Was macht eine Nation aus.md",
+    "Shool/Geschi/nation/pdf/1_AB_Einstieg_Bilder Nation.pdf",
+    "Shool/Geschi/nation/pdf/xournal/Nationalismus und Patriotische Lyrik.xopp~",
+    "Shool/Geschi/nation/pdf/xournal/Nationalismus und Patriotische Lyrik.xopp",
+    "Shool/Geschi/nation/pdf/xournal",
     "Shool/spanisch/Unidad 4/p56 2026-04-30.md",
+    "conflict-files-obsidian-git.md",
     "Shool/physik/Unbenannt.md",
     "Shool/deutsch/Sturm und Drang/media/Arbeitsplan I Sturm und Drang.pdf",
     "Shool/deutsch/Sturm und Drang/media/M1 Das Herz schlägt früher, als der Kopf denkt - einfache Sprache.pdf",
@@ -243,15 +243,9 @@
     "Shool/powi/Umweltöknomenie/Klimawandel.md",
     "Shool/powi/Umweltöknomenie/Güterarten.md",
     "Shool/powi/Umweltöknomenie/Karikaturanalyse.md",
-    "Shool/powi/Umweltöknomenie/pdf/AB-03-Nachhaltigkeit.pdf",
     "Shool/powi/Ski - Powi/Nachhaltige Wirtschafts- und Lebesnweise.md",
-    "Shool/powi/Umweltöknomenie/pdf/xournal/AB-02-Gueterarten.xopp",
-    "Shool/powi/Umweltöknomenie/pdf/xournal",
-    "Shool/powi/Umweltöknomenie/pdf/AB-02-Gueterarten_kommentiert.pdf",
-    "Shool/powi/Umweltöknomenie/pdf/AB-02-Gueterarten.pdf",
     "Shool/powi/Ski - Powi/Güterarten.md",
     "Shool/itgk/11-1Halbjar/2025-09-02-Anleitung von Dezimal nach binär.md",
-    "Shool/Geschi/nation/Unbenannt.md",
     "Shool/itgk/11-1Halbjar/2025-09-02-Zahlensysteme.md",
     "Shool/itgk/11-1Halbjar/2025-09-19-Schrumpfende-Festplatten.md",
     "Shool/Reli/Jan assman.md",
@@ -260,7 +254,6 @@
     "Shool/englisch/Becomming me/Kurz Film Englisch mindmap.canvas",
     "Shool/englisch/Becomming me/Food.md",
     "Personal/Obsidian/Sonderzeichen.md",
-    "Personal/Linux/latex/Requierments.md",
     "Shool/englisch/Becomming me/media/images/BeforeAfter smartphones.png",
     "Pasted image 20251028120354.png"
   ]
