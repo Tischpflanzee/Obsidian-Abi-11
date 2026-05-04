@@ -5,6 +5,7 @@
 - [ ] Englisch **Fällig Do 7 Mai 2026**
 - [ ] Mathe Lernpfad **Fällig Fr 8 Mai 2026**
 - [ ] Itgk/TK Website Präsi abgabe **Fällig 29 Mai 2026**
+- [ ] Deutsch [[Aufgabenplan]]
 
 # Sonstiges
 

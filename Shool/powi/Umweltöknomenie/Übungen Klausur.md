@@ -13,9 +13,15 @@
 
 ## c) Ob ein höherer Skipass-preis mit einbezogen Exteren Effekten ein wirksames Instrument zur Verringerung der Umweltbelastung wäre
 
-Es würde sehr darauf an kommen wo das Geld das extra bezahlt werden muss hingeht, wenn dies an eine Umweld Orginisatzion gehen würde.
+Es würde sehr darauf an kommen wo das Geld das extra bezahlt werden muss hingeht, wenn dies an eine Umwelt Orginisatzion gehen würde.
 
+# 2 
 
+## a 
+
+-
+
+[[Güterarten]]
 
 
 
