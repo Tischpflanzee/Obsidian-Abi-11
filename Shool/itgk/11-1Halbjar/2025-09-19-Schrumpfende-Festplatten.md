@@ -33,6 +33,6 @@ Es wäre sinnvoller wenn die Festplatten in dem Dual-System angegeben wären, da
 # 5
 
 
-
+![[ITech Festplatten.pdf]]
 #Shool
 #Shool

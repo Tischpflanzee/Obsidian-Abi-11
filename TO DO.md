@@ -1,11 +1,10 @@
 # Schule
 
 - [ ] Spanisch Vokabeln Unidad 1 Part A
-- [x] Mathe Abgabe **Fällig am 20.04.26**
-- [x] Jhonny ITGK **Fällig am 22.04.26** ✅ 2026-04-21
-- [ ] Powi 
+- [ ] Powi ⏫ [[Nachhaltige Wirtschafts- und Lebesnweise]]
 - [ ] Englisch
-- [ ] Mathe Lernpfad 
+- [ ] Mathe Lernpfad
+- [ ] Itgk/TK Website Präsi abgabe **Fällig 29.05.2026**
 
 # Sonstiges
 
@@ -17,10 +16,11 @@
 ## Täglich
 
 - [ ] Kapitel Lesen
-- [x] Sport ✅ 2026-04-21 
+- [ ] Sport
 - [ ] Creatin 
 - [ ] Spanisch Vokabeln 
 - [ ] Fahrschule 🔁 every day 
+- 
 
 
 

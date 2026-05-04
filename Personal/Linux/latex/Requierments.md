@@ -1,3 +1,3 @@
 ```bash
- sudo pacman -S texlive     
+ sudo pacman -S texlive code
 ```

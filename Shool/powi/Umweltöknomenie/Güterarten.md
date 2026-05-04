@@ -1,4 +1,4 @@
-# $1$
+# $\textbf{1}$
 
 | Aufgabe | Gütter           | Skitourismus Güter         |
 | ------- | ---------------- | -------------------------- |
@@ -12,7 +12,7 @@
 | h       | Allmendegut      | Wasser für die Beschneiung |
 | i       | Allmendegut      | Klimastabillität           |
 
-# $2$
+# $\textbf{2}$
 
 ## $2.1$
 
