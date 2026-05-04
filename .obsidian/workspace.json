@@ -40,22 +40,6 @@
         "dimension": 58.26226012793177,
         "children": [
           {
-            "id": "da403113c1a2bdb0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Shool/deutsch/Sturm und Drang/media/M1 Das Herz schlägt früher, als der Kopf denkt - einfache Sprache.pdf",
-                "page": 2,
-                "left": 40,
-                "top": 638,
-                "zoom": 1.5
-              },
-              "icon": "lucide-file-text",
-              "title": "M1 Das Herz schlägt früher, als der Kopf denkt - einfache Sprache"
-            }
-          },
-          {
             "id": "538d96bbaf8d127e",
             "type": "leaf",
             "state": {
@@ -63,16 +47,15 @@
               "state": {
                 "file": "Shool/deutsch/Sturm und Drang/media/Arbeitsplan I Sturm und Drang.pdf",
                 "page": 1,
-                "left": -14,
-                "top": 12,
-                "zoom": 1.0912298387096775
+                "left": -17,
+                "top": 846,
+                "zoom": 0.6224798387096774
               },
               "icon": "lucide-file-text",
               "title": "Arbeitsplan I Sturm und Drang"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4c30207f564110c8",
@@ -237,11 +221,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "538d96bbaf8d127e",
+  "active": "ccddab54996de09f",
   "lastOpenFiles": [
-    "Shool/deutsch/Sturm und Drang/Aufgabenplan.md",
-    "Shool/deutsch/Sturm und Drang/media/M1 Das Herz schlägt früher, als der Kopf denkt - einfache Sprache.pdf",
+    "Shool/deutsch/Sturm und Drang/media/M2 Zitate einordnen.pdf",
     "Shool/deutsch/Sturm und Drang/media/Arbeitsplan I Sturm und Drang.pdf",
+    "Shool/deutsch/Sturm und Drang/media/M1 Das Herz schlägt früher, als der Kopf denkt - einfache Sprache.pdf",
+    "Shool/deutsch/Sturm und Drang/Aufgabenplan.md",
     "TO DO.md",
     "Shool/powi/Umweltöknomenie/pdf/übungen/AB-04-2-Gueterarten-1.pdf",
     "Shool/powi/Umweltöknomenie/Güterarten.md",
