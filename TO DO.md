@@ -1,17 +1,16 @@
 # Schule
 
 - [ ] Spanisch Vokabeln Unidad 1 Part A
-- [ ] Powi ⏫ [[Nachhaltige Wirtschafts- und Lebesnweise]]
-- [ ] Englisch
-- [ ] Mathe Lernpfad
-- [ ] Itgk/TK Website Präsi abgabe **Fällig 29.05.2026**
+- [ ] Powi ⏫ [[Nachhaltige Wirtschafts- und Lebesnweise]] --> nacharbeit
+- [ ] Englisch **Fällig Do 7 Mai 2026**
+- [ ] Mathe Lernpfad **Fällig Fr 8 Mai 2026**
+- [ ] Itgk/TK Website Präsi abgabe **Fällig 29 Mai 2026**
 
 # Sonstiges
 
 ## Haushalt
 
-- [ ] Zimmer auf räumen
-- [ ] Müll
+
 
 ## Täglich
 

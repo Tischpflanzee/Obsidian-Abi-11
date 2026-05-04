@@ -30,23 +30,76 @@
               "icon": "lucide-file",
               "title": "Was macht eine Nation aus"
             }
+          },
+          {
+            "id": "7714994a4c2c1b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shool/Geschi/nation/Wahlplakate.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Wahlplakate"
+            }
+          },
+          {
+            "id": "e3325c51f888836e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO DO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TO DO"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "167f65513212a3d0",
+        "id": "bdbe272b5bb343f0",
         "type": "tabs",
         "children": [
           {
-            "id": "a50e04a18dea942b",
+            "id": "4a44f05e8c89cf40",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Shool/Geschi/nation/pdf/Nationalismus und Patriotische Lyrik_kommentiert.pdf"
+                "file": "Shool/Geschi/nation/media/pdf/AA_Wahlplakate-aktuell-.pdf",
+                "page": 1,
+                "left": -17,
+                "top": 795,
+                "zoom": 0.9019607843137255
               },
               "icon": "lucide-file-text",
-              "title": "Nationalismus und Patriotische Lyrik_kommentiert"
+              "title": "AA_Wahlplakate-aktuell-"
             }
           }
         ]
@@ -106,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4c30207f564110c8",
@@ -215,14 +267,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ae3d93989a14fc48",
+  "active": "e3325c51f888836e",
   "lastOpenFiles": [
-    "Shool/Geschi/nation/pdf/Nationalismus und Patriotische Lyrik_kommentiert.pdf",
+    "Shool/Geschi/nation/Wahlplakate.md",
+    "Shool/Geschi/nation/Nation.md",
+    "Shool/Geschi/nation/Nation-HA.md",
+    "Shool/Geschi/nation/media/images/wahlplakat-fdp-102.jpg",
+    "Shool/Geschi/nation/media/images/images.jpg",
+    "Shool/Geschi/nation/media/images",
+    "Shool/Geschi/nation/media",
+    "Shool/Geschi/nation/media/pdf/AA_Wahlplakate-aktuell-.pdf",
     "Shool/Geschi/nation/Was macht eine Nation aus.md",
-    "Shool/Geschi/nation/pdf/1_AB_Einstieg_Bilder Nation.pdf",
+    "Shool/Geschi/nation/media/pdf/Nationalismus und Patriotische Lyrik_kommentiert.pdf",
+    "Shool/Geschi/nation/media/pdf/1_AB_Einstieg_Bilder Nation.pdf",
     "Shool/Geschi/nation/pdf/xournal/Nationalismus und Patriotische Lyrik.xopp~",
-    "Shool/Geschi/nation/pdf/xournal/Nationalismus und Patriotische Lyrik.xopp",
-    "Shool/Geschi/nation/pdf/xournal",
+    "Shool/Geschi/nation/media/pdf/xournal/Nationalismus und Patriotische Lyrik.xopp",
+    "Shool/Geschi/nation/media/pdf/xournal",
     "Shool/spanisch/Unidad 4/p56 2026-04-30.md",
     "conflict-files-obsidian-git.md",
     "Shool/physik/Unbenannt.md",
@@ -231,13 +291,10 @@
     "Shool/deutsch/Sturm und Drang/Unbenannt.md",
     "Shool/Mathe/Lernpfad.md",
     "Shool/Mathe/Unbenannt.md",
-    "Shool/Mathe/media/11BG M 12 - Exponentialfunktionen (Einstieg) Ver4.pdf",
     "Shool/englisch/Becomming me/Short Film Project key questions.md",
-    "Shool/englisch/Becomming me/media/pdf/Short Film Project_key questions.pdf",
     "Shool/englisch/Becomming me/Kurz Film Englisch.md",
     "Shool/itgk/11-2Halbjahr/Hardware/Präsi Bootvorgang/Bootvorgang.md",
     "Shool/tk/Bilder/Screenshot_20250902_210105.png",
-    "Shool/powi/Umweltöknomenie/pdf/AB-03-Nachhaltigkeit-Projekt.pdf",
     "Shool/powi/Umweltöknomenie/Nachhaltige Wirtschafts- und Lebesnweise.md",
     "TO DO.md",
     "Shool/powi/Umweltöknomenie/Klimawandel.md",
@@ -252,8 +309,6 @@
     "Shool/itgk/11-2Halbjahr/Hardware/Nicht Präsi/Eva.md",
     "Shool/englisch/Becomming me/Welcome to the Internet.md",
     "Shool/englisch/Becomming me/Kurz Film Englisch mindmap.canvas",
-    "Shool/englisch/Becomming me/Food.md",
-    "Personal/Obsidian/Sonderzeichen.md",
     "Shool/englisch/Becomming me/media/images/BeforeAfter smartphones.png",
     "Pasted image 20251028120354.png"
   ]
