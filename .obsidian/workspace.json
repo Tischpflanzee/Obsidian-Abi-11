@@ -4,16 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bd54a766d1c6948e",
+        "id": "a1a53fe679d4443b",
         "type": "tabs",
+        "dimension": 37.78533268576979,
         "children": [
           {
-            "id": "ae3d93989a14fc48",
+            "id": "ccddab54996de09f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/Geschi/nation/Was macht eine Nation aus.md",
+                "file": "Shool/powi/Umweltöknomenie/Übungen Klausur.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,78 +29,30 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Was macht eine Nation aus"
-            }
-          },
-          {
-            "id": "7714994a4c2c1b69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/Geschi/nation/Wahlplakate.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Wahlplakate"
-            }
-          },
-          {
-            "id": "e3325c51f888836e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO DO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TO DO"
+              "title": "Übungen Klausur"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "bdbe272b5bb343f0",
+        "id": "66fab1e5bc8ce7a7",
         "type": "tabs",
+        "dimension": 62.21466731423021,
         "children": [
           {
-            "id": "4a44f05e8c89cf40",
+            "id": "825374bb5bf2cf10",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Shool/Geschi/nation/media/pdf/AA_Wahlplakate-aktuell-.pdf",
+                "file": "Shool/powi/Umweltöknomenie/pdf/übungen/AB-04-1-Externe-Effekte-1.pdf",
                 "page": 1,
-                "left": -17,
-                "top": 795,
-                "zoom": 0.9019607843137255
+                "left": -69,
+                "top": 846,
+                "zoom": 1.3
               },
               "icon": "lucide-file-text",
-              "title": "AA_Wahlplakate-aktuell-"
+              "title": "AB-04-1-Externe-Effekte-1"
             }
           }
         ]
@@ -159,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4c30207f564110c8",
@@ -267,17 +221,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e3325c51f888836e",
+  "active": "ccddab54996de09f",
   "lastOpenFiles": [
+    "Shool/powi/Umweltöknomenie/pdf/übungen/AB-04-1-Externe-Effekte-1.pdf",
+    "Shool/powi/Umweltöknomenie/Übungen Klausur.md",
+    "Shool/Geschi/nation/Was macht eine Nation aus.md",
+    "Shool/Geschi/nation/media/pdf/AA_Wahlplakate-aktuell-.pdf",
     "Shool/Geschi/nation/Wahlplakate.md",
+    "TO DO.md",
     "Shool/Geschi/nation/Nation.md",
     "Shool/Geschi/nation/Nation-HA.md",
     "Shool/Geschi/nation/media/images/wahlplakat-fdp-102.jpg",
     "Shool/Geschi/nation/media/images/images.jpg",
     "Shool/Geschi/nation/media/images",
     "Shool/Geschi/nation/media",
-    "Shool/Geschi/nation/media/pdf/AA_Wahlplakate-aktuell-.pdf",
-    "Shool/Geschi/nation/Was macht eine Nation aus.md",
     "Shool/Geschi/nation/media/pdf/Nationalismus und Patriotische Lyrik_kommentiert.pdf",
     "Shool/Geschi/nation/media/pdf/1_AB_Einstieg_Bilder Nation.pdf",
     "Shool/Geschi/nation/pdf/xournal/Nationalismus und Patriotische Lyrik.xopp~",
@@ -287,7 +244,6 @@
     "conflict-files-obsidian-git.md",
     "Shool/physik/Unbenannt.md",
     "Shool/deutsch/Sturm und Drang/media/Arbeitsplan I Sturm und Drang.pdf",
-    "Shool/deutsch/Sturm und Drang/media/M1 Das Herz schlägt früher, als der Kopf denkt - einfache Sprache.pdf",
     "Shool/deutsch/Sturm und Drang/Unbenannt.md",
     "Shool/Mathe/Lernpfad.md",
     "Shool/Mathe/Unbenannt.md",
@@ -296,7 +252,6 @@
     "Shool/itgk/11-2Halbjahr/Hardware/Präsi Bootvorgang/Bootvorgang.md",
     "Shool/tk/Bilder/Screenshot_20250902_210105.png",
     "Shool/powi/Umweltöknomenie/Nachhaltige Wirtschafts- und Lebesnweise.md",
-    "TO DO.md",
     "Shool/powi/Umweltöknomenie/Klimawandel.md",
     "Shool/powi/Umweltöknomenie/Güterarten.md",
     "Shool/powi/Umweltöknomenie/Karikaturanalyse.md",
@@ -306,8 +261,6 @@
     "Shool/itgk/11-1Halbjar/2025-09-02-Zahlensysteme.md",
     "Shool/itgk/11-1Halbjar/2025-09-19-Schrumpfende-Festplatten.md",
     "Shool/Reli/Jan assman.md",
-    "Shool/itgk/11-2Halbjahr/Hardware/Nicht Präsi/Eva.md",
-    "Shool/englisch/Becomming me/Welcome to the Internet.md",
     "Shool/englisch/Becomming me/Kurz Film Englisch mindmap.canvas",
     "Shool/englisch/Becomming me/media/images/BeforeAfter smartphones.png",
     "Pasted image 20251028120354.png"
