@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a1a53fe679d4443b",
+        "id": "f8b143df4d4eed00",
         "type": "tabs",
         "children": [
           {
-            "id": "0ea93eefbcd3e96c",
+            "id": "fa31bc6409b332ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/chemie/2.Halbjahr/Warm up.md",
+                "file": "Shool/Mathe/Lernpfad.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Warm up"
+              "title": "Lernpfad"
             }
           },
           {
-            "id": "d30acb1427b849bf",
+            "id": "4d4d306c10ce1cfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/chemie/2.Halbjahr/Reaktion von Chlorwasserstoffgas mit Ammoniakgas.md",
+                "file": "Shool/Mathe/Aufgabenplan 12 Exponentialfunktionen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reaktion von Chlorwasserstoffgas mit Ammoniakgas"
-            }
-          },
-          {
-            "id": "3ee1aef6920f4f81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Aufgabenplan 12 Exponentialfunktionen"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4c30207f564110c8",
@@ -245,15 +222,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3ee1aef6920f4f81",
+  "active": "4d4d306c10ce1cfa",
   "lastOpenFiles": [
+    "Shool/Mathe/Unbenannt.md",
+    "Shool/Mathe/Aufgabenplan 12 Exponentialfunktionen.md",
+    "Shool/Mathe/Lernpfad.md",
+    "Shool/chemie/2.Halbjahr/Warm up.md",
     "Shool/chemie/2.Halbjahr/Reaktion von Chlorwasserstoffgas mit Ammoniakgas.md",
     "conflict-files-obsidian-git.md",
     "Temp.md",
     "Shool/deutsch/Sturm und Drang/media/xournal/M2 Zitate einordnen.xopp",
     "Shool/deutsch/Sturm und Drang/media/xournal",
     "Shool/deutsch/Sturm und Drang/media/M2 Zitate einordnen_kommentiert.pdf",
-    "Shool/chemie/2.Halbjahr/Warm up.md",
     "Shool/englisch/Becomming me/Short Film Project key questions.md",
     "Shool/englisch/Becomming me/media/pdf/Short Film Project_key questions.pdf",
     "Shool/englisch/Becomming me/Kurz Film Englisch.md",
@@ -278,14 +258,11 @@
     "Shool/Geschi/nation/media/images/images.jpg",
     "Shool/spanisch/Unidad 4/p56 2026-04-30.md",
     "Shool/physik/Unbenannt.md",
-    "Shool/Mathe/Lernpfad.md",
-    "Shool/Mathe/Unbenannt.md",
     "Shool/itgk/11-2Halbjahr/Hardware/Präsi Bootvorgang/Bootvorgang.md",
     "Shool/tk/Bilder/Screenshot_20250902_210105.png",
     "Shool/powi/Umweltöknomenie/Nachhaltige Wirtschafts- und Lebesnweise.md",
     "Shool/powi/Umweltöknomenie/Klimawandel.md",
     "Shool/powi/Umweltöknomenie/Karikaturanalyse.md",
-    "Shool/powi/Ski - Powi/Nachhaltige Wirtschafts- und Lebesnweise.md",
     "Shool/englisch/Becomming me/Kurz Film Englisch mindmap.canvas",
     "Shool/englisch/Becomming me/media/images/BeforeAfter smartphones.png",
     "Pasted image 20251028120354.png"
