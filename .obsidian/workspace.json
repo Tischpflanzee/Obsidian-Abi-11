@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Reaktion von Chlorwasserstoffgas mit Ammoniakgas"
             }
+          },
+          {
+            "id": "3ee1aef6920f4f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,10 +245,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d30acb1427b849bf",
+  "active": "3ee1aef6920f4f81",
   "lastOpenFiles": [
-    "Shool/chemie/2.Halbjahr/Warm up.md",
     "Shool/chemie/2.Halbjahr/Reaktion von Chlorwasserstoffgas mit Ammoniakgas.md",
+    "conflict-files-obsidian-git.md",
+    "Temp.md",
+    "Shool/deutsch/Sturm und Drang/media/xournal/M2 Zitate einordnen.xopp",
+    "Shool/deutsch/Sturm und Drang/media/xournal",
+    "Shool/deutsch/Sturm und Drang/media/M2 Zitate einordnen_kommentiert.pdf",
+    "Shool/chemie/2.Halbjahr/Warm up.md",
     "Shool/englisch/Becomming me/Short Film Project key questions.md",
     "Shool/englisch/Becomming me/media/pdf/Short Film Project_key questions.pdf",
     "Shool/englisch/Becomming me/Kurz Film Englisch.md",
@@ -239,11 +268,8 @@
     "Shool/deutsch/Sturm und Drang/media/M2 Zitate einordnen.pdf",
     "Shool/deutsch/Sturm und Drang/media/M1 Das Herz schlägt früher, als der Kopf denkt - einfache Sprache.pdf",
     "TO DO.md",
-    "Shool/powi/Umweltöknomenie/pdf/übungen/AB-04-2-Gueterarten-1.pdf",
     "Shool/powi/Umweltöknomenie/Güterarten.md",
     "Shool/powi/Umweltöknomenie/Übungen Klausur.md",
-    "Shool/powi/Halbjahr 1",
-    "Shool/powi/Umweltöknomenie/pdf/übungen/AB-04-1-Externe-Effekte-1.pdf",
     "Shool/Geschi/nation/Was macht eine Nation aus.md",
     "Shool/Geschi/nation/Wahlplakate.md",
     "Shool/Geschi/nation/Nation.md",
@@ -251,7 +277,6 @@
     "Shool/Geschi/nation/media/images/wahlplakat-fdp-102.jpg",
     "Shool/Geschi/nation/media/images/images.jpg",
     "Shool/spanisch/Unidad 4/p56 2026-04-30.md",
-    "conflict-files-obsidian-git.md",
     "Shool/physik/Unbenannt.md",
     "Shool/Mathe/Lernpfad.md",
     "Shool/Mathe/Unbenannt.md",
@@ -261,7 +286,6 @@
     "Shool/powi/Umweltöknomenie/Klimawandel.md",
     "Shool/powi/Umweltöknomenie/Karikaturanalyse.md",
     "Shool/powi/Ski - Powi/Nachhaltige Wirtschafts- und Lebesnweise.md",
-    "Shool/powi/Ski - Powi/Güterarten.md",
     "Shool/englisch/Becomming me/Kurz Film Englisch mindmap.canvas",
     "Shool/englisch/Becomming me/media/images/BeforeAfter smartphones.png",
     "Pasted image 20251028120354.png"
