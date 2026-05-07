@@ -43,9 +43,20 @@ I am mostly influenced by my friends and media. Because my friends influence me 
 
 ## 3.1 What is the main message of your film. What should the audience learn or think about?
 
+The message of the short film should be that i and many other people should do something of their lives an not wasted by beeing allway online!
 
+## 3.2 Choosing what you wannt to tell.
 
+I wannt to show a problem:
+The Problem is that i am seeing more and more people just beeing allways on their phone not communicating beeing lonley and doing nothing with their lives 
 
+# 4 Style and creativity
+
+I want do a documentary and it should be crtical
+
+# 5 Practical planning 
+
+I will film at home.
 
 
 
