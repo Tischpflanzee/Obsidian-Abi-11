@@ -26,8 +26,7 @@ But with social media you dont need to entertain yourself with a Hobby you can j
 
 This is also exactly what i wann to address: The average German is 3 Hours on his Phone 3 Hours just use for something incredible unproduktiv.
 
-If you now think oh that only short form content not texting. I wann to show you this cartoon... 
-
-Its simple but effectiv in showing what i wannt to explain and this is that people are less comunicating not in social media but in Real life  and i wannt to go so far to say that people forgot how to comunicate with others effectifly respectifly comunicate less for example in public places 
+If you now think oh that only short form content not texting then your mabye better but still nearly not good.
+people are less comunicating not in social media but in Real life  and i wannt to go so far to say that people forgot how to comunicate with others effectifly respectifly comunicate less for example in public places 
 
 This was me, of telling you my opnion on this topic fell free to spread awareness to others Goodbye 
