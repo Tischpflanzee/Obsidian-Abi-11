@@ -54,3 +54,20 @@ Punkt Q liegt auf der Greaden f
 
 # 5 
 
+$f(x)=0.2\cdot 5^{x} \ \vert y = 25$
+$25=0.2\cdot 5^{x}\ \vert :0.2$
+
+$125= 5^{x} \ \vert \text{log}$
+$\log_{5}(125)=3$
+Der wert Y nimmt 25 an an stelle 3 an
+	$0.2\cdot 5^{3}=25$
+
+$f(x)=2\cdot 1.5^{x} \ \vert y = 4,5$
+$4.5=2\cdot 1.5^{x} \ \vert:2$
+$2.25=1.5^{x}$
+$\log_{1.5}(2.25)=2$
+Der wert Y nimmt 4,5 an an stelle 2 an
+	$2\cdot 1.5^{2}=4.5$
+
+# 6
+

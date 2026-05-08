@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/englisch/Becomming me/Short Film Project key questions.md",
+                "file": "Shool/englisch/Becomming me/Kurz Film Englisch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Short Film Project key questions"
+              "title": "Kurz Film Englisch"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/englisch/Becomming me/Do something with your Life!.md",
+                "file": "Shool/Mathe/Aufgabenplan 12 Exponentialfunktionen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Do something with your Life!"
+              "title": "Aufgabenplan 12 Exponentialfunktionen"
             }
           }
         ],
@@ -224,14 +224,17 @@
   },
   "active": "3b066bc55ae4351d",
   "lastOpenFiles": [
+    "Shool/Mathe/Lernpfad.md",
     "Shool/englisch/Becomming me/Do something with your Life!.md",
-    "Shool/englisch/Becomming me/Short Film Project key questions.md",
     "Shool/englisch/Becomming me/Kurz Film Englisch.md",
-    "Shool/englisch/Becomming me/media/pdf/Short Film Project_key questions.pdf",
+    "Shool/englisch/Becomming me/Food.md",
     "Shool/englisch/Becomming me/Kurz Film Englisch mindmap.canvas",
+    "Shool/englisch/Becomming me/Unbenannt.md",
+    "Shool/englisch/Becomming me/Welcome to the Internet.md",
+    "Shool/englisch/Becomming me/Short Film Project key questions.md",
+    "Shool/englisch/Becomming me/media/pdf/Short Film Project_key questions.pdf",
     "TO DO.md",
     "Shool/englisch/Becomming me/media/pdf/Trevor Identity.pdf",
-    "Shool/englisch/Becomming me/Unbenannt.md",
     "Shool/deutsch/Sturm und Drang/media/Trevor Identity.pdf",
     "Shool/chemie/2.Halbjahr/Reaktion von Chlorwasserstoffgas mit Ammoniakgas.md",
     "Shool/Mathe/Aufgabenplan 12 Exponentialfunktionen.md",
@@ -252,7 +255,6 @@
     "Shool/spanisch/Unidad 4/p56 2026-04-30.md",
     "Shool/Reli/Jan assman.md",
     "Shool/Mathe/Unbenannt.md",
-    "Shool/Mathe/Lernpfad.md",
     "Shool/Geschi/nation/media/images/wahlplakat-fdp-102.jpg",
     "Shool/Geschi/nation/media/images/images.jpg",
     "Shool/Geschi/nation/Was macht eine Nation aus.md",
@@ -261,8 +263,6 @@
     "Shool/spanisch/Unidad 4/p54 - 2026-04-23.md",
     "Shool/physik/Unbenannt.md",
     "Shool/deutsch/Sturm und Drang/Unbenannt.md",
-    "Shool/chemie/2.Halbjahr/Warm up.md",
-    "Personal/Obsidian/Sonderzeichen.md",
     "Shool/englisch/Becomming me/media/images/BeforeAfter smartphones.png",
     "Pasted image 20251028120354.png"
   ]

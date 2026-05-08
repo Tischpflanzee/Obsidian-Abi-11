@@ -2,6 +2,7 @@ tags: #Englisch #kurzfilm #Psychologie
 
 # Thema 
 
+[[Do something with your Life!]]
 [[Short Film Project key questions]]
 
 
@@ -9,7 +10,7 @@ tags: #Englisch #kurzfilm #Psychologie
 
 ## To Much / Quality of content 
 
-https://archive.is/20260226103440/https://www.sueddeutsche.de/gesundheit/dopamin-fasten-social-media-gluecksspiel-li.3316604
+
 
 
 
