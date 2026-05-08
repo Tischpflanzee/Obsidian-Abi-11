@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "6f5298dcdaf6bcc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "aea4d7107cad2b38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e96dcc134b83aa62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shool/englisch/Becomming me/Kurz Film Englisch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kurz Film Englisch"
+            }
+          },
+          {
+            "id": "3b066bc55ae4351d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shool/Mathe/Aufgabenplan 12 Exponentialfunktionen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Aufgabenplan 12 Exponentialfunktionen"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fde1794f4028fb43",
+    "type": "split",
+    "children": [
+      {
+        "id": "214ae3eaaf90a2db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3b34ff6bfa08b01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "fceff717cf99f759",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9e11b389866a5d50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "eb3b08c1845a19fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c24f0761aef0c611",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a27c76f778e4f46a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Shool/it/Bonbonglas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise auf Bonbonglas"
+            }
+          },
+          {
+            "id": "3003ee41eba5dde3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TO DO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von TO DO öffnen"
+            }
+          },
+          {
+            "id": "278bdb48eeb634ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "84ebdd587963e1cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TO DO.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von TO DO"
+            }
+          },
+          {
+            "id": "bbc3a47052858531",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "markdown-importer:Markdown Importprogramm öffnen": false,
+      "random-note:Zufällige Notiz öffnen": false,
+      "bases:Neue Base erstellen": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "bbc3a47052858531",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Shool/Mathe/Aufgabenplan 12 Exponentialfunktionen.md",
+    "Shool/Mathe/Lernpfad.md",
+    "Shool/englisch/Becomming me/Do something with your Life!.md",
+    "Shool/englisch/Becomming me/Kurz Film Englisch.md",
+    "Shool/englisch/Becomming me/Food.md",
+    "Shool/englisch/Becomming me/Kurz Film Englisch mindmap.canvas",
+    "Shool/englisch/Becomming me/Unbenannt.md",
+    "Shool/englisch/Becomming me/Welcome to the Internet.md",
+    "Shool/englisch/Becomming me/Short Film Project key questions.md",
+    "Shool/englisch/Becomming me/media/pdf/Short Film Project_key questions.pdf",
+    "TO DO.md",
+    "Shool/englisch/Becomming me/media/pdf/Trevor Identity.pdf",
+    "Shool/deutsch/Sturm und Drang/media/Trevor Identity.pdf",
+    "Shool/chemie/2.Halbjahr/Reaktion von Chlorwasserstoffgas mit Ammoniakgas.md",
+    "Shool/Temp.md",
+    "Shool/Reflexion.md",
+    "Temp.md",
+    "Personal/Bücher/Alles Idioten/Alles Idioten.md",
+    "Shool/powi/Umweltöknomenie/Nachhaltige Wirtschafts- und Lebesnweise.md",
+    "README.md",
+    "Shool/deutsch/Sturm und Drang/Aufgabenplan.md",
+    "Shool/deutsch/Sturm und Drang/media/Arbeitsplan I Sturm und Drang.pdf",
+    "Shool/deutsch/Sturm und Drang/media/M2 Zitate einordnen_kommentiert.pdf",
+    "Shool/deutsch/Sturm und Drang/media/xournal/M2 Zitate einordnen.xopp~",
+    "Shool/deutsch/Sturm und Drang/media/xournal/M2 Zitate einordnen.xopp",
+    "Shool/deutsch/Sturm und Drang/media/xournal",
+    "Shool/deutsch/Sturm und Drang/media/M2 Zitate einordnen.pdf",
+    "Shool/deutsch/Sturm und Drang/media/M1 Das Herz schlägt früher, als der Kopf denkt - einfache Sprache.pdf",
+    "Shool/spanisch/Unidad 4/p56 2026-04-30.md",
+    "Shool/Reli/Jan assman.md",
+    "Shool/Mathe/Unbenannt.md",
+    "Shool/Geschi/nation/media/images/wahlplakat-fdp-102.jpg",
+    "Shool/Geschi/nation/media/images/images.jpg",
+    "Shool/Geschi/nation/Was macht eine Nation aus.md",
+    "Shool/Geschi/nation/Wahlplakate.md",
+    "Shool/spanisch/Unidad 4/p54 - 2026-04-23.md",
+    "Shool/physik/Unbenannt.md",
+    "Shool/deutsch/Sturm und Drang/Unbenannt.md",
+    "Shool/englisch/Becomming me/media/images/BeforeAfter smartphones.png",
+    "Pasted image 20251028120354.png"
+  ]
+}
