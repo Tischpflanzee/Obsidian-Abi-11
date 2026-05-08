@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e96dcc134b83aa62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/englisch/Becomming me/Short Film Project key questions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Short Film Project key questions"
-            }
-          },
-          {
             "id": "3b066bc55ae4351d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/englisch/Becomming me/Do something with your Life!.md",
+                "file": "Temp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Do something with your Life!"
+              "title": "Temp"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +54,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Dateiexplorer"
+              "title": "Files"
             }
           },
           {
@@ -113,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "eb3b08c1845a19fc",
@@ -206,30 +180,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graph-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
-      "markdown-importer:Markdown Importprogramm öffnen": false,
-      "random-note:Zufällige Notiz öffnen": false,
-      "bases:Neue Base erstellen": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "3b066bc55ae4351d",
   "lastOpenFiles": [
+    "TO DO.md",
     "Shool/englisch/Becomming me/Do something with your Life!.md",
     "Shool/englisch/Becomming me/Short Film Project key questions.md",
     "Shool/englisch/Becomming me/Kurz Film Englisch.md",
     "Shool/englisch/Becomming me/media/pdf/Short Film Project_key questions.pdf",
     "Shool/englisch/Becomming me/Kurz Film Englisch mindmap.canvas",
-    "TO DO.md",
     "Shool/englisch/Becomming me/media/pdf/Trevor Identity.pdf",
     "Shool/englisch/Becomming me/Unbenannt.md",
     "Shool/deutsch/Sturm und Drang/media/Trevor Identity.pdf",
