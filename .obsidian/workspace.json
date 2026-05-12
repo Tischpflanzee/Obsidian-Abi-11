@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aea4d7107cad2b38",
+        "id": "6fba48e8b0f5a4a4",
         "type": "tabs",
         "children": [
           {
-            "id": "e96dcc134b83aa62",
+            "id": "29e4bbdf61ae61dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shool/englisch/Becomming me/Kurz Film Englisch.md",
+                "file": "Shool/chemie/2.Halbjahr/Reaktion von Chlorwasserstoffgas mit Ammoniakgas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kurz Film Englisch"
-            }
-          },
-          {
-            "id": "3b066bc55ae4351d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shool/Mathe/Aufgabenplan 12 Exponentialfunktionen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Aufgabenplan 12 Exponentialfunktionen"
+              "title": "Reaktion von Chlorwasserstoffgas mit Ammoniakgas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,13 +176,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
@@ -218,16 +191,31 @@
       "random-note:Zufällige Notiz öffnen": false,
       "bases:Neue Base erstellen": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "bbc3a47052858531",
+  "active": "29e4bbdf61ae61dd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Shool/Mathe/Aufgabenplan 12 Exponentialfunktionen.md",
-    "Shool/Mathe/Lernpfad.md",
-    "Shool/englisch/Becomming me/Do something with your Life!.md",
+    "Shool/Geschi/nation/Nation-HA.md",
+    "Shool/Geschi/nation/Wahlplakate.md",
+    "Shool/powi/Umweltöknomenie/pdf/AB-02-Gueterarten.pdf",
+    "Shool/powi/Umweltöknomenie/pdf/AB-02-Gueterarten_kommentiert.pdf",
+    "Shool/powi/Umweltöknomenie/Güterarten.md",
+    "Shool/powi/Umweltöknomenie/Karikaturanalyse.md",
+    "Shool/powi/Umweltöknomenie/Klimawandel.md",
+    "Shool/powi/Umweltöknomenie/Nachhaltige Wirtschafts- und Lebesnweise.md",
+    "Shool/powi/Umweltöknomenie/Übungen Klausur.md",
+    "Shool/physik/2025-09-04-Analyse von kugeln.md",
     "Shool/englisch/Becomming me/Kurz Film Englisch.md",
+    "Shool/Mathe/media/11BG M 12 - Exponentialfunktionen (Einstieg) Ver4.pdf",
+    "Shool/Mathe/Aufgabenplan 12 Exponentialfunktionen.md",
+    "Shool/Mathe/media/11BG M 12 - Aufgabenplan Exponentialfunktionen (A).pdf",
+    "Shool/Mathe/Lernpfad.md",
+    "conflict-files-obsidian-git.md",
+    "Shool/englisch/Becomming me/Do something with your Life!.md",
     "Shool/englisch/Becomming me/Food.md",
     "Shool/englisch/Becomming me/Kurz Film Englisch mindmap.canvas",
     "Shool/englisch/Becomming me/Unbenannt.md",
@@ -242,26 +230,14 @@
     "Shool/Reflexion.md",
     "Temp.md",
     "Personal/Bücher/Alles Idioten/Alles Idioten.md",
-    "Shool/powi/Umweltöknomenie/Nachhaltige Wirtschafts- und Lebesnweise.md",
     "README.md",
     "Shool/deutsch/Sturm und Drang/Aufgabenplan.md",
     "Shool/deutsch/Sturm und Drang/media/Arbeitsplan I Sturm und Drang.pdf",
     "Shool/deutsch/Sturm und Drang/media/M2 Zitate einordnen_kommentiert.pdf",
     "Shool/deutsch/Sturm und Drang/media/xournal/M2 Zitate einordnen.xopp~",
-    "Shool/deutsch/Sturm und Drang/media/xournal/M2 Zitate einordnen.xopp",
-    "Shool/deutsch/Sturm und Drang/media/xournal",
-    "Shool/deutsch/Sturm und Drang/media/M2 Zitate einordnen.pdf",
-    "Shool/deutsch/Sturm und Drang/media/M1 Das Herz schlägt früher, als der Kopf denkt - einfache Sprache.pdf",
     "Shool/spanisch/Unidad 4/p56 2026-04-30.md",
-    "Shool/Reli/Jan assman.md",
-    "Shool/Mathe/Unbenannt.md",
     "Shool/Geschi/nation/media/images/wahlplakat-fdp-102.jpg",
     "Shool/Geschi/nation/media/images/images.jpg",
-    "Shool/Geschi/nation/Was macht eine Nation aus.md",
-    "Shool/Geschi/nation/Wahlplakate.md",
-    "Shool/spanisch/Unidad 4/p54 - 2026-04-23.md",
-    "Shool/physik/Unbenannt.md",
-    "Shool/deutsch/Sturm und Drang/Unbenannt.md",
     "Shool/englisch/Becomming me/media/images/BeforeAfter smartphones.png",
     "Pasted image 20251028120354.png"
   ]

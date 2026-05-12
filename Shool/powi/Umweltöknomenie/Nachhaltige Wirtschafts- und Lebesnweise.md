@@ -1,4 +1,4 @@
-# $\textbf{1}$.Zusammenfassung Fachtext II - Prinzipien der Nachhaltigen Lebensweise/ Strategien verstehen
+# 1.Zusammenfassung Fachtext II - Prinzipien der Nachhaltigen Lebensweise/ Strategien verstehen
 
 Wirtschaftliches handeln soll Grundlegend "nachhaltig" sein. Ohne die Lebens chancen der nächsten Generationen zu verschlechtern und der derzeitigen Generation Verbessern: *z.10*
 
@@ -42,7 +42,7 @@ Das Prinzip der **Partizipation** meint die Teilhabe an **gesellschaftlichen, po
 
 Alle entscheiden mit!
 
-# $\textbf{2}$
+# 2
 
 | Aufgabe | Gütter           | Skitourismus Güter         | Maßnahmen |
 | ------- | ---------------- | -------------------------- | --------- |

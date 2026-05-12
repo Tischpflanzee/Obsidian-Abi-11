@@ -71,3 +71,64 @@ Der wert Y nimmt 4,5 an an stelle 2 an
 
 # 6
 
+$f(x)=1.5^{x}$
+
+$t_{V}=\log_{a}(1.5)$
+$t_{V}=\log_{2}(1.5)$
+$t_{V}=0.585$
+
+$t_{H}=\log_{a}\left( \frac{2}{3} \right)$
+$t_{H}=\log_{\frac{1}{2}}\left( \frac{2}{3} \right)$
+$t_{H}=0.585$
+
+
+# 7
+
+## 7.a
+
+$f(x)=c\cdot a^{x}$
+
+$1.5=c\cdot a^{0}$
+$1.5 = c$
+$3=c\cdot a$
+$3=1.5 \cdot a  \ \vert :1.5$
+$2=a$
+
+Funktionsgleichung: $1.5\cdot 3^{x}$
+
+## 7.b
+
+
+
+# 8
+
+$f(x)=2\cdot \left(\frac{1}{2}\right)^{x} \text{ und } g(x)=16\cdot \left( \frac{1}{4} \right)^{x}$
+$2\cdot \left( \frac{1}{2} \right)^{x}=16\cdot \left( \frac{1}{4} \right)^{x} \ \vert :2$
+$\left( \frac{1}{2} \right)^{x}=8\cdot \left( \frac{1}{4} \right)^{x} \ \vert : \left( \frac{1}{4} \right)^{x}$
+$2^{x}=8$
+$x = \log_{2}(8) \Rightarrow 3$
+$f(3)=2\cdot \left( \frac{1}{2} \right)^{3}$
+$f(3)=\frac{1}{4}$
+
+$SP\left( 3\vert \frac{1}{4} \right)$
+
+# 9 
+
+## 9.a
+
+$f(x)=1500^{x}+100$
+
+## 9.b
+
+$f(x)=1500^{x}+100 \ \vert f(x)=1\ 000\ 000$
+$1\ 000\ 000=1500^{x}+100 \ \vert -100$
+$999\ 900=1500^{x} \ \vert -100$
+$\log_{1500}(999\ 900)=1,889\ 100\ 809$
+$1.889\ 100\ 809\cdot 6=11,334\ 604\ 86\text{ Stunden}$
+
+## 9c
+
+$t_{V}=\log_{2}(1500)$
+$t_{V}=10,550\ 746\ 79$
+
+![[11BG M 12 - Aufgabenplan Exponentialfunktionen (A).pdf]]

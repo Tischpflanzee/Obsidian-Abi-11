@@ -1,3 +1,4 @@
+
 # 1 Externe Effekte des Skitourismus 
 
 ## a Negative Effekte durch den Skitourismus
@@ -19,7 +20,7 @@ Es würde sehr darauf an kommen wo das Geld das extra bezahlt werden muss hingeh
 
 ## a 
 
--
+
 
 [[Güterarten]]
 
