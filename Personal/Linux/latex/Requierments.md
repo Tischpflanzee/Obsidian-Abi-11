@@ -1,3 +1,7 @@
 ```bash
- sudo pacman -S texlive code
+ sudo pacman -Syu texlive code --noconfirm
+```
+
+```bash
+sudo apt install latexmk chktex -y
 ```

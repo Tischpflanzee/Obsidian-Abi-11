@@ -1,11 +1,8 @@
 # Schule
 
 - [ ] Spanisch Vokabeln Unidad 1 Part A
-- [ ] Powi ⏫ [[Nachhaltige Wirtschafts- und Lebesnweise]] --> nacharbeit
-- [ ] Englisch **Fällig Fr 8 Mai 2026**
-- [ ] Mathe Lernpfad **Fällig Fr 8 Mai 2026**
 - [ ] Itgk/TK Website Präsi abgabe **Fällig 29 Mai 2026**
-- [x] Deutsch [[Aufgabenplan]] ✅ 2026-05-04
+
 
 # Sonstiges
 
