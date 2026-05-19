@@ -167,8 +167,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -191,7 +191,6 @@
       "random-note:Zufällige Notiz öffnen": false,
       "bases:Neue Base erstellen": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false
@@ -199,6 +198,14 @@
   },
   "active": "29e4bbdf61ae61dd",
   "lastOpenFiles": [
+    "üp04.md",
+    "Personal/Linux/latex/Requierments.md",
+    "Shool/englisch/Book Club/Unbenannt.md",
+    "Shool/englisch/Book Club/media/judge a book by its cover.pdf",
+    "Shool/englisch/Book Club/media",
+    "Shool/englisch/Book Club",
+    "Shool/powi/Umweltöknomenie/Unbenannt.md",
+    "Shool/powi/Umweltöknomenie/Übungen Klausur.md",
     "Shool/chemie/2.Halbjahr/Reaktion von Chlorwasserstoffgas mit Ammoniakgas.md",
     "TO DO.md",
     "Shool/chemie/2.Halbjahr/Standarte Wasserstoffzuelle.md",
@@ -212,7 +219,6 @@
     "Shool/powi/Umweltöknomenie/Karikaturanalyse.md",
     "Shool/powi/Umweltöknomenie/Klimawandel.md",
     "Shool/powi/Umweltöknomenie/Nachhaltige Wirtschafts- und Lebesnweise.md",
-    "Shool/powi/Umweltöknomenie/Übungen Klausur.md",
     "Shool/physik/2025-09-04-Analyse von kugeln.md",
     "Shool/englisch/Becomming me/Kurz Film Englisch.md",
     "Shool/Mathe/media/11BG M 12 - Exponentialfunktionen (Einstieg) Ver4.pdf",
@@ -230,13 +236,6 @@
     "Shool/englisch/Becomming me/media/pdf/Trevor Identity.pdf",
     "Shool/deutsch/Sturm und Drang/media/Trevor Identity.pdf",
     "Shool/Temp.md",
-    "Shool/Reflexion.md",
-    "Temp.md",
-    "Personal/Bücher/Alles Idioten/Alles Idioten.md",
-    "README.md",
-    "Shool/deutsch/Sturm und Drang/media/Arbeitsplan I Sturm und Drang.pdf",
-    "Shool/deutsch/Sturm und Drang/media/M2 Zitate einordnen_kommentiert.pdf",
-    "Shool/deutsch/Sturm und Drang/media/xournal/M2 Zitate einordnen.xopp~",
     "Shool/Geschi/nation/media/images/wahlplakat-fdp-102.jpg",
     "Shool/Geschi/nation/media/images/images.jpg",
     "Shool/englisch/Becomming me/media/images/BeforeAfter smartphones.png",
