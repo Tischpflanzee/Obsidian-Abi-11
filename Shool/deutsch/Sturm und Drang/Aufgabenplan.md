@@ -1,6 +1,6 @@
 # 1
  
-![[22. April 2026-Dialog über Friedrich Schiller.pdf]]
+
 
 # 2
 
