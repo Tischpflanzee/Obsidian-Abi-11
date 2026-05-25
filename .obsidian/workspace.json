@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6fba48e8b0f5a4a4",
+        "id": "aea4d7107cad2b38",
         "type": "tabs",
         "children": [
           {
-            "id": "29e4bbdf61ae61dd",
+            "id": "e96dcc134b83aa62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Linux/latex/Requierments.md",
+                "file": "Shool/powi/Umweltöknomenie/Übungen Klausur.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Requierments"
+              "title": "Übungen Klausur"
+            }
+          },
+          {
+            "id": "3a87d4d927adbbec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shool/itgk/11-2Halbjahr/Hardware/Präsi Bootvorgang/Bootvorgang.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bootvorgang"
+            }
+          },
+          {
+            "id": "ed2fc8455ec71722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO DO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TO DO"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,34 +240,36 @@
       "random-note:Zufällige Notiz öffnen": false,
       "bases:Neue Base erstellen": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "29e4bbdf61ae61dd",
+  "active": "3a87d4d927adbbec",
   "lastOpenFiles": [
-    "Shool/chemie/2.Halbjahr/Reaktion von Chlorwasserstoffgas mit Ammoniakgas.md",
+    "Test.md",
+    "Shool/itgk/11-2Halbjahr/Hardware/Präsi Bootvorgang/Bootvorgang.md",
     "TO DO.md",
-    "Shool/chemie/2.Halbjahr/Standarte Wasserstoffzuelle.md",
-    "Shool/chemie/2.Halbjahr/Beobachtung.md",
-    "Shool/chemie/2.Halbjahr/media/WhatsApp Image 2026-05-12 at 14.51.33.jpeg",
-    "Shool/Geschi/nation/Nation-HA.md",
-    "Shool/Geschi/nation/Wahlplakate.md",
-    "Shool/powi/Umweltöknomenie/pdf/AB-02-Gueterarten.pdf",
-    "Shool/powi/Umweltöknomenie/pdf/AB-02-Gueterarten_kommentiert.pdf",
-    "Shool/powi/Umweltöknomenie/Güterarten.md",
-    "Shool/powi/Umweltöknomenie/Karikaturanalyse.md",
-    "Shool/powi/Umweltöknomenie/Klimawandel.md",
-    "Shool/powi/Umweltöknomenie/Nachhaltige Wirtschafts- und Lebesnweise.md",
+    "Shool/itgk/11-2Halbjahr/Hardware/Präsi Bootvorgang/media/Post_fehler_tabelle.png",
+    "Shool/itgk/11-2Halbjahr/Hardware/Präsi Bootvorgang/media",
     "Shool/powi/Umweltöknomenie/Übungen Klausur.md",
-    "Shool/physik/2025-09-04-Analyse von kugeln.md",
-    "Shool/englisch/Becomming me/Kurz Film Englisch.md",
-    "Shool/Mathe/media/11BG M 12 - Exponentialfunktionen (Einstieg) Ver4.pdf",
-    "Shool/Mathe/Aufgabenplan 12 Exponentialfunktionen.md",
+    "Shool/_temp/Temp.md",
+    "Temp.md",
+    "Shool/_temp/1_AB_Fachtexte_Nation-Definition.pdf",
+    "Shool/_temp",
+    "Shool/Geschi/nation/Was macht eine Nation aus.md",
+    "Shool/Geschi/nation/Wahlplakate.md",
+    "Shool/Geschi/nation/Nation-HA.md",
+    "Shool/Geschi/nation/Nation.md",
+    "Shool/powi/Umweltöknomenie/Klimawandel.md",
+    "Shool/chemie/2.Halbjahr/media/WhatsApp Image 2026-05-12 at 14.51.33.jpeg",
+    "Shool/chemie/2.Halbjahr/Beobachtung.md",
     "Shool/Mathe/media/11BG M 12 - Aufgabenplan Exponentialfunktionen (A).pdf",
+    "Shool/powi/Umweltöknomenie/Nachhaltige Wirtschafts- und Lebesnweise.md",
+    "Shool/powi/Umweltöknomenie/Karikaturanalyse.md",
+    "Shool/powi/Umweltöknomenie/Güterarten.md",
+    "Shool/englisch/Becomming me/Kurz Film Englisch.md",
+    "Shool/powi/Umweltöknomenie/pdf/AB-02-Gueterarten_kommentiert.pdf",
     "Shool/Mathe/Lernpfad.md",
+    "Shool/Mathe/Aufgabenplan 12 Exponentialfunktionen.md",
     "conflict-files-obsidian-git.md",
     "Shool/englisch/Becomming me/Do something with your Life!.md",
     "Shool/englisch/Becomming me/Food.md",
@@ -229,14 +280,10 @@
     "Shool/englisch/Becomming me/media/pdf/Short Film Project_key questions.pdf",
     "Shool/englisch/Becomming me/media/pdf/Trevor Identity.pdf",
     "Shool/deutsch/Sturm und Drang/media/Trevor Identity.pdf",
-    "Shool/Temp.md",
+    "Shool/chemie/2.Halbjahr/Reaktion von Chlorwasserstoffgas mit Ammoniakgas.md",
     "Shool/Reflexion.md",
-    "Temp.md",
-    "Personal/Bücher/Alles Idioten/Alles Idioten.md",
-    "README.md",
     "Shool/deutsch/Sturm und Drang/media/Arbeitsplan I Sturm und Drang.pdf",
     "Shool/deutsch/Sturm und Drang/media/M2 Zitate einordnen_kommentiert.pdf",
-    "Shool/deutsch/Sturm und Drang/media/xournal/M2 Zitate einordnen.xopp~",
     "Shool/Geschi/nation/media/images/wahlplakat-fdp-102.jpg",
     "Shool/Geschi/nation/media/images/images.jpg",
     "Shool/englisch/Becomming me/media/images/BeforeAfter smartphones.png",
