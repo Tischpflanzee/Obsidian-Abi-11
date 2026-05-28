@@ -51,7 +51,15 @@ Deshalb werden moderne Bootloader in zwei Stufen realisiert, wobei die erste Stu
 
 [^3]:Bsp: CD-Rom,Diskette,USB-Stick
 
-## gpt
+## Kernel
+
+Am Anfang sind die Tätigkeiten des Kernels sehr nahe an der Hardware und.
+
+Anfangs nimmt sich init den prozess 0 und behält dies auch, auch wen dieses nicht sichtbar ist. 
+
+**unfertig**: https://cgvr.cs.uni-bremen.de/teaching/programming_literatur/linuxfibel/booten.htm#kernel
+
+# gpt
 
 [Quelle](https://de.wikipedia.org/wiki/GUID_Partition_Table)
 
@@ -99,11 +107,13 @@ BCDedit.exe
 
 Bsp. Ausgabe:
 
+dc
+
 BCD steht für Boot configuraiton data. In der BCD stehen alle informationen die ein PC braucht um zu booten. Diese Informationen stehen nicht nur in UEFI-Variablen sonder auch in spezilen Dateien  (BCD-Store).
 
 # Linux Boot
 
-### Init
+## Init
 
 
 
@@ -129,7 +139,7 @@ Wenn ein
 
 
 
-# Schnelles Booten 
+
 
 # Bootloader 
 
