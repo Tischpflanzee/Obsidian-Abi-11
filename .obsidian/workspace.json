@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "right": {
     "id": "eb3b08c1845a19fc",
@@ -219,6 +220,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "73b64a2538cf8c89",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
           }
         ],
         "currentTab": 4
@@ -237,14 +252,12 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "markdown-importer:Markdown Importprogramm öffnen": false,
-      "random-note:Zufällige Notiz öffnen": false,
-      "bases:Neue Base erstellen": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3a87d4d927adbbec",
   "lastOpenFiles": [
+    "Shool/itgk/11-2Halbjahr/Hardware/Präsi Bootvorgang/media/MBR_(Master_Boot_Record)_Anatomy.svg",
     "Shool/powi/Umweltöknomenie/Unbenannt.md",
     "Shool/physik/Bahngeschwindigkeit der Erde.md",
     "Shool/physik/Bahngesch..md",
@@ -282,7 +295,6 @@
     "Shool/Mathe/Lernpfad.md",
     "Shool/Mathe/Aufgabenplan 12 Exponentialfunktionen.md",
     "conflict-files-obsidian-git.md",
-    "Shool/englisch/Becomming me/Do something with your Life!.md",
     "Shool/englisch/Becomming me/Kurz Film Englisch mindmap.canvas",
     "Shool/Geschi/nation/media/images/wahlplakat-fdp-102.jpg",
     "Shool/Geschi/nation/media/images/images.jpg",
