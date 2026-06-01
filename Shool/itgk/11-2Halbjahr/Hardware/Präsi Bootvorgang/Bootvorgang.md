@@ -1,4 +1,44 @@
-# Quelle: c't 2026 11 S.152-154
+# Vorwissen
+
+## Runlevel
+
+https://cgvr.cs.uni-bremen.de/teaching/programming_literatur/linuxfibel/booten.htm#sbininit
+
+## Mounten 
+
+Als „mounten“ wird der Vorgang des _Einhängens_ eines Dateisystems in die bestehende Verzeichnisstruktur bezeichnet. Dieses Einhängen ist notwendig, um mit üblichen Programmen auf Dateien eines Dateisystems zugreifen zu können.
+
+## Partitionen
+
+Eine Partition ist ein abgetrennter, logischer Bereich auf einem Datenträger.
+
+## Grundlagen Bash
+
+## PCI-Geräte
+
+Ein PCI-Gerät (Peripheral Component Interconnect) ist eine Hardware-Komponente, die direkt in einen Erweiterungssteckplatz (PCI- oder PCIe-Slot) auf der Hauptplatine (Motherboard) Ihres Computers gesteckt wird.
+
+## Sockets
+
+Ein **Socket** in ist ein Kommunikationsendpunkt zum Datenaustausch 
+
+## Dämonen
+
+Ein Dämon ist ein Computerprogramm, das im Hintergrund und ohne direkte Steuerung durch den Benutzer arbeitet
+
+## Root-Dateisystem
+
+Das **Root-Dateisystem** (auch Wurzelverzeichnis genannt) ist die oberste Ebene der Verzeichnisstruktur.
+
+## Bios-Rom
+
+Das BIOS-ROM  ist der physische Chip auf dem Motherboard eines Computers, der die grundlegende Steuerungssoftware (Firmware) enthält.
+
+## DMA-Controller
+
+Ein DMA-Controller (Direct Memory Access) ist ein spezialisierter Prozessor, der Datentransfers zwischen dem Arbeitsspeicher und Peripheriegeräten (z. B. Festplatten oder Netzwerkkarten) selbstständig durchführ. Er entlastet die CPU vollständig, da diese keine einzelnen Kopierbefehle ausführen muss, was die Systemleistung und den Datendurchsatz massiv erhöht.
+
+# Quelle: [uni-bremen](https://cgvr.cs.uni-bremen.de/teaching/programming_literatur/linuxfibel/booten.htm#sbininit)
 
 ## Bios Selbsttest (Post) 
 
@@ -34,7 +74,6 @@ Welche Bootmedien durchsucht werden und die Reihenfolge, in der das BIOS die Ger
 
 
 
-# Bootloader 
 
 ## Mbr 
 
@@ -53,11 +92,102 @@ Deshalb werden moderne Bootloader in zwei Stufen realisiert, wobei die erste Stu
 
 ## Kernel
 
-Am Anfang sind die Tätigkeiten des Kernels sehr nahe an der Hardware und.
+Am Anfang sind die Tätigkeiten des Kernels sehr nahe an der Hardware und. Er ermittelt aus dem Bios elementare Parameter und schaltet den Prozessor in den Protected mode. Die nächsten Schritte betreffen die Initialisierung der Speicherverwaltung (MMU), des eventuell vorhandenen Coprozessors und der Interruptcontroller sowie die Erzeugung einer minimalen Umgebung.
 
-Anfangs nimmt sich init den prozess 0 und behält dies auch, auch wen dieses nicht sichtbar ist. 
+Die bis jetzt getätigte schritten sind alles Assembler-Routinen. Die weitern Funktionen sind weniger Architekturabhängig und deswegen in der Sprache C implementiert.
 
-**unfertig**: https://cgvr.cs.uni-bremen.de/teaching/programming_literatur/linuxfibel/booten.htm#kernel
+Danach läuft kurzzeitig der Idel-Prozess, der Idle Prozesser ist ein Pseudo-Prozess und ist immer aktiv und kann als zwichenablage für die ungenutzte Proessor Kapzität verstanden werden.[^4] Danach ist er nicht mehr sichtbar 
+
+[^4]:https://de.wikipedia.org/wiki/Leerlaufprozesshttps://de.wikipedia.org/wiki/Leerlaufprozess
+
+Danach nimmt sich der init Process die Prozessnummer 0 und gilt dann als erster Prozess. Jeder Prozess bzw. Prozessfamile wird hat irgendwo den ursprung von Init.<br>
+Init sorgt auch für seine absoluter Alleinherrschaft und sperrt prozess 0 bzw.  den Zugang zu den Kernelfunktionen, da in den nächsten Schriten init keiner dazwichen funken darf. Init kommt seinen Namen gleich und fängt an zu initialisieren, worum es sich konkret handel hängt zwar vom Kernel, grundlegend werden PCI-Geräte und Sockets.
+Ersten Dämonen werden ins Leben gerufen bdflush zu synchronisation von Cache und Dateisystemen und der kswapd zur Verwaltung des Swapspeichers. Anschließend wird dem Kernel unterstützte Binärformate und Dateisysteme bekannt gegeben und anschließen wird versucht, das Root-Dateisystem zu mounten. Ist nichts Schief gelaufen gibt init den Kernel wieder Frei und lässt den anderen Prozessen eine Chance
+
+
+
+
+### Ramdisks 
+
+Um auf Hardware zugreifen zu können braucht Linux entsprechende treibe zum Beispiel Treiber für den Festplatten-Controller. Diese Treibe können entweder direkt in dem Kernel integriert sein oder auf dynamisch ladbaren Modulen vorliegen. Die Menge der fest einkompilierten Treiber ist allerdings beschränkt, da in der Ladephase des Kernels dieser vollständig in den Hauptspeicher passen muss. Zum Zeitpunkt des Ladens befindet sich der Rechner noch im Real Modus, dass heißt das der adressierbare Hauptspeicher und damit auch die Größe des Kernels begrenzt ist. (640kByte)
+
+#### Problem
+
+Um module Verwenden zu können müssen diese irgendwo auf der Festplatte liegen, dass heißt der Kernel muss auf die festplatte zugreifen können wofür er den Treiber braucht. Nur leider gibt es nicht den einen Treiber es gibt etliche Treiber. Bei einem Universalen Treiber wie z.B linux sind das ziemlich viele Treiber.
+
+#### Lösung
+
+Eine Ramdisk ist ein Lösung zu diesem Problem und löst dies in zwei schritten. Die Ramdisk belegt einen Teil des RAM und legt ein Dateisystem an. Der bootloader legt nun in diesem Speicher die datei »initrd« und den (minimalen)Kernel hintereinander ab. Der nun zu startenen (minimalen) Kernel. Dieser Kernel erhält nun den Treiber, um den Inhalt aus von »initrd« in eine Ramdisk zu entpacken und diese als sein Root-Dateisystem zu mounten. Die ursprüngliche Datei »initrd« wird aus dem Hauptspeicher entfernt. 
+
+In der Ramdisk sollte nun eine Datei /linuxrc existieren, die nun abgearbeitet wird (im auftrag beinhaltet diese ausführbare Datei Schritte zum Testen der Hardware und zum Laden der notwendigen Module zum Zugriff auf die erkannten Geräte). Sobald die Datei abgearbeitet wurde, wird das »eigentliche« Dateisystem als Wurzelverzeichnis gemountet.
+
+
+## Der erste Prozess 
+
+Bei einer Fehlenden Configartionsdatei von init, bootet das System in den Singel User Modus, diese stellt nur die nötigsten Prozesse zur Verfügung um dem Systemadministrator alle möglichen Ressourcen  zu geben. Außerdem gibt es dem Systemadministrator die Option sich anzumelden. 
+
+Im falle eines Multi user Modus lässt **init** alle dem jeweiligen Runlevel zugeordneten Skripte von einem Shellskript namens **rc** starten. Das ist auch der Zeitpunkt wo die zahlreichen Meldungen über gestartete Dämonenprozesse über den Bildschirm flimmern. Ist das aktuelle Runlevel erreicht dann starte init eine Reihe von getty-Prozessen, die dann wiederum das Komando für den Login ausführen.
+
+### Bsp. eines Init-Skripts
+
+
+```bash
+#!/bin/sh  
+#  
+# xfs:       Starts the X Font Server  
+#  
+# Version:      @(#) /etc/rc.d/init.d/xfs 1.6  
+#  
+# chkconfig: 2345 90 10  
+# description: Starts and stops the X Font Server at boot time and shutdown.  
+#  
+# processname: xfs  
+# config: /etc/X11/fs/config  
+# hide: true  
+  
+# Source function library.  
+. /etc/rc.d/init.d/functions  
+# See how we were called.  
+case "$1" in  
+  start)  
+        echo -n "Starting X Font Server: "  
+        rm -fr /tmp/.font-unix  
+        daemon xfs -droppriv -daemon -port -1  
+        touch /var/lock/subsys/xfs  
+        echo  
+        ;;  
+  stop)  
+        echo -n "Shutting down X Font Server: "  
+        killproc xfs  
+        rm -f /var/lock/subsys/xfs  
+        echo  
+        ;;  
+  status)  
+        status xfs  
+        ;;  
+  restart)  
+        echo -n "Restarting X Font Server. "  
+        if [ -f /var/lock/subsys/xfs ]; then  
+            killproc xfs -USR1  
+        else  
+            rm -fr /tmp/.font-unix  
+            daemon xfs -droppriv -daemon -port -1  
+            touch /var/lock/subsys/xfs  
+        fi  
+        echo  
+        ;;  
+  *)  
+        echo "*** Usage: xfs {start|stop|status|restart}"  
+        exit 1  
+esac  
+  
+exit 0
+```
+
+
+
+
+
 
 # gpt
 
@@ -76,7 +206,7 @@ Anfangs nimmt sich init den prozess 0 und behält dies auch, auch wen dieses nic
 
 [Quelle](https://cgvr.cs.uni-bremen.de/teaching/programming_literatur/linuxfibel/booten.htm#allg)
 
-# Windows uefi boot
+# Windows uefi boot Quelle: c't 2026 11 S.152-154
 
 ## Schritt 1: UEFI
 
@@ -156,12 +286,15 @@ Einschalten des Computers Power on self test durchführen$^{\color{blue}{1}}$
 
 # Quellen
 
-1. Linux-boot https://wiki.ubuntuusers.de/Bootvorgang/
-2. Linux-boot https://documentation.suse.com/de-de/sled/15-SP5/html/SLED-all/cha-boot.html
+1. [Linux-boot-ubuntu](https://wiki.ubuntuusers.de/Bootvorgang/)
+2. [Linux-boot-suse](https://documentation.suse.com/de-de/sled/15-SP5/html/SLED-all/cha-boot.html)
 3. https://wiki.archlinux.org/title/Arch_boot_process
 4. [uni-bremen/Bootvorgang](https://cgvr.cs.uni-bremen.de/teaching/programming_literatur/linuxfibel/booten.htm)
 5. [Startup Windows Init vergleich](https://www.reddit.com/r/windows/comments/2on5ln/windows_init_system/?tl=de)
 6. [Boot process von Windows](https://en.wikipedia.org/wiki/Booting_process_of_Windows) Windows nt soll sehr ähnlich so Windows 10 sein nach Quelle 5 
+7. [Wiki Leerlaufprozess](https://de.wikipedia.org/wiki/Leerlaufprozesshttps://de.wikipedia.org/wiki/Leerlaufprozess)
 
 
 [^3]: Bsp: CD-Rom,Diskette,USB-Stick
+
+[^4]: 
