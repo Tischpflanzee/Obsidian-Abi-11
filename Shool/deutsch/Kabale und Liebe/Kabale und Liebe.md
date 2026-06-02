@@ -27,8 +27,11 @@
 - Lady Milford liebt Ferdinand 
 - v            v      bekommt einen Brillant für die Hochzeit
 	- Der brillant wurde Finanziert durch den verkauf von soldaten nach amerika wodurch sie ihn nicht behalten will 
-		- Die söhne des Kammerdieners simd auch darunter 
-		- 
+		- Die söhne des Kammerdieners sind auch darunter 
+- Gespräch Lady Milford mit Ferdinand 
+	- Ferdinand sagt das die Hochzeit erzwungen von seinem Vater ist.
+	- Lady Milford ist entäuscht zeigt offen ihre gefühle.
+	- 
 
 
 
