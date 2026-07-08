@@ -1,8 +1,5 @@
 # Schule
 
-- [ ] Spanisch Vokabeln Unidad 1 Part A
-- [ ] Itgk/TK Website Präsi abgabe **Fällig 29 Mai 2026**
-- [ ]  Abgabe Spiel **Fällig 25 Mai 2026**
 
 # Sonstiges
 
@@ -16,6 +13,6 @@
 
 - [ ] Kapitel Lesen
 - [ ] Sport
-- [ ] Creatin 
-- [ ] Spanisch Vokabeln 
+- [x] Creatin 
+
 - [ ] Fahrschule 
